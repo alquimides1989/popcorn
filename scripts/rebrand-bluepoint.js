@@ -62,6 +62,59 @@ const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy, icon
   fs.writeFileSync(file, html, "utf8");
 };
 
+const trailerItems = [
+  {
+    title: "Call of Duty: Black Ops 7 & Warzone - Season 04 Launch Trailer",
+    meta: "PS5 y PS4 · PlayStation oficial",
+    videoId: "GQU0QLE9mdY",
+  },
+  {
+    title: "Fallout 76 - Infestations Gameplay Trailer",
+    meta: "PS5 y PS4 · PlayStation oficial",
+    videoId: "frVlAoQOnfY",
+  },
+  {
+    title: "Where Winds Meet - Imperial Palace Expansion Chapter 2 Trailer",
+    meta: "PS5 · PlayStation oficial",
+    videoId: "tapDbkUzRyg",
+  },
+  {
+    title: "Rainbow Six Siege - Operation System Override Launch Trailer",
+    meta: "PS5 y PS4 · PlayStation oficial",
+    videoId: "NrG2eUbeSEE",
+  },
+  {
+    title: "Satisfactory - 1.2 Update Trailer",
+    meta: "PS5 · PlayStation oficial",
+    videoId: "VE09EvKaTRw",
+  },
+  {
+    title: "2XKO - Senna Gameplay Reveal Trailer",
+    meta: "PS5 · PlayStation oficial",
+    videoId: "SfMfmRcvmhs",
+  },
+];
+
+const trailerSection = `<section class="trailer-strip" id="trailers">
+        <div class="section-heading">
+          <h2>Trailers oficiales PS5</h2>
+          <p>Ultimos videos publicados en el canal oficial de PlayStation en YouTube.</p>
+        </div>
+        <div class="trailer-grid">
+          ${trailerItems
+            .map(
+              (item) => `<a class="trailer-card" href="https://www.youtube.com/watch?v=${item.videoId}" target="_blank" rel="noopener">
+            <span class="trailer-thumb">
+              <img src="https://i.ytimg.com/vi/${item.videoId}/hqdefault.jpg" alt="" loading="lazy" />
+              <span class="play-badge" aria-hidden="true"></span>
+            </span>
+            <span class="trailer-copy"><strong>${item.title}</strong><small>${item.meta}</small></span>
+          </a>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
 const home = `${head("BluePoint")}
   <body data-group="playstation">
     ${nav("Inicio")}
@@ -115,6 +168,8 @@ const home = `${head("BluePoint")}
         </div>
         <div class="news-grid" data-news-grid></div>
       </section>
+
+      ${trailerSection}
 
       <section class="newsletter" aria-label="Suscripcion">
         <div class="mail-icon" aria-hidden="true">✉</div>
