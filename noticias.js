@@ -48,7 +48,47 @@ const FALLBACK_NEWS = {
   ],
 };
 
+const RELATED_IMAGE_RULES = [
+  {
+    terms: ["State of Play", "Marvel's Wolverine", "Wolverine"],
+    image: {
+      url: "https://blog.playstation.com/tachyon/2086/05/a752370ce16df03754ac285695174544a31bf13e.png?crop_strategy=smart&resize=1088%2C612",
+      alt: "Grafico oficial del State of Play del 2 de junio",
+      kind: "graphic",
+      credit: "PlayStation Blog",
+      sourceUrl: "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/",
+    },
+  },
+  {
+    terms: ["PS Plus", "PlayStation Plus", "Grounded", "Darktide", "Nickelodeon"],
+    image: {
+      url: "https://blog.playstation.com/tachyon/2026/05/7ceda89d7b005abcfaafbf018adca62bd6beb679-scaled.jpg?crop_strategy=smart&resize=1088%2C612",
+      alt: "Imagen oficial de los juegos mensuales de PlayStation Plus de junio",
+      kind: "graphic",
+      credit: "PlayStation Blog",
+      sourceUrl:
+        "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/",
+    },
+  },
+];
+
 const EDITORIAL_IMAGES = {
+  PlayStation: [
+    {
+      url: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+      alt: "Mando DualSense sobre una mesa iluminada",
+      kind: "photo",
+      credit: "Unsplash",
+      sourceUrl: "https://unsplash.com/",
+    },
+    {
+      url: "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&w=1200&q=82",
+      alt: "Mando de videojuegos iluminado en azul",
+      kind: "photo",
+      credit: "Unsplash",
+      sourceUrl: "https://unsplash.com/",
+    },
+  ],
   Cine: [
     {
       url: "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=900&q=82",
@@ -137,6 +177,11 @@ function isLogoLikeImage(image) {
 }
 
 function getNewsImage(item, index = 0) {
+  const relatedImage = getRelatedImage(item);
+  if (relatedImage && isLogoLikeImage(item.image)) {
+    return relatedImage;
+  }
+
   const editorialSet = EDITORIAL_IMAGES[item.category];
   if (editorialSet && isLogoLikeImage(item.image)) {
     return editorialSet[index % editorialSet.length];
@@ -152,8 +197,21 @@ function getNewsImage(item, index = 0) {
 
   return FALLBACK_NEWS.items[0].image;
 }
+
+function getRelatedImage(item) {
+  const haystack = [item.title, item.summary, item.source, ...(Array.isArray(item.tags) ? item.tags : [])].join(" ");
+  return RELATED_IMAGE_RULES.find((rule) =>
+    rule.terms.some((term) => haystack.toLowerCase().includes(term.toLowerCase()))
+  )?.image;
+}
 const isLogoImage = (url = "") =>
   url.includes("simpleicons.org") || url.endsWith(".svg") || url.includes("wikimedia.org");
+
+function getMediaClass(image) {
+  if (image?.kind === "graphic") return "news-art graphic-style";
+  if (isLogoImage(image?.url) || image?.kind === "logo") return "news-art logo-style";
+  return "news-art photo-style";
+}
 
 function renderArticleBody(item) {
   const paragraphs = Array.isArray(item.body) && item.body.length ? item.body : [item.summary];
@@ -200,9 +258,10 @@ function renderNow(items) {
     const category = escapeText(item.category || "Actualidad");
     const className = getCategoryClass(item.category);
     const href = getCategoryLink(item.category);
-    const logoClass = isLogoImage(item.image?.url) ? " logo-style" : "";
-    const image = item.image?.url
-      ? `<img src="${escapeText(item.image.url)}" alt="" loading="lazy" />`
+    const newsImage = getNewsImage(item);
+    const logoClass = newsImage?.kind === "graphic" ? " graphic-style" : isLogoImage(newsImage?.url) ? " logo-style" : "";
+    const image = newsImage?.url
+      ? `<img src="${escapeText(newsImage.url)}" alt="" loading="lazy" />`
       : `<span>${category.slice(0, 2)}</span>`;
 
     return `
@@ -226,13 +285,13 @@ function renderGrid(items) {
   grid.innerHTML = items.slice(0, 8).map((item, index) => {
     const category = escapeText(item.category || "Actualidad");
     const className = getCategoryClass(item.category);
-    const isWide = index >= 4 || item.category === "Cine" || item.category === "Series";
-    const articleClass = isWide ? `wide-card ${className}` : `news-card ${className}`;
     const newsImage = getNewsImage(item, index);
+    const isWide = newsImage.kind === "graphic" || index >= 4 || item.category === "Cine" || item.category === "Series";
+    const articleClass = isWide ? `wide-card ${className}` : `news-card ${className}`;
     const image = newsImage.url;
     const imageAlt = newsImage.alt || item.title || "Imagen relacionada";
-    const mediaClass = isLogoImage(image) || newsImage.kind === "logo" ? "news-art logo-style" : "news-art photo-style";
-    const credit = item.image?.credit ? `<small class="image-credit">${escapeText(item.image.credit)}</small>` : "";
+    const mediaClass = getMediaClass(newsImage);
+    const credit = newsImage.credit ? `<small class="image-credit">${escapeText(newsImage.credit)}</small>` : "";
     const source = item.source ? `<p class="source-note">Fuente: ${escapeText(item.source)}</p>` : "";
     const confidence = item.confidence ? `<span>${escapeText(item.confidence)}</span>` : "";
 
@@ -289,7 +348,7 @@ function renderList(items) {
     const newsImage = getNewsImage(item, index);
     const image = newsImage.url;
     const imageAlt = newsImage.alt || item.title || "Imagen relacionada";
-    const mediaClass = isLogoImage(image) || newsImage.kind === "logo" ? "news-art logo-style" : "news-art photo-style";
+    const mediaClass = getMediaClass(newsImage);
     const published = item.publishedAt || item.detectedAt || "";
     const dateText = published ? new Date(published).toLocaleDateString("es-ES") : "Actualidad";
     const source = item.source ? `<p class="source-note">Fuente: ${escapeText(item.source)}</p>` : "";

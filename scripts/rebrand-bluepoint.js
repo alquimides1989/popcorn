@@ -1,6 +1,6 @@
 const fs = require("node:fs");
 
-const scriptVersion = "6";
+const scriptVersion = "7";
 
 const head = (title) => `<!doctype html>
 <html lang="es">
@@ -14,6 +14,8 @@ const head = (title) => `<!doctype html>
     <link rel="stylesheet" href="./styles.css" />
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
   </head>`;
+
+const sectionIcon = (name) => `<span class="section-icon ${name}-icon" aria-hidden="true"></span>`;
 
 const nav = (active) => {
   const items = [
@@ -38,7 +40,7 @@ const nav = (active) => {
     </header>`;
 };
 
-const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy }) => {
+const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy, icon }) => {
   const html = `${head(title)}
   <body ${bodyAttr}>
     ${nav(active)}
@@ -49,7 +51,7 @@ const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy }) =>
           <h1>${heading}</h1>
           <p>${copy}</p>
         </div>
-        <div class="section-logo"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></div>
+        <div class="section-logo">${sectionIcon(icon)}</div>
       </section>
       <section class="section-layout news-only"><div class="article-stack" data-news-list></div></section>
     </main>
@@ -96,10 +98,12 @@ const home = `${head("BluePoint")}
           <p>Accesos directos a las areas clave del ecosistema PlayStation.</p>
         </div>
         <div class="platform-grid">
-          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play →</b></span></a>
-          <a class="platform-card play" href="./playstation.html"><span class="platform-icon"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias →</b></span></a>
-          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus →</b></span></a>
-          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos →</b></span></a>
+          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play →</b></span></a>
+          <a class="platform-card play" href="./playstation.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias →</b></span></a>
+          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus →</b></span></a>
+          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos →</b></span></a>
+          <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores →</b></span></a>
+          <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias →</b></span></a>
         </div>
       </section>
 
@@ -131,6 +135,7 @@ sectionPage({
   label: "PlayStation",
   heading: "Noticias PS5",
   copy: "Actualidad de PS5, PlayStation Studios, PS Plus, accesorios y proximos lanzamientos.",
+  icon: "ps5",
 });
 
 sectionPage({
@@ -141,6 +146,7 @@ sectionPage({
   label: "State of Play",
   heading: "Eventos PlayStation",
   copy: "Anuncios, trailers, gameplay y claves de cada presentacion de Sony.",
+  icon: "state",
 });
 
 sectionPage({
@@ -151,6 +157,7 @@ sectionPage({
   label: "PS Plus",
   heading: "PlayStation Plus",
   copy: "Juegos mensuales, catalogo Extra y Premium, rotaciones y servicios.",
+  icon: "plus",
 });
 
 sectionPage({
@@ -161,6 +168,7 @@ sectionPage({
   label: "Exclusivos",
   heading: "Exclusivos PlayStation",
   copy: "PlayStation Studios, acuerdos third party, PS5 y grandes nombres del catalogo.",
+  icon: "exclusive",
 });
 
 sectionPage({
@@ -171,6 +179,7 @@ sectionPage({
   label: "Rumores",
   heading: "Rumores PlayStation",
   copy: "Filtraciones y pistas tratadas con prudencia, contexto y nivel de confianza.",
+  icon: "rumor",
 });
 
 sectionPage({
@@ -181,6 +190,7 @@ sectionPage({
   label: "Guias",
   heading: "Guias PlayStation",
   copy: "Consejos, explicaciones y claves practicas para jugadores de PS5.",
+  icon: "guide",
 });
 
 ["videojuegos.html", "xbox.html", "nintendo.html", "pc.html", "cine.html", "series.html"].forEach((file) => {
@@ -191,7 +201,7 @@ sectionPage({
     <main class="page-shell">
       <section class="section-hero play-theme">
         <div><span class="label">BluePoint</span><h1>BluePoint ahora es PlayStation</h1><p>Esta seccion se ha integrado en la nueva cobertura centrada en PS5.</p></div>
-        <div class="section-logo"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></div>
+        <div class="section-logo">${sectionIcon("ps5")}</div>
       </section>
       <section class="section-layout news-only"><div class="article-stack" data-news-list></div></section>
     </main>

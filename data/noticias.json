@@ -95,11 +95,11 @@
       "publishedAt": "2026-05-20T00:00:00+02:00",
       "confidence": "Confirmado por PlayStation",
       "image": {
-        "url": "https://cdn.simpleicons.org/playstation/ffffff",
-        "alt": "Logotipo de PlayStation para State of Play",
-        "kind": "logo",
-        "credit": "Simple Icons",
-        "sourceUrl": "https://simpleicons.org/icons/playstation"
+        "url": "https://blog.playstation.com/tachyon/2086/05/a752370ce16df03754ac285695174544a31bf13e.png?crop_strategy=smart&resize=1088%2C612",
+        "alt": "Grafico oficial del State of Play del 2 de junio",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/"
       }
     },
     {
@@ -220,11 +220,11 @@
       "publishedAt": "2026-05-26T00:00:00+02:00",
       "confidence": "Confirmado por Sony segun la fuente",
       "image": {
-        "url": "https://cdn.simpleicons.org/playstation/ffffff",
-        "alt": "Logotipo de PlayStation",
-        "kind": "logo",
-        "credit": "Simple Icons",
-        "sourceUrl": "https://simpleicons.org/icons/playstation"
+        "url": "https://blog.playstation.com/tachyon/2026/05/7ceda89d7b005abcfaafbf018adca62bd6beb679-scaled.jpg?crop_strategy=smart&resize=1088%2C612",
+        "alt": "Imagen oficial de los juegos mensuales de PlayStation Plus de junio",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/"
       }
     },
     {
