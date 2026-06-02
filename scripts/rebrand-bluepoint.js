@@ -11,7 +11,7 @@ const head = (title) => `<!doctype html>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
-    <link rel="icon" href="./assets/bluepoint-logo.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/bluepoint-symbol.png" type="image/png" />
     <link rel="stylesheet" href="./styles.css" />
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
   </head>`;
@@ -33,8 +33,7 @@ const nav = (active) => {
 
   return `<header class="site-header">
       <a class="brand bluepoint-brand" href="./index.html" aria-label="BluePoint">
-        <span class="brand-line"><span class="cyan">Blue</span><span class="gold">Point</span></span>
-        <span class="tagline">PS5 · PS Plus · Exclusivos</span>
+        <img class="brand-wordmark" src="./assets/bluepoint-wordmark.png" alt="BluePoint" />
       </a>
       <nav class="nav" aria-label="Principal">
         ${items.map(([label, href]) => `<a${label === active ? ' class="active"' : ""} href="./${href}">${label}</a>`).join("\n        ")}
