@@ -1,0 +1,7 @@
+data/x-oauth-state.json
+.env
+.env.*
+node_modules/
+*.log
+Thumbs.db
+.DS_Store

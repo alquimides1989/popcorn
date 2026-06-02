@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-06-02T08:35:50.791Z",
+  "items": [
+    {
+      "newsId": "fortnite-nueva-temporada-skins-john-wick",
+      "text": "Fortnite revela las skins de su nueva temporada y suma un nuevo John Wick al Pase de Batalla. El arranque esta previsto para el 5 de junio. #PixelPopcorn #Fortnite #Videojuegos #Gaming",
+      "hashtags": ["#PixelPopcorn", "#Fortnite", "#Videojuegos", "#Gaming"],
+      "status": "pending_credentials",
+      "imageAlt": "Set de juego con pantalla y luces de colores",
+      "imageCredit": "Unsplash",
+      "createdAt": "2026-06-02T02:15:00+02:00"
+    },
+    {
+      "newsId": "scary-movie-6-trailer-final",
+      "text": "Scary Movie 6 ensena su trailer final antes de volver a los cines el 12 de junio con nueva ronda de parodia y humor de terror. #PixelPopcorn #Cine #ScaryMovie #Estrenos",
+      "hashtags": ["#PixelPopcorn", "#Cine", "#ScaryMovie", "#Estrenos"],
+      "status": "pending_credentials",
+      "imageAlt": "Butacas de cine iluminadas en una sala oscura",
+      "imageCredit": "Unsplash",
+      "createdAt": "2026-06-02T02:15:00+02:00"
+    },
+    {
+      "newsId": "theos-cities-of-myth-pc-city-builder",
+      "text": "Theos: Cities of Myth recupera el city builder clasico con una apuesta de gestion urbana ambientada en la Antigua Grecia. Dotemu y Triskell lo preparan para PC en 2026. #PixelPopcorn #PCGaming #TheosCitiesOfMyth #Videojuegos",
+      "hashtags": [
+        "#PixelPopcorn",
+        "#PCGaming",
+        "#TheosCitiesOfMyth",
+        "#Videojuegos"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Steam para PC Gaming",
+      "imageCredit": "Simple Icons",
+      "createdAt": "2026-06-02T01:58:00+02:00",
+      "lastCheckedAt": "2026-06-02T08:35:50.790Z",
+      "lastError": "X API 402: Your enrolled account [2061588991472746496] does not have any credits to fulfill this request."
+    },
+    {
+      "newsId": "xbox-showcase-2026-fecha-gears-eday",
+      "text": "Xbox ya tiene fecha para su gran Showcase de junio: 7 de junio a las 19:00 CEST, con Gears of War: E-Day como foco confirmado. #PixelPopcorn #Xbox #GearsOfWar #Gaming",
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Xbox",
+        "#GearsOfWar",
+        "#Gaming"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Xbox",
+      "imageCredit": "Wikimedia Commons",
+      "createdAt": "2026-06-02T01:58:00+02:00",
+      "lastCheckedAt": "2026-06-01T23:16:31.353Z"
+    },
+    {
+      "newsId": "resident-evil-requiem-demo-multiplataforma",
+      "text": "Resident Evil Requiem estrena demo gratuita en PC, PS5, Xbox Series X|S y Nintendo Switch 2, con unos 45 minutos de juego. #PixelPopcorn #ResidentEvil #Videojuegos #Gaming",
+      "hashtags": [
+        "#PixelPopcorn",
+        "#ResidentEvil",
+        "#Videojuegos",
+        "#Gaming"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Pasillo oscuro relacionado con terror y suspense",
+      "imageCredit": "Unsplash",
+      "createdAt": "2026-06-02T01:58:00+02:00",
+      "lastCheckedAt": "2026-06-01T23:16:31.353Z"
+    },
+    {
+      "newsId": "ps-plus-junio-2026-grounded-darktide-nickelodeon",
+      "text": "PlayStation Plus prepara un junio variado con Darktide, Grounded Fully Yoked Edition y Nickelodeon All-Star Brawl 2. #PixelPopcorn #PlayStation #PSPlus #Videojuegos",
+      "hashtags": [
+        "#PixelPopcorn",
+        "#PlayStation",
+        "#PSPlus",
+        "#Videojuegos"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de PlayStation",
+      "imageCredit": "Simple Icons",
+      "createdAt": "2026-06-02T01:58:00+02:00",
+      "lastCheckedAt": "2026-06-01T23:16:31.353Z"
+    },
+    {
+      "newsId": "star-fox-switch-2-junio-2026",
+      "text": "Star Fox vuelve en Switch 2 con una revision inspirada en Star Fox 64, nuevas opciones de control y multijugador online. #PixelPopcorn #Nintendo #StarFox #Videojuegos",
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Nintendo",
+        "#StarFox",
+        "#Videojuegos"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Nintendo",
+      "imageCredit": "Simple Icons",
+      "createdAt": "2026-06-02T01:58:00+02:00",
+      "lastCheckedAt": "2026-06-01T23:16:31.353Z"
+    }
+  ]
+}

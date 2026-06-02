@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pixel & Popcorn</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./noticias.js?v=4" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="Pixel and Popcorn">
+        <span class="brand-line">
+          <span class="cyan">Pixel</span>
+          <span class="amp">&amp;</span>
+          <span class="gold">Popcorn</span>
+        </span>
+        <span class="tagline">Gaming · Cine · Series</span>
+      </a>
+
+      <nav class="nav" aria-label="Principal">
+        <a class="active" href="./index.html">Inicio</a>
+        <a href="./videojuegos.html">Videojuegos</a>
+        <a href="./xbox.html">Xbox</a>
+        <a href="./playstation.html">PlayStation</a>
+        <a href="./nintendo.html">Nintendo</a>
+        <a href="./pc.html">PC</a>
+        <a href="./cine.html">Cine</a>
+        <a href="./series.html">Series</a>
+      </nav>
+
+      <a class="learn" href="./videojuegos.html">Aprender más <span aria-hidden="true">›</span></a>
+    </header>
+
+    <main class="page-shell">
+      <section class="ticker" aria-label="Última hora" data-news-ticker>
+        <strong><span aria-hidden="true">⚡</span> Última hora</strong>
+        <span>Nuevo tráiler destacado</span>
+        <span>Rumores de Nintendo</span>
+        <span>Xbox prepara novedades</span>
+        <span>Estrenos de cine</span>
+        <span>Series renovadas</span>
+      </section>
+
+      <section class="top-grid" id="noticias">
+        <article class="hero-panel">
+          <div class="hero-copy">
+            <div class="chips" aria-label="Categorías">
+              <span>Gaming</span>
+              <span>Cine</span>
+              <span>Series</span>
+            </div>
+            <h1>Noticias de videojuegos, cine y series en un solo lugar</h1>
+            <p>
+              Pixel & Popcorn reúne actualidad gaming por plataforma, estrenos de cine,
+              nuevas temporadas, tráilers y guías rápidas para lectores que quieren ir al grano.
+            </p>
+            <div class="hero-actions">
+              <a class="primary-btn" href="#destacadas">Ver noticias <span aria-hidden="true">›</span></a>
+              <a class="ghost-btn" href="#cine">Ver cine y series</a>
+            </div>
+          </div>
+        </article>
+
+        <aside class="now-panel" aria-label="Ahora mismo" data-news-now>
+          <h2>Ahora mismo</h2>
+          <a class="now-item xbox" href="./xbox.html">
+            <span class="logo-mark">
+              <span class="official-logo xbox-logo" aria-hidden="true">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="" />
+              </span>
+            </span>
+            <span>
+              <strong>Xbox prepara nuevos anuncios para sus próximos lanzamientos</strong>
+              <small><b>Xbox</b> · Hace unos minutos</small>
+            </span>
+          </a>
+          <a class="now-item nintendo" href="./nintendo.html">
+            <span class="logo-mark"><span class="official-logo nintendo-logo" aria-hidden="true">Nintendo</span></span>
+            <span>
+              <strong>Nintendo apunta a novedades importantes para su catálogo</strong>
+              <small><b>Nintendo</b> · Actualidad</small>
+            </span>
+          </a>
+          <a class="now-item play" href="./playstation.html">
+            <span class="logo-mark"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span>
+            <span>
+              <strong>PlayStation prepara novedades para sus próximos exclusivos</strong>
+              <small><b>PlayStation</b> · PS5</small>
+            </span>
+          </a>
+          <a class="now-item cinema" href="./cine.html">
+            <span class="logo-mark">🎬</span>
+            <span>
+              <strong>El estreno más esperado de la semana ya tiene primeras reacciones</strong>
+              <small><b>Cine</b> · Estrenos</small>
+            </span>
+          </a>
+        </aside>
+      </section>
+
+      <section class="platforms" id="videojuegos">
+        <div class="section-heading">
+          <h2>Noticias por plataforma</h2>
+          <p>Accesos directos para que el lector encuentre rápido su ecosistema favorito.</p>
+        </div>
+        <div class="platform-grid">
+          <a class="platform-card xbox" id="xbox" href="./xbox.html">
+            <span class="platform-icon">
+              <span class="official-logo xbox-logo" aria-hidden="true">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="" />
+              </span>
+            </span>
+            <span>
+              <strong>Xbox</strong>
+              <small>Noticias, rumores y novedades del ecosistema Xbox y Game Pass.</small>
+              <b>Ver Xbox →</b>
+            </span>
+          </a>
+          <a class="platform-card play" id="playstation" href="./playstation.html">
+            <span class="platform-icon"><img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" /></span>
+            <span>
+              <strong>PlayStation</strong>
+              <small>Cobertura completa de PS5, exclusivos, PS VR2 y más.</small>
+              <b>Ver PlayStation →</b>
+            </span>
+          </a>
+          <a class="platform-card nintendo" id="nintendo" href="./nintendo.html">
+            <span class="platform-icon"><span class="official-logo nintendo-logo" aria-hidden="true">Nintendo</span></span>
+            <span>
+              <strong>Nintendo</strong>
+              <small>Todo sobre Switch, próximos juegos y novedades oficiales.</small>
+              <b>Ver Nintendo →</b>
+            </span>
+          </a>
+          <a class="platform-card pc" id="pc" href="./pc.html">
+            <span class="platform-icon"><img src="https://cdn.simpleicons.org/steam/ffffff" alt="" /></span>
+            <span>
+              <strong>PC Gaming</strong>
+              <small>Guías, lanzamientos, hardware y lo mejor de Steam.</small>
+              <b>Ver PC →</b>
+            </span>
+          </a>
+        </div>
+      </section>
+
+      <section class="featured" id="destacadas">
+        <div class="section-heading">
+          <h2>Últimas noticias destacadas</h2>
+          <p>Bloques preparados para sustituir por noticias reales cuando empieces a publicar.</p>
+        </div>
+        <div class="news-grid" data-news-grid>
+          <article class="news-card xbox">
+            <div class="brand-stage xbox-stage">
+              <span class="official-logo xbox-lockup" role="img" aria-label="Xbox">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg" alt="" />
+                <b>XBOX</b>
+              </span>
+            </div>
+            <div class="news-copy">
+              <span class="label">Xbox</span>
+              <h3>Nuevo lanzamiento confirmado para el catálogo de la plataforma</h3>
+              <p>Se ha confirmado un nuevo título que llegará muy pronto a Xbox y Game Pass con mejoras de nueva generación.</p>
+              <a href="./xbox.html">Leer más →</a>
+            </div>
+          </article>
+          <article class="news-card play">
+            <div class="brand-stage play-stage">
+              <img src="https://cdn.simpleicons.org/playstation/ffffff" alt="PlayStation" />
+            </div>
+            <div class="news-copy">
+              <span class="label">PlayStation</span>
+              <h3>PlayStation actualiza uno de sus juegos más relevantes</h3>
+              <p>La actualización llega con mejoras gráficas, rendimiento optimizado y nuevo contenido para los jugadores.</p>
+              <a href="./playstation.html">Leer más →</a>
+            </div>
+          </article>
+          <article class="news-card nintendo">
+            <div class="brand-stage nintendo-stage">
+              <span class="official-logo nintendo-lockup" role="img" aria-label="Nintendo">Nintendo</span>
+            </div>
+            <div class="news-copy">
+              <span class="label">Nintendo</span>
+              <h3>Nintendo prepara novedades para sus próximos lanzamientos</h3>
+              <p>Nuevos detalles y rumores apuntan a sorpresas importantes para los fans de Nintendo Switch.</p>
+              <a href="./nintendo.html">Leer más →</a>
+            </div>
+          </article>
+          <article class="wide-card cinema" id="cine">
+            <div class="wide-art section-photo movie-theater"></div>
+            <div>
+              <span class="label">Cine</span>
+              <h3>Los estrenos imprescindibles para seguir esta semana</h3>
+              <p>Tráilers, fechas, críticas y todo lo que necesitas saber de las películas que llegan al cine.</p>
+            </div>
+            <a class="mini-btn" href="./cine.html">Ver cine <span aria-hidden="true">→</span></a>
+          </article>
+          <article class="wide-card series" id="series">
+            <div class="wide-art section-photo series-night"></div>
+            <div>
+              <span class="label">Series</span>
+              <h3>Series que vuelven, finales esperados y nuevas temporadas</h3>
+              <p>Estrenos, renovaciones y recomendaciones para tu próxima maratón.</p>
+            </div>
+            <a class="mini-btn" href="./series.html">Ver series <span aria-hidden="true">→</span></a>
+          </article>
+        </div>
+      </section>
+
+      <section class="newsletter" aria-label="Suscripción">
+        <div class="mail-icon" aria-hidden="true">✉</div>
+        <div>
+          <h2>Recibe lo mejor de <span>Pixel & Popcorn</span></h2>
+          <p>Suscríbete a nuestro boletín y recibe cada semana las noticias más importantes, tráilers y recomendaciones.</p>
+        </div>
+        <form>
+          <label class="sr-only" for="email">Tu correo electrónico</label>
+          <input id="email" type="email" placeholder="Tu correo electrónico" />
+          <button type="submit">Suscribirme</button>
+          <small>No enviamos spam. Puedes darte de baja cuando quieras.</small>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>

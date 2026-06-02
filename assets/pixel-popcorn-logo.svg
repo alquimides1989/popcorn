@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel &amp; Popcorn</title>
+  <desc id="desc">Logo de Pixel &amp; Popcorn con un mando pixelado y palomitas de cine en estilo neon.</desc>
+  <defs>
+    <linearGradient id="textCyan" x1="0" x2="1">
+      <stop offset="0" stop-color="#16e8ff"/>
+      <stop offset="1" stop-color="#2b8cff"/>
+    </linearGradient>
+    <linearGradient id="textGold" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffe86a"/>
+      <stop offset="1" stop-color="#ffc400"/>
+    </linearGradient>
+    <linearGradient id="magenta" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff4ed8"/>
+      <stop offset="1" stop-color="#9b42ff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.78 0 0 0 0 1 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="560" height="150" rx="18" fill="none"/>
+
+  <g filter="url(#glow)">
+    <path d="M37 72c0-22 15-39 39-39h48c24 0 39 17 39 39v16c0 20-13 34-30 34-12 0-19-7-25-15H92c-6 8-13 15-25 15-17 0-30-14-30-34V72Z" fill="#081522" stroke="#16e8ff" stroke-width="5"/>
+    <rect x="65" y="63" width="12" height="36" rx="2" fill="#16e8ff"/>
+    <rect x="53" y="75" width="36" height="12" rx="2" fill="#16e8ff"/>
+    <circle cx="128" cy="70" r="8" fill="#ff4ed8"/>
+    <circle cx="146" cy="88" r="8" fill="#ffd21c"/>
+    <path d="M97 41h24l10-18c2-4 8-4 10 0l11 19c2 4-1 9-6 9h-43c-5 0-8-5-6-10Z" fill="#ffd21c"/>
+    <circle cx="117" cy="29" r="11" fill="#fff3a6"/>
+    <circle cx="139" cy="35" r="10" fill="#ffe16a"/>
+    <circle cx="101" cy="37" r="9" fill="#fff8c8"/>
+  </g>
+
+  <g font-family="Montserrat, Arial Black, Arial, sans-serif" font-weight="900" letter-spacing="-1">
+    <text x="190" y="72" font-size="42" fill="url(#textCyan)">Pixel</text>
+    <text x="312" y="72" font-size="42" fill="url(#magenta)">&amp;</text>
+    <text x="356" y="72" font-size="42" fill="url(#textGold)">Popcorn</text>
+    <text x="193" y="103" font-size="15" fill="#d8e4ff" font-weight="800" letter-spacing="5">GAMING · CINE · SERIES</text>
+  </g>
+</svg>
