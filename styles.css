@@ -645,11 +645,10 @@ h1 {
 .section-icon {
   position: relative;
   display: grid;
-  grid-template-rows: 1fr auto;
   place-items: center;
   width: min(70%, 132px);
   aspect-ratio: 1;
-  padding: 18% 16% 14%;
+  padding: 20%;
   border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 50%;
   color: white;
@@ -671,23 +670,25 @@ h1 {
 }
 
 .section-icon img {
-  width: min(68%, 74px);
+  width: min(88%, 86px);
   height: auto;
-  max-height: 58px;
+  max-height: 82px;
   object-fit: contain;
   filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.42));
 }
 
-.section-icon span {
-  display: block;
-  width: 100%;
-  margin-top: 7px;
-  color: rgba(255, 255, 255, 0.9);
-  font-size: clamp(0.48rem, 0.72vw, 0.68rem);
-  font-weight: 900;
-  letter-spacing: 0.7px;
-  line-height: 1;
-  text-align: center;
+.state-icon {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.4), transparent 25%),
+    radial-gradient(circle at 72% 70%, rgba(80, 215, 255, 0.42), transparent 38%),
+    linear-gradient(145deg, #008ff5, #003087 64%, #061843);
+}
+
+.ps5-icon {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.36), transparent 25%),
+    radial-gradient(circle at 50% 54%, rgba(0, 117, 255, 0.68), transparent 54%),
+    linear-gradient(145deg, #0070cc, #003087 64%, #061843);
 }
 
 .plus-icon {
@@ -695,6 +696,27 @@ h1 {
     radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.4), transparent 25%),
     radial-gradient(circle at 74% 70%, rgba(255, 210, 28, 0.46), transparent 36%),
     linear-gradient(145deg, #0070cc, #003087 64%, #061843);
+}
+
+.exclusive-icon {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.34), transparent 25%),
+    radial-gradient(circle at 74% 70%, rgba(137, 96, 255, 0.48), transparent 38%),
+    linear-gradient(145deg, #4c7dff, #27158f 64%, #061843);
+}
+
+.rumor-icon {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.34), transparent 25%),
+    radial-gradient(circle at 74% 70%, rgba(239, 67, 255, 0.44), transparent 38%),
+    linear-gradient(145deg, #8c42ff, #3b0f8f 64%, #061843);
+}
+
+.guide-icon {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.34), transparent 25%),
+    radial-gradient(circle at 74% 70%, rgba(46, 255, 169, 0.42), transparent 38%),
+    linear-gradient(145deg, #00a8b8, #00519a 64%, #061843);
 }
 
 .platform-card.pc .platform-icon {
