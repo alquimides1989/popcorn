@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T11:45:00+02:00",
+  "updatedAt": "2026-06-02T21:45:00+02:00",
   "items": [
     {
       "id": "windows-central-xbox-project-helix-showcase",
@@ -97,6 +97,106 @@
       "image": {
         "url": "https://blog.playstation.com/tachyon/2086/05/a752370ce16df03754ac285695174544a31bf13e.png?crop_strategy=smart&resize=1088%2C612",
         "alt": "Grafico oficial del State of Play del 2 de junio",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/"
+      }
+    },
+    {
+      "id": "saros-housemarque-exclusivo-ps5",
+      "title": "Saros refuerza el calendario exclusivo de PS5 con la nueva apuesta de Housemarque",
+      "summary": "PlayStation mantiene a Saros como una de sus piezas propias mas importantes: una aventura de accion y ciencia ficcion de Housemarque, exclusiva de PS5 y PS5 Pro, con Rahul Kohli como Arjun Devraj.",
+      "body": [
+        "Saros ya funciona como una de las noticias clave dentro del radar de exclusivos de PlayStation. El proyecto llega desde Housemarque, estudio integrado en PlayStation Studios y responsable de Returnal, y vuelve a apoyarse en accion intensa, lectura rapida del combate y una ambientacion de ciencia ficcion con identidad muy marcada.",
+        "La pagina oficial de PlayStation presenta el juego como una aventura oscura ambientada en Carcosa, un mundo afectado por un eclipse y lleno de amenazas cambiantes. El protagonista es Arjun Devraj, interpretado por Rahul Kohli, un ejecutor Soltari que persigue respuestas en un planeta hostil.",
+        "El dato importante para la seccion de exclusivos es que Sony lo comunica como un lanzamiento para PS5, con mejoras en PS5 Pro y sin version para PS4. Tambien se subrayan funciones propias de la consola, como la respuesta haptica del DualSense, los gatillos adaptativos y la carga rapida del SSD para volver antes a la accion.",
+        "Para BluePoint, Saros merece seguimiento propio porque une tres factores de peso: estudio first party, tecnologia especifica de PS5 y una IP nueva con ambicion de ocupar el espacio que Returnal abrio dentro del catalogo de PlayStation. No es solo una ficha mas del calendario; es una prueba de como Sony quiere vender sus exclusivos de nueva generacion."
+      ],
+      "category": "PlayStation",
+      "tags": ["PlayStation Studios", "Exclusivos", "Saros", "Housemarque", "PS5"],
+      "source": "PlayStation",
+      "url": "https://www.playstation.com/en-us/games/saros/",
+      "detectedAt": "2026-06-02T21:45:00+02:00",
+      "publishedAt": "2026-06-02T21:45:00+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://gmedia.playstation.com/is/image/SIEPDC/saros-video-hero-mobile-thumb-01-en-23oct25?$1200px$",
+        "alt": "Arte oficial de Saros para PS5",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/saros/"
+      }
+    },
+    {
+      "id": "playstation-studios-exclusivos-pc-estrategia-ps5",
+      "title": "Sony vuelve a proteger sus juegos narrativos de PlayStation Studios como reclamo de PS5",
+      "summary": "La estrategia de PlayStation apunta a diferenciar los juegos narrativos first party de los proyectos multijugador: los primeros seguirian usando PS5 como plataforma prioritaria.",
+      "body": [
+        "La conversacion sobre los exclusivos de PlayStation ha ganado fuerza tras los reportes sobre la estrategia de Hermen Hulst al frente de PlayStation Studios. La lectura principal es que Sony quiere volver a separar mejor sus dos caminos: juegos narrativos first party por un lado y proyectos multijugador o de servicio por otro.",
+        "Segun recoge MeriStation a partir de la informacion atribuida a Bloomberg, los grandes juegos para un jugador desarrollados por Sony quedarian protegidos como reclamo de consola. La fuente cita nombres como Ghost of Yotei, Saros, Marvel's Wolverine e Intergalactic: The Heretic Prophet dentro de esa conversacion.",
+        "Esto no significa que PlayStation abandone cualquier presencia en PC. La diferencia estaria en el tipo de producto: los juegos multijugador necesitan comunidades amplias y pueden tener una logica multiplataforma mas natural, mientras que los exclusivos narrativos ayudan a dar valor propio a PS5 y a sus sucesoras.",
+        "La noticia es relevante para BluePoint porque afecta directamente al sentido de una web centrada en PlayStation. Si Sony refuerza su identidad first party, las secciones de exclusivos, rumores y State of Play ganan peso: cada anuncio propio puede tener mas importancia de marca y menos lectura como simple estreno multiplataforma."
+      ],
+      "category": "PlayStation",
+      "tags": ["PlayStation Studios", "Exclusivos", "PS5", "PC"],
+      "source": "MeriStation",
+      "url": "https://as.com/meristation/noticias/sony-se-retira-del-mercado-de-videojuegos-para-pc-los-titulos-de-los-que-podria-privarnos-esta-decision-f202605-n/",
+      "detectedAt": "2026-06-02T21:45:00+02:00",
+      "publishedAt": "2026-05-20T10:20:00+02:00",
+      "confidence": "Reporte basado en Bloomberg, sin anuncio publico detallado de Sony",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+        "alt": "Mando DualSense relacionado con la estrategia de exclusivos de PS5",
+        "kind": "photo",
+        "credit": "Unsplash",
+        "sourceUrl": "https://unsplash.com/"
+      }
+    },
+    {
+      "id": "intergalactic-naughty-dog-rumor-calendario",
+      "title": "Intergalactic sigue sin fecha y los rumores lo alejan del calendario inmediato de PS5",
+      "summary": "Naughty Dog y PlayStation aun no han dado ventana de lanzamiento para Intergalactic: The Heretic Prophet, mientras la conversacion previa al State of Play lo situa mas lejos de una aparicion inmediata.",
+      "body": [
+        "Intergalactic: The Heretic Prophet es una de las piezas mas delicadas del radar de rumores de PlayStation porque mezcla datos oficiales con expectativas de la comunidad. Lo confirmado es que el nuevo proyecto de Naughty Dog esta en desarrollo para PS5 y que PlayStation mantiene una pagina oficial con material del juego.",
+        "Lo que no existe, por ahora, es una fecha publica de lanzamiento. GamesRadar recuerda que ni Naughty Dog ni PlayStation Studios han anunciado ventana concreta, y que el juego sigue esperando una presentacion mas amplia desde su revelacion inicial.",
+        "La parte de rumor llega por el contexto del State of Play y por los reportes que lo colocan lejos del calendario inmediato. MeriStation, en su previa del evento de hoy, apunta que Intergalactic tiene pocas opciones de aparecer y lo vincula mas con una posible comunicacion futura que con una presencia segura en la cita veraniega.",
+        "La lectura prudente para BluePoint es mantenerlo en seguimiento, pero sin venderlo como anuncio inminente. Intergalactic es un exclusivo first party de enorme interes, aunque ahora mismo la informacion solida se limita a su desarrollo, su plataforma y el silencio oficial sobre fecha."
+      ],
+      "category": "PlayStation",
+      "tags": ["Rumores", "Intergalactic", "Naughty Dog", "Exclusivos", "PS5"],
+      "source": "GamesRadar+ / MeriStation",
+      "url": "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-guide/",
+      "detectedAt": "2026-06-02T21:45:00+02:00",
+      "publishedAt": "2026-05-28T18:11:00+02:00",
+      "confidence": "Rumor y seguimiento editorial; fecha no confirmada por PlayStation",
+      "image": {
+        "url": "https://gmedia.playstation.com/is/image/SIEPDC/Intergalactic-keyart-01-en-13dec24?$1200px$",
+        "alt": "Arte oficial de Intergalactic: The Heretic Prophet",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/intergalactic-the-heretic-prophet/"
+      }
+    },
+    {
+      "id": "state-of-play-rumores-final-fantasy-resident-evil",
+      "title": "La previa del State of Play deja rumores third party alrededor de Final Fantasy y Resident Evil",
+      "summary": "Antes de la emision, la conversacion apunta a posibles movimientos de Square Enix y Capcom, aunque ninguno debe tratarse como confirmado hasta que Sony lo muestre.",
+      "body": [
+        "El State of Play de hoy llega con una capa de rumores y expectativas alrededor de varios third party. MeriStation situa en la conversacion a Square Enix y Capcom, dos socios habituales de PlayStation cuando la marca prepara escaparates de junio.",
+        "En el caso de Square Enix, la posibilidad que mas ruido genera es una nueva aparicion vinculada al proyecto remake de Final Fantasy VII. La logica viene por calendario, por precedentes de comunicacion y por el encaje natural de la saga con los eventos de PlayStation, pero no hay confirmacion oficial previa.",
+        "Capcom tambien aparece en las quinielas con Onimusha: Way of the Sword y con rumores alrededor de nuevo contenido de Resident Evil Requiem. De nuevo, la clave editorial es separar bien el deseo del dato: son candidatos razonables para un evento, no anuncios garantizados.",
+        "Para BluePoint, esta pieza debe vivir en la seccion de rumores y no mezclarse con noticias confirmadas. Sirve para preparar el seguimiento del evento, pero el titular definitivo solo deberia cambiar cuando PlayStation o las companias implicadas publiquen material oficial."
+      ],
+      "category": "PlayStation",
+      "tags": ["Rumores", "State of Play", "Final Fantasy", "Resident Evil", "PS5"],
+      "source": "MeriStation",
+      "url": "https://as.com/meristation/noticias/que-esperar-del-state-of-play-de-sony-hoy-posibles-exclusivos-anuncios-y-novedades-f202606-n/",
+      "detectedAt": "2026-06-02T21:45:00+02:00",
+      "publishedAt": "2026-06-02T00:00:00+02:00",
+      "confidence": "Rumores y expectativas previas al evento",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2086/05/a752370ce16df03754ac285695174544a31bf13e.png?crop_strategy=smart&resize=1088%2C612",
+        "alt": "Grafico oficial de State of Play para noticias de rumores",
         "kind": "graphic",
         "credit": "PlayStation Blog",
         "sourceUrl": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/"

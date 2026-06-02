@@ -21,7 +21,19 @@ const CATEGORY_LINK = {
 const SECTION_MATCHERS = {
   "state-of-play": (item) => hasAny(item, ["State of Play", "Showcase", "Presentacion"]),
   "ps-plus": (item) => hasAny(item, ["PS Plus", "PlayStation Plus", "Servicios"]),
-  exclusivos: (item) => hasAny(item, ["PlayStation Studios", "Exclusivos", "Marvel's Wolverine", "PS5"]),
+  exclusivos: (item) =>
+    hasAny(item, [
+      "PlayStation Studios",
+      "Exclusivos",
+      "Marvel's Wolverine",
+      "Saros",
+      "Intergalactic",
+      "Ghost of Yotei",
+      "Housemarque",
+      "Naughty Dog",
+      "Insomniac",
+      "Sucker Punch",
+    ]),
   rumores: (item) => hasAny(item, ["Rumor", "Rumores"]) || /rumor/i.test(item.confidence || ""),
   guias: (item) => hasAny(item, ["Guia", "Guias", "Consejos"]),
 };
