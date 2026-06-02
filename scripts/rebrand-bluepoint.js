@@ -16,7 +16,19 @@ const head = (title) => `<!doctype html>
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
   </head>`;
 
-const sectionIcon = (name) => `<span class="section-icon ${name}-icon" aria-hidden="true"></span>`;
+const sectionIconLabels = {
+  state: "STATE",
+  ps5: "PS5",
+  plus: "PLUS",
+  exclusive: "STUDIOS",
+  rumor: "RUMOR",
+  guide: "GUIA",
+};
+
+const sectionIcon = (name) => `<span class="section-icon official-ps-icon ${name}-icon" aria-hidden="true">
+          <img src="https://cdn.simpleicons.org/playstation/ffffff" alt="" loading="lazy" />
+          <span>${sectionIconLabels[name] || "PS"}</span>
+        </span>`;
 
 const nav = (active) => {
   const items = [
