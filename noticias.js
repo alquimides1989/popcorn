@@ -9,13 +9,21 @@ const CATEGORY_CLASS = {
 };
 
 const CATEGORY_LINK = {
-  Xbox: "./xbox.html",
+  Xbox: "./playstation.html",
   PlayStation: "./playstation.html",
-  Nintendo: "./nintendo.html",
-  PC: "./pc.html",
-  Multiplataforma: "./videojuegos.html",
-  Cine: "./cine.html",
-  Series: "./series.html",
+  Nintendo: "./playstation.html",
+  PC: "./playstation.html",
+  Multiplataforma: "./playstation.html",
+  Cine: "./playstation.html",
+  Series: "./playstation.html",
+};
+
+const SECTION_MATCHERS = {
+  "state-of-play": (item) => hasAny(item, ["State of Play", "Showcase", "Presentacion"]),
+  "ps-plus": (item) => hasAny(item, ["PS Plus", "PlayStation Plus", "Servicios"]),
+  exclusivos: (item) => hasAny(item, ["PlayStation Studios", "Exclusivos", "Marvel's Wolverine", "PS5"]),
+  rumores: (item) => hasAny(item, ["Rumor", "Rumores"]) || /rumor/i.test(item.confidence || ""),
+  guias: (item) => hasAny(item, ["Guia", "Guias", "Consejos"]),
 };
 
 const FALLBACK_NEWS = {
@@ -82,6 +90,36 @@ const escapeText = (value) =>
 
 const getCategoryClass = (category) => CATEGORY_CLASS[category] || "pc";
 const getCategoryLink = (category) => CATEGORY_LINK[category] || "./videojuegos.html";
+
+function hasAny(item, values) {
+  const haystack = [item.title, item.summary, item.category, ...(Array.isArray(item.tags) ? item.tags : [])].join(" ");
+  return values.some((value) => haystack.toLowerCase().includes(value.toLowerCase()));
+}
+
+function filterItemsForPage(items) {
+  const categoryFilter = document.body.dataset.category;
+  const groupFilter = document.body.dataset.group;
+  const sectionFilter = document.body.dataset.section;
+  const gamingCategories = ["Xbox", "PlayStation", "Nintendo", "PC", "Multiplataforma"];
+
+  if (sectionFilter && SECTION_MATCHERS[sectionFilter]) {
+    return items.filter((item) => item.category === "PlayStation" && SECTION_MATCHERS[sectionFilter](item));
+  }
+
+  if (categoryFilter) {
+    return items.filter((item) => item.category === categoryFilter);
+  }
+
+  if (groupFilter === "playstation") {
+    return items.filter((item) => item.category === "PlayStation");
+  }
+
+  if (groupFilter === "videojuegos") {
+    return items.filter((item) => gamingCategories.includes(item.category));
+  }
+
+  return items;
+}
 
 function isLogoLikeImage(image) {
   const url = String(image?.url || "").toLowerCase();
@@ -276,7 +314,7 @@ function renderList(items) {
 }
 
 loadNews().then((data) => {
-  const items = sortNews(data.items || []);
+  const items = filterItemsForPage(sortNews(data.items || []));
   renderTicker(items);
   renderNow(items);
   renderGrid(items);
