@@ -127,6 +127,8 @@ function renderArticleBody(item) {
 
 function sortNews(items) {
   return [...items].sort((a, b) => {
+    if (a.pinned && !b.pinned) return -1;
+    if (!a.pinned && b.pinned) return 1;
     const dateA = new Date(a.publishedAt || a.detectedAt || 0).getTime();
     const dateB = new Date(b.publishedAt || b.detectedAt || 0).getTime();
     return dateB - dateA;
