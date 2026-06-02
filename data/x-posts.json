@@ -2,6 +2,15 @@
   "updatedAt": "2026-06-02T08:35:50.791Z",
   "items": [
     {
+      "newsId": "playstation-state-of-play-2-junio-wolverine",
+      "text": "PlayStation celebra hoy State of Play a las 23:00 CEST con mas de 60 minutos de anuncios y Marvel's Wolverine como gran foco. #PixelPopcorn #PlayStation #StateOfPlay #PS5",
+      "hashtags": ["#PixelPopcorn", "#PlayStation", "#StateOfPlay", "#PS5"],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de PlayStation para State of Play",
+      "imageCredit": "Simple Icons",
+      "createdAt": "2026-06-02T11:05:00+02:00"
+    },
+    {
       "newsId": "fortnite-nueva-temporada-skins-john-wick",
       "text": "Fortnite revela las skins de su nueva temporada y suma un nuevo John Wick al Pase de Batalla. El arranque esta previsto para el 5 de junio. #PixelPopcorn #Fortnite #Videojuegos #Gaming",
       "hashtags": ["#PixelPopcorn", "#Fortnite", "#Videojuegos", "#Gaming"],

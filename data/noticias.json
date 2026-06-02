@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-06-02T02:15:00+02:00",
+  "updatedAt": "2026-06-02T11:05:00+02:00",
   "items": [
+    {
+      "id": "playstation-state-of-play-2-junio-wolverine",
+      "title": "PlayStation celebra hoy su State of Play con Marvel's Wolverine como gran foco",
+      "summary": "El State of Play de hoy, 2 de junio, se emitira a las 23:00 CEST con mas de 60 minutos de anuncios, actualizaciones y gameplay, incluyendo un vistazo a Marvel's Wolverine.",
+      "body": [
+        "PlayStation celebra hoy, martes 2 de junio, una nueva edicion de State of Play. La retransmision empezara a las 23:00 CEST, una hora especialmente pensada para que el evento conecte con la tarde estadounidense y la noche europea.",
+        "Sony ha confirmado que la presentacion durara mas de 60 minutos e incluira anuncios, actualizaciones y revelaciones de gameplay de estudios de todo el mundo. El nombre que ya aparece como gran reclamo es Marvel's Wolverine, el proyecto de Insomniac Games que muchos jugadores de PS5 esperan ver con mas claridad.",
+        "La importancia del evento va mas alla de un solo juego. PlayStation necesita ordenar su calendario de segunda mitad de 2026 y mostrar que el catalogo de PS5 sigue teniendo margen para sorprender entre grandes exclusivos, acuerdos third party y posibles novedades de servicios.",
+        "Como siempre con un State of Play, conviene distinguir lo confirmado de los rumores. Lo seguro es la hora, la duracion superior a una hora y la presencia de Marvel's Wolverine; el resto de apariciones dependera de lo que Sony decida revelar durante la emision."
+      ],
+      "category": "PlayStation",
+      "pinned": true,
+      "tags": ["PlayStation", "State of Play", "Marvel's Wolverine", "PS5"],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/",
+      "detectedAt": "2026-06-02T11:05:00+02:00",
+      "publishedAt": "2026-05-20T00:00:00+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://cdn.simpleicons.org/playstation/ffffff",
+        "alt": "Logotipo de PlayStation para State of Play",
+        "kind": "logo",
+        "credit": "Simple Icons",
+        "sourceUrl": "https://simpleicons.org/icons/playstation"
+      }
+    },
     {
       "id": "fortnite-nueva-temporada-skins-john-wick",
       "title": "Fortnite ensena las skins de su nueva temporada, con John Wick entre los reclamos",
