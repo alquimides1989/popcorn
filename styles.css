@@ -291,7 +291,7 @@ a {
   background:
     radial-gradient(circle at 42% 48%, rgba(67, 164, 255, 0.32), transparent 15rem),
     linear-gradient(120deg, rgba(1, 5, 12, 0.92), rgba(1, 5, 12, 0.08)),
-    url("./assets/bluepoint-symbol.png") center / min(58%, 260px) no-repeat;
+    url("./assets/bluepoint-symbol-white.png") center / min(58%, 260px) no-repeat;
   mix-blend-mode: screen;
   opacity: 0.32;
 }
