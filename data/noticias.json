@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-06-02T11:05:00+02:00",
+  "updatedAt": "2026-06-02T11:45:00+02:00",
   "items": [
+    {
+      "id": "windows-central-xbox-project-helix-showcase",
+      "title": "Xbox reservara Project Helix para mas adelante y centrara su Showcase en juegos",
+      "summary": "Matt Booty ha aclarado que Project Helix no aparecera en el Xbox Games Showcase del 7 de junio, porque Microsoft quiere que la presentacion se centre en juegos y estudios.",
+      "body": [
+        "Windows Central recoge declaraciones de Matt Booty, responsable de contenidos de Xbox, sobre el enfoque del proximo Xbox Games Showcase. Segun Booty, la presentacion del 7 de junio no sera el lugar para hablar de Project Helix, el sistema hibrido entre consola y PC que Microsoft tiene en el horizonte.",
+        "La decision busca concentrar la comunicacion en los juegos. Booty explico que el evento debe poner el foco en los equipos, los proyectos y la alineacion de lanzamientos, dejando las grandes preguntas estrategicas para otro momento.",
+        "Esto no cancela Project Helix ni contradice que Xbox vaya a hablar mas del sistema en el futuro. Lo que si cambia es la expectativa del Showcase: quien espere hardware o detalles profundos del ecosistema tendra que esperar, mientras que la emision deberia apoyarse en titulos como Gears of War: E-Day, Fable, Halo: Campaign Evolved o Minecraft Dungeons 2.",
+        "Para Xbox, el movimiento tiene sentido si el objetivo es recuperar una narrativa mas simple: menos estrategia corporativa y mas juegos concretos. El reto sera que esa alineacion sea suficientemente fuerte para compensar la ausencia de novedades de hardware."
+      ],
+      "category": "Xbox",
+      "tags": ["Xbox", "Project Helix", "Xbox Games Showcase"],
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-cco-matt-booty-says-project-helix-wont-be-at-xbox-games-showcase-with-more-on-it-coming-at-a-later-time",
+      "detectedAt": "2026-06-02T11:45:00+02:00",
+      "publishedAt": "2026-05-29T18:32:20+00:00",
+      "confidence": "Declaraciones recogidas por Windows Central",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg",
+        "alt": "Logotipo de Xbox para noticia sobre Project Helix",
+        "kind": "logo",
+        "credit": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_one_logo.svg"
+      }
+    },
+    {
+      "id": "windows-central-xbox-lineup-halo-campaign-evolved",
+      "title": "Matt Booty situa Halo: Campaign Evolved como primer gran nombre de la alineacion Xbox",
+      "summary": "Windows Central destaca que Matt Booty menciono Halo: Campaign Evolved, Minecraft Dungeons 2, Gears of War: E-Day y Call of Duty al hablar de la proxima alineacion de Xbox.",
+      "body": [
+        "Matt Booty ha dado nuevas pistas sobre la alineacion de Xbox para los proximos meses. En declaraciones recogidas por Windows Central, el directivo menciono una secuencia de nombres que empieza por Halo: Campaign Evolved y continua con Minecraft Dungeons 2, Gears of War: E-Day y Call of Duty: Modern Warfare 4.",
+        "Booty no anuncio fechas concretas ni confirmo que ese sea el orden definitivo de lanzamiento. Aun asi, la forma en la que enumero los proyectos ha levantado interes porque puede sugerir como Xbox esta organizando su calendario despues del Showcase.",
+        "Halo: Campaign Evolved aparece como una pieza especialmente importante. Si el remake o reinterpretacion de la campana clasica llega antes que otros grandes lanzamientos, Xbox podria usarlo como punto de arranque para una etapa centrada en marcas reconocibles.",
+        "La lectura prudente es clara: no hay calendario cerrado, pero si una senal de prioridades. Xbox necesita que 2026 tenga una cadencia visible, con juegos capaces de sostener conversacion entre Showcase, lanzamientos y Game Pass."
+      ],
+      "category": "Xbox",
+      "tags": ["Xbox", "Halo", "Gears of War", "Call of Duty"],
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/halo/we-start-out-with-halo-campaign-evolved-as-matt-booty-outlines-xboxs-2026-lineup",
+      "detectedAt": "2026-06-02T11:45:00+02:00",
+      "publishedAt": "2026-05-30T00:00:00+00:00",
+      "confidence": "Declaraciones recogidas por Windows Central",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg",
+        "alt": "Logotipo de Xbox para noticia sobre la alineacion de juegos",
+        "kind": "logo",
+        "credit": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_one_logo.svg"
+      }
+    },
+    {
+      "id": "windows-central-xbox-logos-playstation-showcase",
+      "title": "Xbox mostrara logos de otras plataformas en su Showcase y reabre el debate entre fans",
+      "summary": "Windows Central analiza la reaccion de parte de la comunidad Xbox ante la decision de Microsoft de mostrar logos de plataformas competidoras durante el Showcase.",
+      "body": [
+        "Windows Central ha publicado un analisis sobre la reaccion de parte de la comunidad Xbox ante una decision de comunicacion de Microsoft: seguir mostrando logos de otras plataformas cuando un juego presentado en el Showcase tambien llegue fuera del ecosistema Xbox.",
+        "El debate no gira solo alrededor de los logos. La preocupacion de muchos usuarios apunta a algo mas profundo: la confianza en que Xbox siga defendiendo su identidad como plataforma propia mientras avanza hacia una estrategia cada vez mas multiplataforma.",
+        "Desde un punto de vista practico, la transparencia evita confusiones. Si un juego sale en Xbox, PC y PlayStation, mostrarlo desde el primer momento puede ayudar al usuario a entender mejor el alcance real del lanzamiento.",
+        "Pero para una marca que lleva anos intentando explicar su lugar entre consola, PC, nube y servicios, cada gesto pesa. El Showcase del 7 de junio no solo tendra que ensenar juegos; tambien tendra que convencer a su comunidad de que la apertura multiplataforma no significa perder el centro de Xbox."
+      ],
+      "category": "Xbox",
+      "tags": ["Xbox", "Showcase", "PlayStation", "Multiplataforma"],
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust",
+      "detectedAt": "2026-06-02T11:45:00+02:00",
+      "publishedAt": "2026-06-01T00:00:00+00:00",
+      "confidence": "Analisis de Windows Central",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg",
+        "alt": "Logotipo de Xbox para debate sobre el Showcase",
+        "kind": "logo",
+        "credit": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_one_logo.svg"
+      }
+    },
     {
       "id": "playstation-state-of-play-2-junio-wolverine",
       "title": "PlayStation celebra hoy su State of Play con Marvel's Wolverine como gran foco",

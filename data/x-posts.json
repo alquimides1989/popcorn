@@ -2,6 +2,33 @@
   "updatedAt": "2026-06-02T08:35:50.791Z",
   "items": [
     {
+      "newsId": "windows-central-xbox-project-helix-showcase",
+      "text": "Xbox centrara su Showcase del 7 de junio en juegos: Matt Booty aclara que Project Helix quedara para mas adelante. #PixelPopcorn #Xbox #ProjectHelix #Gaming",
+      "hashtags": ["#PixelPopcorn", "#Xbox", "#ProjectHelix", "#Gaming"],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Xbox para noticia sobre Project Helix",
+      "imageCredit": "Wikimedia Commons",
+      "createdAt": "2026-06-02T11:45:00+02:00"
+    },
+    {
+      "newsId": "windows-central-xbox-lineup-halo-campaign-evolved",
+      "text": "Matt Booty apunta una potente alineacion Xbox con Halo: Campaign Evolved, Minecraft Dungeons 2, Gears of War: E-Day y Call of Duty. #PixelPopcorn #Xbox #Halo #Gaming",
+      "hashtags": ["#PixelPopcorn", "#Xbox", "#Halo", "#Gaming"],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Xbox para noticia sobre la alineacion de juegos",
+      "imageCredit": "Wikimedia Commons",
+      "createdAt": "2026-06-02T11:45:00+02:00"
+    },
+    {
+      "newsId": "windows-central-xbox-logos-playstation-showcase",
+      "text": "Xbox mostrara logos de otras plataformas en su Showcase y reabre el debate sobre identidad, transparencia y estrategia multiplataforma. #PixelPopcorn #Xbox #Showcase #Gaming",
+      "hashtags": ["#PixelPopcorn", "#Xbox", "#Showcase", "#Gaming"],
+      "status": "pending_credentials",
+      "imageAlt": "Logotipo de Xbox para debate sobre el Showcase",
+      "imageCredit": "Wikimedia Commons",
+      "createdAt": "2026-06-02T11:45:00+02:00"
+    },
+    {
       "newsId": "playstation-state-of-play-2-junio-wolverine",
       "text": "PlayStation celebra hoy State of Play a las 23:00 CEST con mas de 60 minutos de anuncios y Marvel's Wolverine como gran foco. #PixelPopcorn #PlayStation #StateOfPlay #PS5",
       "hashtags": ["#PixelPopcorn", "#PlayStation", "#StateOfPlay", "#PS5"],
