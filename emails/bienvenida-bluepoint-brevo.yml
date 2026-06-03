@@ -12,7 +12,7 @@ fonts:
 hideSwapBanner: false
 id: 3279f028-acf7-4f6b-ae41-8f565d7daf0a
 name: ""
-subject: 'Bienvenido a BluePoint: tu radar PlayStation empieza aqui'
+subject: 'Bienvenido a BluePoint'
 ui:
   showDeleteOption: false
   showMoreOption: false
@@ -255,7 +255,7 @@ body:
                       text-valign: top
                       valign: top
                       width: 100%
-                  content: '<h2 class="default-heading2">Hola&nbsp;{{ contact.FIRSTNAME | default : ''jugador'' }},&nbsp;</h2><h2 class="default-heading2"><strong>bienvenido a BluePoint</strong></h2>'
+                  content: '<h2 class="default-heading2">Bienvenido a BluePoint</h2><h2 class="default-heading2"><strong>Tu radar PlayStation empieza aqui</strong></h2>'
                 -
                   customBlockId: null
                   id: aa987a0e-2061-4c9b-9e14-f48b8b1725e6
@@ -289,7 +289,7 @@ body:
                       valign: top
                       width: 100%
                   content:
-                    src: 'https://bluepointesp.netlify.app/assets/bluepoint-symbol-white.png'
+                    src: 'https://bluepointesp.netlify.app/assets/bluepoint-wordmark-white.png'
         -
           align: top
           customBlockId: null
@@ -761,7 +761,7 @@ body:
                       text-valign: top
                       valign: top
                       width: 100%
-                  content: '<p><span condition="{{ update_profile }}" style="display:none"><a href="{{ update_profile }}">Update your preference</a> | </span><a href="{{ unsubscribe }}" target="_blank"><span style="color:#25d7ff;font-size:14px;"><u>Cancelar suscripcion</u></span></a></p>'
+                  content: '<p><a href="{{ unsubscribe }}" target="_blank"><span style="color:#25d7ff;font-size:14px;"><u>Cancelar suscripcion</u></span></a></p>'
 media:
   320px:
     max-width: 600
