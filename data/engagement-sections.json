@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T12:45:00+02:00",
+  "updatedAt": "2026-06-03T13:45:00+02:00",
   "calendar": [
     {
       "date": "2026-09-15",
@@ -115,25 +115,697 @@
   ],
   "gameHubs": [
     {
-      "title": "Saros",
-      "studio": "Housemarque",
-      "status": "Exclusivo PS5 en seguimiento",
-      "summary": "Ficha prioritaria para noticias, reviews, Metacritic, trailers y comparacion con Returnal.",
-      "tags": ["Exclusivo", "Housemarque", "Reviews"]
+      "title": "Astro's Playroom",
+      "year": 2020,
+      "studio": "Team Asobi",
+      "metascore": "83",
+      "status": "Incluido con PS5",
+      "summary": "Plataformas y demostracion tecnica del DualSense incluida en cada PS5.",
+      "url": "https://www.playstation.com/en-us/games/astros-playroom/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png",
+        "alt": "Imagen oficial o relacionada de Astro's Playroom",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/astros-playroom/"
+      },
+      "tags": [
+        "PS5",
+        "Team Asobi",
+        "Metacritic"
+      ]
     },
     {
-      "title": "Marvel's Wolverine",
+      "title": "Demon's Souls",
+      "year": 2020,
+      "studio": "Bluepoint Games / Japan Studio",
+      "metascore": "92",
+      "status": "Remake PS5",
+      "summary": "Remake de lanzamiento para PS5 y una de las primeras vitrinas tecnicas de la consola.",
+      "url": "https://www.playstation.com/en-us/games/demons-souls/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png",
+        "alt": "Imagen oficial o relacionada de Demon's Souls",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/demons-souls/"
+      },
+      "tags": [
+        "PS5",
+        "Bluepoint",
+        "Remake"
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "year": 2020,
       "studio": "Insomniac Games",
-      "status": "Fecha confirmada",
-      "summary": "Centro para fecha, gameplay, villanos, trailers y cada nueva pista del exclusivo de PS5.",
-      "tags": ["Exclusivo", "Insomniac", "PS5"]
+      "metascore": "85",
+      "status": "Lanzamiento PS5",
+      "summary": "Aventura de Miles Morales publicada por Sony para acompanar el estreno de PS5.",
+      "url": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+        "alt": "Imagen oficial o relacionada de Marvel's Spider-Man: Miles Morales",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/"
+      },
+      "tags": [
+        "Insomniac",
+        "Marvel",
+        "PS5"
+      ]
     },
     {
-      "title": "Intergalactic: The Heretic Prophet",
+      "title": "Sackboy: A Big Adventure",
+      "year": 2020,
+      "studio": "Sumo Digital",
+      "metascore": "79",
+      "status": "PS5 y PS4",
+      "summary": "Plataformas familiar publicado por Sony con enfoque cooperativo.",
+      "url": "https://www.playstation.com/en-us/games/sackboy-a-big-adventure/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/TJiBEQMJ9qa93lWBu4sKScY9.png",
+        "alt": "Imagen oficial o relacionada de Sackboy: A Big Adventure",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/sackboy-a-big-adventure/"
+      },
+      "tags": [
+        "PS5",
+        "Familiar",
+        "Coop"
+      ]
+    },
+    {
+      "title": "Destruction AllStars",
+      "year": 2021,
+      "studio": "Lucid Games",
+      "metascore": "62",
+      "status": "PS5",
+      "summary": "Combate vehicular multijugador publicado por Sony para PS5.",
+      "url": "https://www.playstation.com/en-us/games/destruction-allstars/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0418/d2l5anfkYCPcdtYL8lhqhfOX.png",
+        "alt": "Imagen oficial o relacionada de Destruction AllStars",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/destruction-allstars/"
+      },
+      "tags": [
+        "PS5",
+        "Multijugador",
+        "Servicio"
+      ]
+    },
+    {
+      "title": "Returnal",
+      "year": 2021,
+      "studio": "Housemarque",
+      "metascore": "86",
+      "status": "Exclusivo PS5",
+      "summary": "Accion roguelike de ciencia ficcion que consolido a Housemarque dentro de PlayStation Studios.",
+      "url": "https://www.playstation.com/en-us/games/returnal/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1621/fYZQHZ42eXXUt7c6D5YjLrq5.png",
+        "alt": "Imagen oficial o relacionada de Returnal",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/returnal/"
+      },
+      "tags": [
+        "Housemarque",
+        "Exclusivo",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Ratchet & Clank: Rift Apart",
+      "year": 2021,
+      "studio": "Insomniac Games",
+      "metascore": "88",
+      "status": "Exclusivo PS5",
+      "summary": "Aventura creada para mostrar carga ultrarrapida, mundos dimensionales y potencia visual de PS5.",
+      "url": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png",
+        "alt": "Imagen oficial o relacionada de Ratchet & Clank: Rift Apart",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/"
+      },
+      "tags": [
+        "Insomniac",
+        "Exclusivo",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima Director's Cut",
+      "year": 2021,
+      "studio": "Sucker Punch",
+      "metascore": "87",
+      "status": "Director's Cut PS5",
+      "summary": "Version ampliada con Isla Iki, mejoras para PS5 y funciones DualSense.",
+      "url": "https://www.playstation.com/en-us/games/ghost-of-tsushima/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png",
+        "alt": "Imagen oficial o relacionada de Ghost of Tsushima Director's Cut",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/ghost-of-tsushima/"
+      },
+      "tags": [
+        "Sucker Punch",
+        "Director's Cut",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Death Stranding Director's Cut",
+      "year": 2021,
+      "studio": "Kojima Productions",
+      "metascore": "85",
+      "status": "Director's Cut PS5",
+      "summary": "Edicion mejorada publicada por Sony en PS5 con contenido y herramientas adicionales.",
+      "url": "https://www.playstation.com/en-us/games/death-stranding-directors-cut/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/7aFAQ28D5avzogf7TFg11ryH.png",
+        "alt": "Imagen oficial o relacionada de Death Stranding Director's Cut",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/death-stranding-directors-cut/"
+      },
+      "tags": [
+        "PS5",
+        "Director's Cut",
+        "Kojima"
+      ]
+    },
+    {
+      "title": "MLB The Show 21",
+      "year": 2021,
+      "studio": "San Diego Studio",
+      "metascore": "78",
+      "status": "Deportes",
+      "summary": "Primera entrega de la saga MLB en la generacion PS5.",
+      "url": "https://www.playstation.com/en-us/games/mlb-the-show-21/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0722/KF4GiVmKeA75MZpzEn32ev3g.png",
+        "alt": "Imagen oficial o relacionada de MLB The Show 21",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/mlb-the-show-21/"
+      },
+      "tags": [
+        "San Diego Studio",
+        "MLB",
+        "Deportes"
+      ]
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "year": 2022,
+      "studio": "Guerrilla",
+      "metascore": "88",
+      "status": "PS5 y PS4",
+      "summary": "Secuela de Aloy con mundo abierto, nuevas maquinas y gran peso tecnico para PlayStation.",
+      "url": "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/HO8vkO9pfXhwbHi5WHECQJdN.png",
+        "alt": "Imagen oficial o relacionada de Horizon Forbidden West",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/horizon-forbidden-west/"
+      },
+      "tags": [
+        "Guerrilla",
+        "Horizon",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Gran Turismo 7",
+      "year": 2022,
+      "studio": "Polyphony Digital",
+      "metascore": "87",
+      "status": "PS5 y PS4",
+      "summary": "Simulador de conduccion principal de PlayStation en la generacion PS5.",
+      "url": "https://www.playstation.com/en-us/games/gran-turismo-7/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/303f5701426596a09891f9f33fa93e49ae522d5295b26dce.png",
+        "alt": "Imagen oficial o relacionada de Gran Turismo 7",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/gran-turismo-7/"
+      },
+      "tags": [
+        "Polyphony",
+        "Conduccion",
+        "PS5"
+      ]
+    },
+    {
+      "title": "MLB The Show 22",
+      "year": 2022,
+      "studio": "San Diego Studio",
+      "metascore": "77",
+      "status": "Deportes",
+      "summary": "Nueva temporada de la saga deportiva publicada por Sony Interactive Entertainment.",
+      "url": "https://www.playstation.com/en-us/games/mlb-the-show-22/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2818/5HvW0dqebrOsFASfaRR6XDyr.png",
+        "alt": "Imagen oficial o relacionada de MLB The Show 22",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/mlb-the-show-22/"
+      },
+      "tags": [
+        "San Diego Studio",
+        "MLB",
+        "Deportes"
+      ]
+    },
+    {
+      "title": "The Last of Us Part I",
+      "year": 2022,
       "studio": "Naughty Dog",
-      "status": "Sin fecha",
-      "summary": "Ficha de seguimiento para noticias oficiales, rumores prudentes y calendario de presentaciones.",
-      "tags": ["Naughty Dog", "Rumores", "Exclusivo"]
+      "metascore": "88",
+      "status": "Remake PS5",
+      "summary": "Reconstruccion para PS5 del clasico de Naughty Dog con tecnologia moderna.",
+      "url": "https://www.playstation.com/en-us/games/the-last-of-us-part-i/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png",
+        "alt": "Imagen oficial o relacionada de The Last of Us Part I",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/the-last-of-us-part-i/"
+      },
+      "tags": [
+        "Naughty Dog",
+        "Remake",
+        "PS5"
+      ]
+    },
+    {
+      "title": "God of War Ragnarok",
+      "year": 2022,
+      "studio": "Santa Monica Studio",
+      "metascore": "94",
+      "status": "PS5 y PS4",
+      "summary": "Cierre de la saga nordica de Kratos y Atreus con una de las notas mas altas de PlayStation en PS5.",
+      "url": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/b69c06fb108299866057126b0d3a0530bdf96a39d2ce1cb9.png",
+        "alt": "Imagen oficial o relacionada de God of War Ragnarok",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/"
+      },
+      "tags": [
+        "Santa Monica",
+        "God of War",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Horizon Call of the Mountain",
+      "year": 2023,
+      "studio": "Guerrilla / Firesprite",
+      "metascore": "79",
+      "status": "PS VR2",
+      "summary": "Aventura de realidad virtual disenada como escaparate de lanzamiento de PlayStation VR2.",
+      "url": "https://www.playstation.com/en-us/games/horizon-call-of-the-mountain/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0615/eicVspHDlt11H1xtnsw5dgkz.png",
+        "alt": "Imagen oficial o relacionada de Horizon Call of the Mountain",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/horizon-call-of-the-mountain/"
+      },
+      "tags": [
+        "PS VR2",
+        "Horizon",
+        "Firesprite"
+      ]
+    },
+    {
+      "title": "MLB The Show 23",
+      "year": 2023,
+      "studio": "San Diego Studio",
+      "metascore": "82",
+      "status": "Deportes",
+      "summary": "Entrega anual de beisbol de San Diego Studio bajo Sony Interactive Entertainment.",
+      "url": "https://www.playstation.com/en-us/games/mlb-the-show-23/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2100/ksGvOUolBKzauHyiPalnLUKN.png",
+        "alt": "Imagen oficial o relacionada de MLB The Show 23",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/mlb-the-show-23/"
+      },
+      "tags": [
+        "San Diego Studio",
+        "MLB",
+        "Deportes"
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "year": 2023,
+      "studio": "Insomniac Games",
+      "metascore": "90",
+      "status": "Exclusivo PS5",
+      "summary": "Secuela principal de Insomniac con Peter, Miles, Venom y lanzamiento exclusivo en PS5.",
+      "url": "https://www.playstation.com/en-us/games/marvels-spider-man-2/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png",
+        "alt": "Imagen oficial o relacionada de Marvel's Spider-Man 2",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/marvels-spider-man-2/"
+      },
+      "tags": [
+        "Insomniac",
+        "Marvel",
+        "Exclusivo"
+      ]
+    },
+    {
+      "title": "Helldivers 2",
+      "year": 2024,
+      "studio": "Arrowhead Game Studios",
+      "metascore": "82",
+      "status": "PS5 y PC",
+      "summary": "Shooter cooperativo publicado por Sony que se convirtio en fenomeno de comunidad.",
+      "url": "https://www.playstation.com/en-us/games/helldivers-2/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0318/b1a53e39d1faa85d82af114d07297b7308fec4c51d05c91c.png",
+        "alt": "Imagen oficial o relacionada de Helldivers 2",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/helldivers-2/"
+      },
+      "tags": [
+        "Coop",
+        "Servicio",
+        "PS5"
+      ]
+    },
+    {
+      "title": "The Last of Us Part II Remastered",
+      "year": 2024,
+      "studio": "Naughty Dog",
+      "metascore": "90",
+      "status": "Remaster PS5",
+      "summary": "Edicion remasterizada con mejoras y modo No Return para PS5.",
+      "url": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/315718bce7eed62e3cf3fb02d61b81ff1782d6b6cf850fa4.png",
+        "alt": "Imagen oficial o relacionada de The Last of Us Part II Remastered",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/"
+      },
+      "tags": [
+        "Naughty Dog",
+        "Remaster",
+        "PS5"
+      ]
+    },
+    {
+      "title": "MLB The Show 24",
+      "year": 2024,
+      "studio": "San Diego Studio",
+      "metascore": "80",
+      "status": "Deportes",
+      "summary": "Entrega anual publicada por Sony para PS5 y otras plataformas.",
+      "url": "https://www.playstation.com/en-us/games/mlb-the-show-24/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0519/bd9edd225756f2eac93c02ee66e3fb3df62dfcea02c5564c.png",
+        "alt": "Imagen oficial o relacionada de MLB The Show 24",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/mlb-the-show-24/"
+      },
+      "tags": [
+        "San Diego Studio",
+        "MLB",
+        "Deportes"
+      ]
+    },
+    {
+      "title": "Rise of the Ronin",
+      "year": 2024,
+      "studio": "Team Ninja",
+      "metascore": "76",
+      "status": "PS5",
+      "summary": "Accion historica publicada por Sony para PS5 junto a Team Ninja.",
+      "url": "https://www.playstation.com/en-us/games/rise-of-the-ronin/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0606/c7af83ff86dd8668568ad6583341ddb1d0c142535b491383.png",
+        "alt": "Imagen oficial o relacionada de Rise of the Ronin",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/rise-of-the-ronin/"
+      },
+      "tags": [
+        "Team Ninja",
+        "Accion",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Stellar Blade",
+      "year": 2024,
+      "studio": "Shift Up",
+      "metascore": "81",
+      "status": "PS5",
+      "summary": "Accion de ciencia ficcion publicada por Sony y desarrollada por Shift Up.",
+      "url": "https://www.playstation.com/en-us/games/stellar-blade/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png",
+        "alt": "Imagen oficial o relacionada de Stellar Blade",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/stellar-blade/"
+      },
+      "tags": [
+        "Shift Up",
+        "Accion",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Concord",
+      "year": 2024,
+      "studio": "Firewalk Studios",
+      "metascore": "62",
+      "status": "Servicio",
+      "summary": "Hero shooter publicado por Sony y retirado tras su lanzamiento fallido.",
+      "url": "https://www.playstation.com/en-us/games/concord/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2024/09/16612e81e4e1a569a0a3e3644526a8c31cdb8558.jpg",
+        "alt": "Imagen oficial o relacionada de Concord",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/concord/"
+      },
+      "tags": [
+        "Firewalk",
+        "Servicio",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Astro Bot",
+      "year": 2024,
+      "studio": "Team Asobi",
+      "metascore": "94",
+      "status": "Exclusivo PS5",
+      "summary": "Plataformas de Team Asobi y uno de los grandes referentes criticos de PS5.",
+      "url": "https://www.playstation.com/en-us/games/astro-bot/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
+        "alt": "Imagen oficial o relacionada de Astro Bot",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/astro-bot/"
+      },
+      "tags": [
+        "Team Asobi",
+        "Exclusivo",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Until Dawn",
+      "year": 2024,
+      "studio": "Ballistic Moon",
+      "metascore": "69",
+      "status": "Remake PS5",
+      "summary": "Nueva version del juego de terror interactivo publicada por Sony en PS5.",
+      "url": "https://www.playstation.com/en-us/games/until-dawn/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png",
+        "alt": "Imagen oficial o relacionada de Until Dawn",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/until-dawn/"
+      },
+      "tags": [
+        "Terror",
+        "Remake",
+        "PS5"
+      ]
+    },
+    {
+      "title": "LEGO Horizon Adventures",
+      "year": 2024,
+      "studio": "Guerrilla / Studio Gobo",
+      "metascore": "70",
+      "status": "PS5",
+      "summary": "Relectura familiar de Horizon con formato LEGO y tono cooperativo.",
+      "url": "https://www.playstation.com/en-us/games/lego-horizon-adventures/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/96a84262e4562c459c213515a9dfd53d82547603b86a2c6a.png",
+        "alt": "Imagen oficial o relacionada de LEGO Horizon Adventures",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/lego-horizon-adventures/"
+      },
+      "tags": [
+        "Horizon",
+        "LEGO",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn Remastered",
+      "year": 2024,
+      "studio": "Guerrilla / Nixxes",
+      "metascore": "85",
+      "status": "Remaster PS5",
+      "summary": "Remasterizacion del primer Horizon con mejoras visuales para PS5 y PC.",
+      "url": "https://www.playstation.com/en-us/games/horizon-zero-dawn-remastered/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
+        "alt": "Imagen oficial o relacionada de Horizon Zero Dawn Remastered",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/horizon-zero-dawn-remastered/"
+      },
+      "tags": [
+        "Horizon",
+        "Remaster",
+        "PS5"
+      ]
+    },
+    {
+      "title": "MLB The Show 25",
+      "year": 2025,
+      "studio": "San Diego Studio",
+      "metascore": "83",
+      "status": "Deportes",
+      "summary": "Entrega de 2025 de la saga MLB publicada por Sony Interactive Entertainment.",
+      "url": "https://www.playstation.com/en-us/games/mlb-the-show-25/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0922/42277abc2f6993a5c8194cfb77f82b36e0f9ba510f7a4403.png",
+        "alt": "Imagen oficial o relacionada de MLB The Show 25",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/mlb-the-show-25/"
+      },
+      "tags": [
+        "San Diego Studio",
+        "MLB",
+        "Deportes"
+      ]
+    },
+    {
+      "title": "Days Gone Remastered",
+      "year": 2025,
+      "studio": "Bend Studio",
+      "metascore": "78",
+      "status": "Remaster PS5",
+      "summary": "Revision para PS5 del mundo abierto de Bend Studio.",
+      "url": "https://www.metacritic.com/game/days-gone-remastered/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+        "alt": "Imagen oficial o relacionada de Days Gone Remastered",
+        "credit": "Imagen editorial",
+        "sourceUrl": "https://www.metacritic.com/game/days-gone-remastered/"
+      },
+      "tags": [
+        "Bend Studio",
+        "Remaster",
+        "PS5"
+      ]
+    },
+    {
+      "title": "Death Stranding 2: On the Beach",
+      "year": 2025,
+      "studio": "Kojima Productions",
+      "metascore": "89",
+      "status": "PS5",
+      "summary": "Secuela publicada por Sony para PS5 dentro de la colaboracion con Kojima Productions.",
+      "url": "https://www.playstation.com/en-us/games/death-stranding-2-on-the-beach/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+        "alt": "Imagen oficial o relacionada de Death Stranding 2: On the Beach",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/death-stranding-2-on-the-beach/"
+      },
+      "tags": [
+        "Kojima",
+        "PS5",
+        "Exclusivo consola"
+      ]
+    },
+    {
+      "title": "Ghost of Yotei",
+      "year": 2025,
+      "studio": "Sucker Punch",
+      "metascore": "86",
+      "status": "PS5",
+      "summary": "Nueva entrega de Sucker Punch dentro del universo de Ghost, publicada por Sony.",
+      "url": "https://www.playstation.com/en-us/games/ghost-of-yotei/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png",
+        "alt": "Imagen oficial o relacionada de Ghost of Yotei",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/ghost-of-yotei/"
+      },
+      "tags": [
+        "Sucker Punch",
+        "PS5",
+        "Exclusivo"
+      ]
+    },
+    {
+      "title": "Saros",
+      "year": 2026,
+      "studio": "Housemarque",
+      "metascore": "87",
+      "status": "PS5",
+      "summary": "Nueva IP de Housemarque y una de las fichas clave del radar de reviews de BluePoint.",
+      "url": "https://www.playstation.com/en-us/games/saros/",
+      "scoreSource": "Metacritic",
+      "image": {
+        "url": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/78549217df5077bea107700e077d04be6a9a4b0dfbcd821a.png",
+        "alt": "Imagen oficial o relacionada de Saros",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.playstation.com/en-us/games/saros/"
+      },
+      "tags": [
+        "Housemarque",
+        "Saros",
+        "Reviews"
+      ]
     }
   ],
   "studios": [

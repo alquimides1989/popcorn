@@ -1,6 +1,6 @@
 ﻿const fs = require("node:fs");
 
-const scriptVersion = "10";
+const scriptVersion = "11";
 const readJson = (file, fallback) => {
   try {
     return JSON.parse(fs.readFileSync(file, "utf8"));
@@ -217,10 +217,19 @@ const gamesContent = `<section class="resource-section">
           ${engagement.gameHubs
             .map(
               (item) => `<article class="resource-card game-resource">
-            <span class="label">${item.status}</span>
-            <h3>${item.title}</h3>
-            <p>${item.summary}</p>
-            <small>${item.studio}</small>
+            <div class="game-cover">
+              <img src="${item.image?.url || "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=900&q=82"}" alt="${item.image?.alt || item.title}" loading="lazy" />
+            </div>
+            <div class="game-resource-copy">
+              <div class="game-meta-row">
+                <span class="label">${item.year || "PS5"}</span>
+                <span class="game-score">${item.metascore || "N/D"} <small>Meta</small></span>
+              </div>
+              <h3>${item.title}</h3>
+              <p>${item.summary}</p>
+              <small>${item.studio} · ${item.status}</small>
+              <a href="${item.url || "#"}" target="_blank" rel="noopener">Ver ficha oficial -&gt;</a>
+            </div>
             <div class="tag-row">${item.tags.map((tag) => `<span>${tag}</span>`).join("")}</div>
           </article>`
             )

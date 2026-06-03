@@ -66,6 +66,20 @@
       "useFor": ["noticias en espanol", "PlayStation", "industria"]
     }
   ],
+  "sonyPublishedGamesRadar": [
+    {
+      "name": "Metacritic - Sony Interactive Entertainment",
+      "url": "https://www.metacritic.com/company/sony-interactive-entertainment/",
+      "useFor": ["juegos publicados por Sony", "metascore", "ano de lanzamiento", "catalogo PS5"],
+      "priority": "alta"
+    },
+    {
+      "name": "Metacritic - PlayStation Studios",
+      "url": "https://www.metacritic.com/company/playstation-studios/",
+      "useFor": ["juegos first party", "metascore", "reviews", "PlayStation Studios"],
+      "priority": "alta"
+    }
+  ],
   "sarosReviewRadar": [
     {
       "name": "Metacritic - Saros critic reviews PS5",

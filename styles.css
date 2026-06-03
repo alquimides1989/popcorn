@@ -891,7 +891,10 @@ h1 {
 }
 
 .score-pill strong {
-  font-size: 1.8rem;
+  max-width: 82%;
+  overflow-wrap: anywhere;
+  text-align: center;
+  font-size: clamp(0.78rem, 1.7vw, 1.8rem);
   line-height: 1;
 }
 
@@ -932,6 +935,69 @@ h1 {
   background: rgba(19, 217, 255, 0.08);
   font-size: 0.68rem;
   font-weight: 900;
+}
+
+.game-hub-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.game-resource {
+  display: grid;
+  gap: 14px;
+  min-height: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.game-cover {
+  position: relative;
+  min-height: 160px;
+  aspect-ratio: 16 / 9;
+  background: radial-gradient(circle at 50% 45%, rgba(46, 140, 255, 0.32), rgba(2, 8, 18, 0.95));
+  overflow: hidden;
+}
+
+.game-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.game-resource-copy {
+  padding: 0 18px;
+}
+
+.game-meta-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.game-score {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  min-width: 58px;
+  justify-content: center;
+  padding: 6px 8px;
+  border: 1px solid rgba(19, 217, 255, 0.54);
+  border-radius: 999px;
+  color: white;
+  background: rgba(19, 217, 255, 0.12);
+  font-weight: 900;
+}
+
+.game-score small {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+}
+
+.game-resource .tag-row {
+  padding: 0 18px 18px;
 }
 
 .news-grid {
@@ -2219,6 +2285,7 @@ h1 {
   .platform-grid,
   .resource-grid,
   .timeline-grid,
+  .game-hub-grid,
   .trailer-grid,
   .command-grid,
   .intelligence-hub {
