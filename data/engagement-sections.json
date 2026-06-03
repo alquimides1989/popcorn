@@ -1,41 +1,446 @@
 {
-  "updatedAt": "2026-06-03T13:45:00+02:00",
+  "updatedAt": "2026-06-03T14:25:00+02:00",
   "calendar": [
+    {
+      "date": "2026-06-05",
+      "label": "05 JUN",
+      "title": "Gothic 1 Remake",
+      "summary": "Remake del RPG de culto con lanzamiento previsto en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-17",
+      "label": "17 JUN",
+      "title": "Denshattack",
+      "summary": "Accion ferroviaria y estilo arcade con fecha marcada para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-18",
+      "label": "18 JUN",
+      "title": "#DRIVE Rally",
+      "summary": "Rally arcade con estreno previsto en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-18",
+      "label": "18 JUN",
+      "title": "R-Type Tactics I - II Cosmos",
+      "summary": "Estrategia y shoot em up clasico en recopilacion para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-18",
+      "label": "18 JUN",
+      "title": "The Adventures of Elliot: The Millennium Tales",
+      "summary": "Nueva aventura de Square Enix con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-19",
+      "label": "19 JUN",
+      "title": "EA Sports UFC 6",
+      "summary": "Nueva entrega deportiva de artes marciales mixtas para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-25",
+      "label": "25 JUN",
+      "title": "Dead or Alive 6: Last Round",
+      "summary": "Revision de lucha con lanzamiento previsto en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-06-26",
+      "label": "26 JUN",
+      "title": "Sonic Racing: CrossWorlds",
+      "summary": "Nueva entrega de carreras de Sonic listada para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "GamesRadar+"
+    },
+    {
+      "date": "2026-07-02",
+      "label": "02 JUL",
+      "title": "Avatar Legends: The Fighting Game",
+      "summary": "Juego de lucha basado en Avatar con version PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-02",
+      "label": "02 JUL",
+      "title": "Backyard Baseball 97",
+      "summary": "Regreso deportivo arcade con version PS5 listada.",
+      "type": "Lanzamiento",
+      "priority": "baja",
+      "source": "GamesRadar+"
+    },
+    {
+      "date": "2026-07-09",
+      "label": "09 JUL",
+      "title": "Assassin's Creed: Black Flag Resynced",
+      "summary": "Regreso remasterizado de Black Flag con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-09",
+      "label": "09 JUL",
+      "title": "Granblue Fantasy: Relink - Endless Ragnarok",
+      "summary": "Expansion o nueva edicion de Granblue Fantasy: Relink para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-10",
+      "label": "10 JUL",
+      "title": "Echoes of Aincrad: Sword Art Online",
+      "summary": "Nueva propuesta de Sword Art Online con llegada a PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-16",
+      "label": "16 JUL",
+      "title": "eBaseball: Pro Spirit 2026",
+      "summary": "Beisbol japones con fecha de salida en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-23",
+      "label": "23 JUL",
+      "title": "Disgaea Mayhem",
+      "summary": "Nueva entrega tactica con humor y estrategia para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-28",
+      "label": "28 JUL",
+      "title": "Gothic",
+      "summary": "Lanzamiento de Gothic listado para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-30",
+      "label": "30 JUL",
+      "title": "Blue Reflection Quartet",
+      "summary": "Nueva entrega de rol japones con salida en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-30",
+      "label": "30 JUL",
+      "title": "Kusan: City of Wolves",
+      "summary": "Accion urbana con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-07-30",
+      "label": "30 JUL",
+      "title": "Truxton Extreme",
+      "summary": "Shoot em up clasico con version PS5 fechada.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-08-04",
+      "label": "04 AGO",
+      "title": "Beast of Reincarnation",
+      "summary": "Accion de Game Freak y Fictions con salida para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-08-06",
+      "label": "06 AGO",
+      "title": "MARVEL Tokon: Fighting Souls",
+      "summary": "Juego de lucha de Arc System Works y Marvel con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / PlayStation Blog"
+    },
+    {
+      "date": "2026-08-14",
+      "label": "14 AGO",
+      "title": "Grave Seasons",
+      "summary": "Propuesta de misterio y vida rural con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-08-20",
+      "label": "20 AGO",
+      "title": "STEINS;GATE RE:BOOT",
+      "summary": "Reinicio de la novela visual, listado para PS5 en Japon.",
+      "type": "Lanzamiento JP",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-08-26",
+      "label": "26 AGO",
+      "title": "Brigandine Abyss",
+      "summary": "Estrategia y fantasia con estreno previsto en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-08-27",
+      "label": "27 AGO",
+      "title": "Metal Gear Solid: Master Collection Vol. 2",
+      "summary": "Nueva recopilacion de Metal Gear con salida en PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-08-28",
+      "label": "28 AGO",
+      "title": "Captain Tsubasa 2: World Fighters",
+      "summary": "Futbol arcade basado en Captain Tsubasa con version PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-09-03",
+      "label": "03 SEP",
+      "title": "The Blood of Dawnwalker",
+      "summary": "RPG de accion listado para PS5 a comienzos de septiembre.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "08 SEP",
+      "title": "Halloween",
+      "summary": "Juego de terror basado en Halloween con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
     {
       "date": "2026-09-15",
       "label": "15 SEP",
       "title": "Marvel's Wolverine",
-      "summary": "Lanzamiento confirmado para PS5 tras el State of Play.",
+      "summary": "Exclusivo de Insomniac Games confirmado para PS5 tras State of Play.",
       "type": "Lanzamiento",
       "priority": "alta",
-      "source": "PlayStation Blog"
+      "source": "PlayStation Blog / Push Square"
+    },
+    {
+      "date": "2026-09-17",
+      "label": "17 SEP",
+      "title": "Trails in the Sky 2nd Chapter",
+      "summary": "Nueva entrega JRPG con version PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-09-22",
+      "label": "22 SEP",
+      "title": "Dune Awakening",
+      "summary": "Supervivencia online en Arrakis con version PS5 fechada.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "GamesRadar+"
     },
     {
       "date": "2026-09-24",
       "label": "24 SEP",
       "title": "Control Resonant",
-      "summary": "Fecha revelada para PS5 con nuevo trailer de historia.",
+      "summary": "Nueva crisis paranatural con fecha revelada para PS5.",
       "type": "Lanzamiento",
       "priority": "alta",
-      "source": "PlayStation"
+      "source": "PlayStation / Push Square"
+    },
+    {
+      "date": "2026-09-24",
+      "label": "24 SEP",
+      "title": "Silent Hill: Townfall",
+      "summary": "Terror psicologico de Konami con fecha oficial para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "PlayStation Blog / Push Square"
+    },
+    {
+      "date": "2026-09-25",
+      "label": "25 SEP",
+      "title": "Onimusha: Way of the Sword",
+      "summary": "Regreso de Onimusha con fecha para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-09-29",
+      "label": "29 SEP",
+      "title": "Gothic II Complete Classic",
+      "summary": "Edicion clasica completa con llegada a PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "01 OCT",
+      "title": "Dynasty Warriors 3: Complete Edition Remastered",
+      "summary": "Remaster completo de Dynasty Warriors 3 para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "01 OCT",
+      "title": "Rayman Legends Retold",
+      "summary": "Nueva version de Rayman Legends con lanzamiento en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "01 OCT",
+      "title": "Rayman Origins: Enhanced Edition",
+      "summary": "Edicion mejorada de Rayman Origins listada para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
     },
     {
       "date": "2026-10-02",
       "label": "02 OCT",
       "title": "Ace Combat 8: Wings of Theve",
-      "summary": "Nueva entrega de la saga aerea de Bandai Namco en PS5.",
-      "type": "Lanzamiento",
-      "priority": "media",
-      "source": "PlayStation"
-    },
-    {
-      "date": "2027-02-12",
-      "label": "12 FEB",
-      "title": "Tomb Raider: Legacy of Atlantis",
-      "summary": "Nueva aventura de Lara Croft con ediciones de lanzamiento detalladas.",
+      "summary": "Nueva entrega aerea de Bandai Namco con fecha global para PS5.",
       "type": "Lanzamiento",
       "priority": "alta",
-      "source": "PlayStation Blog"
+      "source": "PlayStation Blog / Push Square"
+    },
+    {
+      "date": "2026-10-06",
+      "label": "06 OCT",
+      "title": "Star Wars: Galactic Racer",
+      "summary": "Juego de carreras de Star Wars con version PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-10-13",
+      "label": "13 OCT",
+      "title": "Planet Zoo 2",
+      "summary": "Gestion de zoologicos con lanzamiento previsto en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-10-23",
+      "label": "23 OCT",
+      "title": "Call of Duty: Modern Warfare 4",
+      "summary": "Nueva entrega de Call of Duty con salida en PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "28 OCT",
+      "title": "Anomalith",
+      "summary": "Lanzamiento de accion o aventura listado para PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "GamesRadar+"
+    },
+    {
+      "date": "2026-10-29",
+      "label": "29 OCT",
+      "title": "Phantom Blade Zero",
+      "summary": "Accion estilizada con fecha PS5 listada por fuente especializada.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-10-30",
+      "label": "30 OCT",
+      "title": "The Cat in the Hat: Rainy Day Mayhem",
+      "summary": "Juego familiar con salida prevista en PS5.",
+      "type": "Lanzamiento",
+      "priority": "baja",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-11-05",
+      "label": "05 NOV",
+      "title": "CRYMELIGHT",
+      "summary": "Lanzamiento listado para PS5 a comienzos de noviembre.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "19 NOV",
+      "title": "Grand Theft Auto 6",
+      "summary": "Uno de los grandes lanzamientos del ano, confirmado para PS5.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "Rockstar / Push Square / GamesRadar+"
+    },
+    {
+      "date": "2026-11-24",
+      "label": "24 NOV",
+      "title": "Gothic III Classic",
+      "summary": "Version clasica listada para PS5 a finales de noviembre.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "Push Square"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Q4",
+      "title": "Metro 2039",
+      "summary": "Ventana Q4 2026 para PS5; pendiente de dia exacto.",
+      "type": "Ventana",
+      "priority": "media",
+      "source": "Push Square"
     }
   ],
   "reviews": [
