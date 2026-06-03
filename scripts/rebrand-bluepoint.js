@@ -68,7 +68,6 @@ const nav = (active) => {
     ["Inicio", "index.html"],
     ["Noticias PS5", "playstation.html"],
     ["Calendario", "calendario.html"],
-    ["Reviews", "reviews.html"],
     ["PS Plus", "ps-plus.html"],
     ["Rumores", "rumores.html"],
     ["Juegos", "juegos.html"],
@@ -141,28 +140,6 @@ const calendarContent = `<section class="resource-section">
             <h3>${item.title}</h3>
             <p>${item.summary}</p>
             <small>Fuente: ${item.source}</small>
-          </article>`
-            )
-            .join("\n          ")}
-        </div>
-      </section>`;
-
-const reviewsContent = `<section class="resource-section">
-        <div class="section-heading">
-          <h2>Reviews y notas</h2>
-          <p>Recepcion critica, Metacritic y medios especializados sin reducir cada juego a una cifra.</p>
-        </div>
-        <div class="resource-grid">
-          ${engagement.reviews
-            .map(
-              (item) => `<article class="resource-card review-resource">
-            <div class="score-pill"><strong>${item.score}</strong><span>${item.scoreLabel}</span></div>
-            <div>
-              <span class="label">${item.status}</span>
-              <h3>${item.title}</h3>
-              <p>${item.summary}</p>
-              <a href="${item.url}" target="_blank" rel="noopener">Ver fuente -&gt;</a>
-            </div>
           </article>`
             )
             .join("\n          ")}
@@ -461,7 +438,6 @@ const home = `${head("BluePoint")}
           <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores -&gt;</b></span></a>
           <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias -&gt;</b></span></a>
           <a class="platform-card play" href="./calendario.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>Calendario PS5</strong><small>Fechas, reservas, betas, demos y eventos importantes.</small><b>Ver calendario -&gt;</b></span></a>
-          <a class="platform-card play" href="./reviews.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>Reviews y notas</strong><small>Metacritic, analisis y que dicen los medios especializados.</small><b>Ver reviews -&gt;</b></span></a>
           <a class="platform-card play" href="./ofertas.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Ofertas PS Store</strong><small>Rebajas, reservas, accesorios y oportunidades monetizables.</small><b>Ver ofertas -&gt;</b></span></a>
           <a class="platform-card play" href="./juegos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Fichas de juegos</strong><small>Saros, Wolverine, Intergalactic y hubs vivos por juego.</small><b>Ver juegos -&gt;</b></span></a>
           <a class="platform-card play" href="./estudios.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Radar de estudios</strong><small>Insomniac, Housemarque, Naughty Dog, Santa Monica y mas.</small><b>Ver estudios -&gt;</b></span></a>
@@ -573,17 +549,6 @@ resourcePage({
   copy: "Fechas de salida, reservas, betas, demos y eventos para que el lector vuelva cada semana.",
   icon: "state",
   content: calendarContent,
-});
-
-resourcePage({
-  file: "reviews.html",
-  title: "Reviews y notas",
-  active: "Reviews",
-  label: "Reviews",
-  heading: "Reviews y notas",
-  copy: "Recepcion critica de juegos PlayStation con contexto, fuentes y seguimiento de Metacritic.",
-  icon: "plus",
-  content: reviewsContent,
 });
 
 resourcePage({

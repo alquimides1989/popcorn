@@ -8,7 +8,6 @@ const files = [
   "data/engagement-sections.json",
   "POSTS_X_MANUAL.md",
   "calendario.html",
-  "reviews.html",
   "rumorometro.html",
   "ofertas.html",
   "juegos.html",

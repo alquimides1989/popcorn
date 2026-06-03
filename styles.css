@@ -871,40 +871,6 @@ h1 {
   font-weight: 900;
 }
 
-.review-resource {
-  display: grid;
-  grid-template-columns: 104px 1fr;
-  gap: 18px;
-}
-
-.score-pill {
-  display: grid;
-  place-items: center;
-  align-self: start;
-  width: 92px;
-  aspect-ratio: 1;
-  border: 1px solid rgba(19, 217, 255, 0.72);
-  border-radius: 50%;
-  background:
-    radial-gradient(circle at 50% 42%, rgba(19, 217, 255, 0.32), transparent 62%),
-    rgba(2, 8, 18, 0.88);
-}
-
-.score-pill strong {
-  max-width: 82%;
-  overflow-wrap: anywhere;
-  text-align: center;
-  font-size: clamp(0.78rem, 1.7vw, 1.8rem);
-  line-height: 1;
-}
-
-.score-pill span {
-  color: var(--muted);
-  font-size: 0.62rem;
-  font-weight: 900;
-  text-transform: uppercase;
-}
-
 .meter-line {
   height: 10px;
   margin-top: 14px;
@@ -2371,10 +2337,6 @@ h1 {
   .trailer-grid,
   .command-grid,
   .intelligence-hub {
-    grid-template-columns: 1fr;
-  }
-
-  .review-resource {
     grid-template-columns: 1fr;
   }
 
