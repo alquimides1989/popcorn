@@ -14,6 +14,7 @@ const head = (title) => `<!doctype html>
     <link rel="icon" href="./assets/bluepoint-symbol-white.png" type="image/png" />
     <link rel="stylesheet" href="./styles.css" />
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
+    <script src="./poll.js?v=${scriptVersion}" defer></script>
   </head>`;
 
 const sectionIcon = (name) => `<span class="section-icon official-ps-icon ${name}-icon" aria-hidden="true">
@@ -116,6 +117,21 @@ const trailerSection = `<section class="trailer-strip" id="trailers">
         </div>
       </section>`;
 
+const statePoll = `<section class="state-poll" aria-labelledby="state-poll-title" data-poll="state-of-play-junio-2026">
+        <div class="poll-copy">
+          <span class="label">Encuesta</span>
+          <h2 id="state-poll-title">Que anuncio del State of Play te dejo con mas ganas?</h2>
+          <p>Vota y mira como queda el pulso de la comunidad BluePoint en esta portada.</p>
+        </div>
+        <form class="poll-form" data-poll-form>
+          <button type="button" data-poll-option="god-of-war-laufey"><span>God of War Laufey</span><b data-poll-count>0%</b></button>
+          <button type="button" data-poll-option="wolverine"><span>Marvel's Wolverine</span><b data-poll-count>0%</b></button>
+          <button type="button" data-poll-option="until-dawn-2"><span>Until Dawn 2</span><b data-poll-count>0%</b></button>
+          <button type="button" data-poll-option="control-resonant"><span>Control Resonant</span><b data-poll-count>0%</b></button>
+        </form>
+        <p class="poll-status" data-poll-status>Vota para desbloquear los resultados.</p>
+      </section>`;
+
 const home = `${head("BluePoint")}
   <body data-group="playstation">
     ${nav("Inicio")}
@@ -169,6 +185,8 @@ const home = `${head("BluePoint")}
         </div>
         <div class="news-grid" data-news-grid></div>
       </section>
+
+      ${statePoll}
 
       ${trailerSection}
 
