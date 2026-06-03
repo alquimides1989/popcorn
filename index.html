@@ -29,10 +29,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
     <link rel="icon" href="./assets/bluepoint-symbol-white.png" type="image/png" />
-    <link rel="stylesheet" href="./styles.css?v=11" />
-    <script src="./noticias.js?v=11" defer></script>
-    <script src="./poll.js?v=11" defer></script>
-    <script src="./engagement.js?v=11" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=12" />
+    <script src="./noticias.js?v=12" defer></script>
+    <script src="./poll.js?v=12" defer></script>
+    <script src="./engagement.js?v=12" defer></script>
+    <script src="./newsletter.js?v=12" defer></script>
   </head>
   <body data-group="playstation">
     <header class="site-header">
@@ -303,8 +304,22 @@
 
       <section class="newsletter" aria-label="Suscripcion">
         <div class="mail-icon" aria-hidden="true">@</div>
-        <div><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Actualidad PlayStation, PS Plus, State of Play y exclusivos.</p></div>
-        <form><label class="sr-only" for="email">Tu correo electronico</label><input id="email" type="email" placeholder="Tu correo electronico" /><button type="submit">Suscribirme</button><small>No enviamos spam. Puedes darte de baja cuando quieras.</small></form>
+        <div><span class="label">Newsletter</span><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Resumen PlayStation con noticias PS5, PS Plus, State of Play, calendario y ofertas.</p></div>
+        <form class="newsletter-form" data-newsletter-form data-endpoint="/api/brevo-subscribe">
+          <label class="sr-only" for="newsletter-email">Tu correo electronico</label>
+          <div class="newsletter-fields">
+            <input id="newsletter-email" name="email" type="email" autocomplete="email" placeholder="Tu correo electronico" required />
+            <button type="submit">Unirme</button>
+          </div>
+          <fieldset class="newsletter-topics" aria-label="Temas de interes">
+            <label><input type="checkbox" name="segments" value="Noticias PS5" checked /> Noticias PS5</label>
+            <label><input type="checkbox" name="segments" value="PS Plus" checked /> PS Plus</label>
+            <label><input type="checkbox" name="segments" value="Ofertas" /> Ofertas</label>
+            <label><input type="checkbox" name="segments" value="State of Play" /> State of Play</label>
+          </fieldset>
+          <label class="newsletter-consent"><input type="checkbox" name="consent" required /> Acepto recibir emails de BluePoint y poder darme de baja cuando quiera.</label>
+          <small data-newsletter-status>No enviamos spam. Usaremos Brevo para gestionar altas y bajas.</small>
+        </form>
       </section>
     </main>
   </body>

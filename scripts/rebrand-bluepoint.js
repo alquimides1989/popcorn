@@ -1,6 +1,6 @@
 ﻿const fs = require("node:fs");
 
-const scriptVersion = "11";
+const scriptVersion = "12";
 const readJson = (file, fallback) => {
   try {
     return JSON.parse(fs.readFileSync(file, "utf8"));
@@ -53,6 +53,7 @@ const head = (title) => `<!doctype html>
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
     <script src="./poll.js?v=${scriptVersion}" defer></script>
     <script src="./engagement.js?v=${scriptVersion}" defer></script>
+    <script src="./newsletter.js?v=${scriptVersion}" defer></script>
   </head>`;
 
 const playStationGlyph = `<svg width="96" height="96" viewBox="0 0 24 24" role="img" aria-label="PlayStation" xmlns="http://www.w3.org/2000/svg">
@@ -464,8 +465,22 @@ const home = `${head("BluePoint")}
 
       <section class="newsletter" aria-label="Suscripcion">
         <div class="mail-icon" aria-hidden="true">@</div>
-        <div><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Actualidad PlayStation, PS Plus, State of Play y exclusivos.</p></div>
-        <form><label class="sr-only" for="email">Tu correo electronico</label><input id="email" type="email" placeholder="Tu correo electronico" /><button type="submit">Suscribirme</button><small>No enviamos spam. Puedes darte de baja cuando quieras.</small></form>
+        <div><span class="label">Newsletter</span><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Resumen PlayStation con noticias PS5, PS Plus, State of Play, calendario y ofertas.</p></div>
+        <form class="newsletter-form" data-newsletter-form data-endpoint="/api/brevo-subscribe">
+          <label class="sr-only" for="newsletter-email">Tu correo electronico</label>
+          <div class="newsletter-fields">
+            <input id="newsletter-email" name="email" type="email" autocomplete="email" placeholder="Tu correo electronico" required />
+            <button type="submit">Unirme</button>
+          </div>
+          <fieldset class="newsletter-topics" aria-label="Temas de interes">
+            <label><input type="checkbox" name="segments" value="Noticias PS5" checked /> Noticias PS5</label>
+            <label><input type="checkbox" name="segments" value="PS Plus" checked /> PS Plus</label>
+            <label><input type="checkbox" name="segments" value="Ofertas" /> Ofertas</label>
+            <label><input type="checkbox" name="segments" value="State of Play" /> State of Play</label>
+          </fieldset>
+          <label class="newsletter-consent"><input type="checkbox" name="consent" required /> Acepto recibir emails de BluePoint y poder darme de baja cuando quiera.</label>
+          <small data-newsletter-status>No enviamos spam. Usaremos Brevo para gestionar altas y bajas.</small>
+        </form>
       </section>
     </main>
   </body>
