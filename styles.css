@@ -574,6 +574,8 @@ h1 {
 .platforms,
 .featured,
 .trailer-strip,
+.command-center,
+.intelligence-hub,
 .growth-panel,
 .sponsor-panel {
   margin-top: 12px;
@@ -764,6 +766,185 @@ h1 {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 14px;
+}
+
+.command-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) repeat(3, minmax(170px, 0.55fr));
+  gap: 14px;
+}
+
+.search-console,
+.pulse-card,
+.intel-card {
+  border: 1px solid rgba(46, 140, 255, 0.62);
+  border-radius: var(--radius);
+  background:
+    linear-gradient(135deg, rgba(7, 39, 103, 0.28), rgba(10, 15, 25, 0.88)),
+    rgba(10, 15, 25, 0.82);
+  box-shadow: 0 16px 54px rgba(0, 0, 0, 0.2), inset 0 0 24px rgba(46, 140, 255, 0.08);
+}
+
+.search-console {
+  min-height: 132px;
+  padding: 18px;
+}
+
+.search-console h3 {
+  margin-top: 10px;
+  font-size: clamp(1.15rem, 1.8vw, 1.5rem);
+  line-height: 1.04;
+}
+
+.search-console input {
+  width: 100%;
+  height: 46px;
+  margin-top: 14px;
+  padding: 0 16px;
+  border: 1px solid rgba(19, 217, 255, 0.38);
+  border-radius: 7px;
+  color: white;
+  background: rgba(4, 10, 22, 0.78);
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.search-console p {
+  margin-top: 9px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.pulse-card {
+  display: grid;
+  align-content: center;
+  gap: 8px;
+  min-height: 132px;
+  padding: 16px;
+}
+
+.pulse-card strong {
+  color: var(--cyan);
+  font-size: clamp(2.1rem, 4vw, 3rem);
+  font-weight: 900;
+  line-height: 0.9;
+}
+
+.pulse-card span {
+  color: #eaf2ff;
+  font-size: 0.84rem;
+  font-weight: 800;
+  line-height: 1.18;
+}
+
+.intelligence-hub {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.9fr) minmax(280px, 0.9fr);
+  gap: 14px;
+}
+
+.intel-card {
+  min-height: 220px;
+  padding: 18px;
+}
+
+.intel-card h2 {
+  margin-top: 10px;
+  font-size: clamp(1.2rem, 1.8vw, 1.5rem);
+  line-height: 1.04;
+}
+
+.release-list {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  margin: 14px 0 0;
+  list-style: none;
+}
+
+.release-list li {
+  display: grid;
+  grid-template-columns: 68px 1fr;
+  gap: 12px;
+  align-items: center;
+  min-height: 54px;
+}
+
+.release-list time {
+  display: grid;
+  place-items: center;
+  min-height: 40px;
+  border: 1px solid rgba(255, 210, 28, 0.44);
+  border-radius: 7px;
+  color: var(--gold);
+  background: rgba(4, 10, 22, 0.78);
+  font-size: 0.74rem;
+  font-weight: 900;
+}
+
+.release-list strong,
+.plus-stack span {
+  display: block;
+  font-size: 0.92rem;
+  font-weight: 900;
+  line-height: 1.08;
+}
+
+.release-list small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.plus-stack {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.plus-stack span {
+  min-height: 40px;
+  padding: 11px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 7px;
+  background: rgba(4, 10, 22, 0.72);
+}
+
+.intel-card p {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.36;
+}
+
+.rumor-meter {
+  height: 14px;
+  margin-top: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+  background: rgba(4, 10, 22, 0.8);
+  overflow: hidden;
+}
+
+.rumor-meter span {
+  display: block;
+  width: var(--meter);
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--cyan), var(--gold));
+}
+
+.rumor-card a {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--cyan);
+  font-size: 0.84rem;
+  font-weight: 900;
 }
 
 .trailer-grid {
@@ -1849,8 +2030,14 @@ h1 {
 
   .top-grid,
   .platform-grid,
-  .trailer-grid {
+  .trailer-grid,
+  .command-grid,
+  .intelligence-hub {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .search-console {
+    grid-column: 1 / -1;
   }
 
   .state-poll {
@@ -1923,7 +2110,9 @@ h1 {
   .top-grid,
   .platform-grid,
   .news-grid,
-  .trailer-grid {
+  .trailer-grid,
+  .command-grid,
+  .intelligence-hub {
     grid-template-columns: 1fr;
   }
 

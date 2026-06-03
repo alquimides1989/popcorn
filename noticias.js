@@ -142,6 +142,7 @@ const escapeText = (value) =>
 
 const getCategoryClass = (category) => CATEGORY_CLASS[category] || "pc";
 const getCategoryLink = (category) => CATEGORY_LINK[category] || "./videojuegos.html";
+let activeItems = [];
 
 function hasAny(item, values) {
   const haystack = [item.title, item.summary, item.category, ...(Array.isArray(item.tags) ? item.tags : [])].join(" ");
@@ -342,6 +343,42 @@ function renderGrid(items) {
   }).join("");
 }
 
+function setupNewsSearch(items) {
+  const input = document.querySelector("[data-news-search]");
+  if (!input) return;
+
+  const status = document.querySelector("[data-search-status]");
+  const runSearch = () => {
+    const query = input.value.trim().toLowerCase();
+    const filtered = query
+      ? items.filter((item) =>
+          [
+            item.title,
+            item.summary,
+            item.source,
+            item.confidence,
+            ...(Array.isArray(item.tags) ? item.tags : []),
+          ]
+            .join(" ")
+            .toLowerCase()
+            .includes(query)
+        )
+      : items;
+
+    renderGrid(filtered);
+    renderNow(filtered);
+
+    if (status) {
+      status.textContent = query
+        ? `${filtered.length} resultado${filtered.length === 1 ? "" : "s"} para "${input.value.trim()}".`
+        : "Mostrando la seleccion editorial de portada.";
+    }
+  };
+
+  input.addEventListener("input", runSearch);
+  runSearch();
+}
+
 function renderList(items) {
   const list = document.querySelector("[data-news-list]");
   if (!list) return;
@@ -386,8 +423,10 @@ function renderList(items) {
 
 loadNews().then((data) => {
   const items = filterItemsForPage(sortNews(data.items || []));
+  activeItems = items;
   renderTicker(items);
   renderNow(items);
   renderGrid(items);
   renderList(items);
+  setupNewsSearch(items);
 });
