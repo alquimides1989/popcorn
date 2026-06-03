@@ -1,10 +1,85 @@
 {
-  "updatedAt": "2026-06-02T08:35:50.791Z",
+  "updatedAt": "2026-06-03T07:06:49.562Z",
   "items": [
+    {
+      "newsId": "tomb-raider-legacy-atlantis-ps5-fecha",
+      "text": "Tomb Raider: Legacy of Atlantis ya tiene fecha para PS5: 12 de febrero de 2027. PlayStation detalla ediciones, gameplay y regreso de personaje clave. #BluePoint #TombRaider #PS5 #PlayStation",
+      "hashtags": [
+        "#BluePoint",
+        "#TombRaider",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Imagen oficial de Tomb Raider: Legacy of Atlantis para PS5",
+      "imageCredit": "PlayStation Blog",
+      "createdAt": "2026-06-03T12:20:00+02:00"
+    },
+    {
+      "newsId": "silent-hill-townfall-ps5-septiembre",
+      "text": "Silent Hill: Townfall llegara a PS5 el 24 de septiembre con puzzles narrativos, terror psicologico y reservas abiertas. #BluePoint #SilentHill #PS5 #HorrorGames",
+      "hashtags": [
+        "#BluePoint",
+        "#SilentHill",
+        "#PS5",
+        "#HorrorGames"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Imagen oficial de Silent Hill: Townfall para PS5",
+      "imageCredit": "PlayStation Blog",
+      "createdAt": "2026-06-03T12:20:00+02:00"
+    },
+    {
+      "newsId": "marvel-tokon-magneto-green-goblin-carnage",
+      "text": "MARVEL Tokon: Fighting Souls suma a Magneto, Green Goblin y Carnage. Arc System Works refuerza su juego de lucha con los Knights of Doom. #BluePoint #MARVELTokon #PS5 #FightingGames",
+      "hashtags": [
+        "#BluePoint",
+        "#MARVELTokon",
+        "#PS5",
+        "#FightingGames"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Imagen oficial de MARVEL Tokon: Fighting Souls",
+      "imageCredit": "PlayStation Blog",
+      "createdAt": "2026-06-03T12:20:00+02:00"
+    },
+    {
+      "newsId": "saros-criticas-metacritic-ps5",
+      "text": "Saros entra en seguimiento de critica: Metacritic ya sirve como radar para revisar analisis de GameSpew, PSU, VGC, WellPlayed y mas medios. #BluePoint #Saros #PS5 #Housemarque",
+      "hashtags": [
+        "#BluePoint",
+        "#Saros",
+        "#PS5",
+        "#Housemarque"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Arte oficial de Saros para PS5",
+      "imageCredit": "PlayStation",
+      "createdAt": "2026-06-03T12:20:00+02:00"
+    },
+    {
+      "newsId": "ps-plus-state-of-play-junio-catalogo-clasicos",
+      "text": "PS Plus tambien gana peso tras el State of Play: nuevas llegadas al catalogo y clasicos refuerzan el servicio durante junio. #BluePoint #PSPlus #PlayStation #PS5",
+      "hashtags": [
+        "#BluePoint",
+        "#PSPlus",
+        "#PlayStation",
+        "#PS5"
+      ],
+      "status": "pending_credentials",
+      "imageAlt": "Imagen editorial relacionada con PS Plus y State of Play",
+      "imageCredit": "PlayStation Blog",
+      "createdAt": "2026-06-03T12:20:00+02:00"
+    },
     {
       "newsId": "windows-central-xbox-project-helix-showcase",
       "text": "Xbox centrara su Showcase del 7 de junio en juegos: Matt Booty aclara que Project Helix quedara para mas adelante. #PixelPopcorn #Xbox #ProjectHelix #Gaming",
-      "hashtags": ["#PixelPopcorn", "#Xbox", "#ProjectHelix", "#Gaming"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Xbox",
+        "#ProjectHelix",
+        "#Gaming"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Logotipo de Xbox para noticia sobre Project Helix",
       "imageCredit": "Wikimedia Commons",
@@ -13,7 +88,12 @@
     {
       "newsId": "windows-central-xbox-lineup-halo-campaign-evolved",
       "text": "Matt Booty apunta una potente alineacion Xbox con Halo: Campaign Evolved, Minecraft Dungeons 2, Gears of War: E-Day y Call of Duty. #PixelPopcorn #Xbox #Halo #Gaming",
-      "hashtags": ["#PixelPopcorn", "#Xbox", "#Halo", "#Gaming"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Xbox",
+        "#Halo",
+        "#Gaming"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Logotipo de Xbox para noticia sobre la alineacion de juegos",
       "imageCredit": "Wikimedia Commons",
@@ -22,7 +102,12 @@
     {
       "newsId": "windows-central-xbox-logos-playstation-showcase",
       "text": "Xbox mostrara logos de otras plataformas en su Showcase y reabre el debate sobre identidad, transparencia y estrategia multiplataforma. #PixelPopcorn #Xbox #Showcase #Gaming",
-      "hashtags": ["#PixelPopcorn", "#Xbox", "#Showcase", "#Gaming"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Xbox",
+        "#Showcase",
+        "#Gaming"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Logotipo de Xbox para debate sobre el Showcase",
       "imageCredit": "Wikimedia Commons",
@@ -31,7 +116,12 @@
     {
       "newsId": "playstation-state-of-play-2-junio-wolverine",
       "text": "PlayStation celebra hoy State of Play a las 23:00 CEST con mas de 60 minutos de anuncios y Marvel's Wolverine como gran foco. #PixelPopcorn #PlayStation #StateOfPlay #PS5",
-      "hashtags": ["#PixelPopcorn", "#PlayStation", "#StateOfPlay", "#PS5"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#PlayStation",
+        "#StateOfPlay",
+        "#PS5"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Logotipo de PlayStation para State of Play",
       "imageCredit": "Simple Icons",
@@ -40,7 +130,12 @@
     {
       "newsId": "fortnite-nueva-temporada-skins-john-wick",
       "text": "Fortnite revela las skins de su nueva temporada y suma un nuevo John Wick al Pase de Batalla. El arranque esta previsto para el 5 de junio. #PixelPopcorn #Fortnite #Videojuegos #Gaming",
-      "hashtags": ["#PixelPopcorn", "#Fortnite", "#Videojuegos", "#Gaming"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Fortnite",
+        "#Videojuegos",
+        "#Gaming"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Set de juego con pantalla y luces de colores",
       "imageCredit": "Unsplash",
@@ -49,7 +144,12 @@
     {
       "newsId": "scary-movie-6-trailer-final",
       "text": "Scary Movie 6 ensena su trailer final antes de volver a los cines el 12 de junio con nueva ronda de parodia y humor de terror. #PixelPopcorn #Cine #ScaryMovie #Estrenos",
-      "hashtags": ["#PixelPopcorn", "#Cine", "#ScaryMovie", "#Estrenos"],
+      "hashtags": [
+        "#PixelPopcorn",
+        "#Cine",
+        "#ScaryMovie",
+        "#Estrenos"
+      ],
       "status": "pending_credentials",
       "imageAlt": "Butacas de cine iluminadas en una sala oscura",
       "imageCredit": "Unsplash",
