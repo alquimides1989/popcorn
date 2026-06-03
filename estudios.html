@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>PS Plus | BluePoint</title>
-    <meta name="description" content="PS Plus de BluePoint: actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores con informacion clara para jugadores." />
+    <title>Radar de estudios | BluePoint</title>
+    <meta name="description" content="Radar de estudios de BluePoint: actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores con informacion clara para jugadores." />
     <meta name="theme-color" content="#03070d" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="PS Plus | BluePoint" />
+    <meta property="og:title" content="Radar de estudios | BluePoint" />
     <meta property="og:description" content="Actualidad PlayStation con noticias de PS5, State of Play, PS Plus, exclusivos, rumores y trailers oficiales." />
     <meta property="og:image" content="./assets/bluepoint-wordmark-white.png" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -34,7 +34,7 @@
     <script src="./poll.js?v=10" defer></script>
     <script src="./engagement.js?v=10" defer></script>
   </head>
-  <body data-section="ps-plus">
+  <body>
     <header class="site-header">
       <a class="brand bluepoint-brand" href="./index.html" aria-label="BluePoint">
         <img class="brand-wordmark" src="./assets/bluepoint-wordmark-white.png" alt="BluePoint" />
@@ -44,26 +44,57 @@
         <a href="./playstation.html">Noticias PS5</a>
         <a href="./calendario.html">Calendario</a>
         <a href="./reviews.html">Reviews</a>
-        <a class="active" href="./ps-plus.html">PS Plus</a>
+        <a href="./ps-plus.html">PS Plus</a>
         <a href="./rumores.html">Rumores</a>
-        <a href="./juegos.html">Juegos</a>
+        <a class="active" href="./juegos.html">Juegos</a>
       </nav>
       <a class="learn" href="./playstation.html">Noticias <span aria-hidden="true">&gt;</span></a>
     </header>
     <main class="page-shell">
       <section class="section-hero play-theme">
         <div>
-          <span class="label">PS Plus</span>
-          <h1>PlayStation Plus</h1>
-          <p>Juegos mensuales, catalogo Extra y Premium, rotaciones y servicios.</p>
+          <span class="label">Estudios</span>
+          <h1>Radar de estudios PlayStation</h1>
+          <p>Seguimiento de estudios first party y socios clave para anticipar noticias importantes.</p>
         </div>
-        <div class="section-logo"><span class="section-icon official-ps-icon plus-icon" aria-hidden="true">
+        <div class="section-logo"><span class="section-icon official-ps-icon ps5-icon" aria-hidden="true">
           <svg width="96" height="96" viewBox="0 0 24 24" role="img" aria-label="PlayStation" xmlns="http://www.w3.org/2000/svg">
             <path d="M8.984 2.596v17.547l3.915 1.261V6.688c0-.69.304-1.151.794-.991.636.18.76.814.76 1.505v5.875c2.441 1.193 4.362-.002 4.362-3.152 0-3.237-1.126-4.675-4.438-5.827-1.307-.448-3.728-1.186-5.39-1.502zm4.656 16.241l6.296-2.275c.715-.258.826-.625.246-.818-.586-.192-1.637-.139-2.357.123l-4.205 1.5V14.98l.24-.085s1.201-.42 2.913-.615c1.696-.18 3.785.03 5.437.661 1.848.601 2.04 1.472 1.576 2.072-.465.6-1.622 1.036-1.622 1.036l-8.544 3.107V18.86zM1.807 18.6c-1.9-.545-2.214-1.668-1.352-2.32.801-.586 2.16-1.052 2.16-1.052l5.615-2.013v2.313L4.205 17c-.705.271-.825.632-.239.826.586.195 1.637.15 2.343-.12L8.247 17v2.074c-.12.03-.256.044-.39.073-1.939.331-3.996.196-6.038-.479z" />
           </svg>
         </span></div>
       </section>
-      <section class="section-layout news-only"><div class="article-stack" data-news-list></div></section>
+      <section class="resource-section">
+        <div class="section-heading">
+          <h2>Radar de estudios</h2>
+          <p>Seguimiento de PlayStation Studios y socios clave para anticipar lo que interesa a la comunidad.</p>
+        </div>
+        <div class="resource-grid">
+          <article class="resource-card studio-resource">
+            <span class="label">Prioridad alta</span>
+            <h3>Insomniac Games</h3>
+            <p>Uno de los estudios clave para el futuro inmediato de PS5.</p>
+            <small>Foco actual: Marvel's Wolverine</small>
+          </article>
+          <article class="resource-card studio-resource">
+            <span class="label">Prioridad alta</span>
+            <h3>Housemarque</h3>
+            <p>Estudio first party con identidad fuerte en accion y ciencia ficcion.</p>
+            <small>Foco actual: Saros</small>
+          </article>
+          <article class="resource-card studio-resource">
+            <span class="label">Prioridad alta</span>
+            <h3>Naughty Dog</h3>
+            <p>Seguimiento constante por el peso de su proxima IP en la marca PlayStation.</p>
+            <small>Foco actual: Intergalactic</small>
+          </article>
+          <article class="resource-card studio-resource">
+            <span class="label">Prioridad alta</span>
+            <h3>Santa Monica Studio</h3>
+            <p>Referencia narrativa de PlayStation Studios tras el anuncio del State of Play.</p>
+            <small>Foco actual: God of War Laufey</small>
+          </article>
+        </div>
+      </section>
     </main>
   </body>
 </html>

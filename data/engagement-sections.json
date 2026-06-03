@@ -1,0 +1,165 @@
+{
+  "updatedAt": "2026-06-03T12:45:00+02:00",
+  "calendar": [
+    {
+      "date": "2026-09-15",
+      "label": "15 SEP",
+      "title": "Marvel's Wolverine",
+      "summary": "Lanzamiento confirmado para PS5 tras el State of Play.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "PlayStation Blog"
+    },
+    {
+      "date": "2026-09-24",
+      "label": "24 SEP",
+      "title": "Control Resonant",
+      "summary": "Fecha revelada para PS5 con nuevo trailer de historia.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "PlayStation"
+    },
+    {
+      "date": "2026-10-02",
+      "label": "02 OCT",
+      "title": "Ace Combat 8: Wings of Theve",
+      "summary": "Nueva entrega de la saga aerea de Bandai Namco en PS5.",
+      "type": "Lanzamiento",
+      "priority": "media",
+      "source": "PlayStation"
+    },
+    {
+      "date": "2027-02-12",
+      "label": "12 FEB",
+      "title": "Tomb Raider: Legacy of Atlantis",
+      "summary": "Nueva aventura de Lara Croft con ediciones de lanzamiento detalladas.",
+      "type": "Lanzamiento",
+      "priority": "alta",
+      "source": "PlayStation Blog"
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Saros",
+      "score": "87",
+      "scoreLabel": "Metascore",
+      "summary": "Seguimiento de criticas para la nueva IP de Housemarque, usando Metacritic como indice y revisando medios como GameSpew, Player 2, PlayStation Universe, VGC y WellPlayed.",
+      "status": "En seguimiento",
+      "source": "Metacritic",
+      "url": "https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5"
+    },
+    {
+      "title": "Marvel's Wolverine",
+      "score": "Pendiente",
+      "scoreLabel": "Sin reviews",
+      "summary": "Ficha preparada para reunir notas, impresiones y analisis cuando PlayStation libere embargo o previews.",
+      "status": "Pendiente",
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/"
+    },
+    {
+      "title": "Silent Hill: Townfall",
+      "score": "Pendiente",
+      "scoreLabel": "Sin reviews",
+      "summary": "Seguimiento preparado para analizar recepcion del terror psicologico en PS5.",
+      "status": "Pendiente",
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/"
+    }
+  ],
+  "rumorMeter": [
+    {
+      "title": "Intergalactic lejos del calendario inmediato",
+      "level": "medio",
+      "confidence": 55,
+      "summary": "Hay interes alto y seguimiento constante, pero sin fecha oficial ni nueva ventana publica.",
+      "source": "GamesRadar+ / MeriStation"
+    },
+    {
+      "title": "Estrategia first party mas selectiva en PC",
+      "level": "medio-alto",
+      "confidence": 68,
+      "summary": "Reportes apuntan a que Sony protegeria mas sus juegos narrativos como reclamo principal de PS5.",
+      "source": "MeriStation / Bloomberg"
+    },
+    {
+      "title": "Nuevos anuncios first party antes de final de ano",
+      "level": "bajo",
+      "confidence": 34,
+      "summary": "Encaja con el calendario habitual, pero ahora mismo no hay confirmacion oficial.",
+      "source": "Radar BluePoint"
+    }
+  ],
+  "deals": [
+    {
+      "title": "PS Store",
+      "summary": "Radar para rebajas digitales, reservas y juegos destacados por precio.",
+      "cta": "Ver PS Store",
+      "url": "https://store.playstation.com/",
+      "type": "Tienda"
+    },
+    {
+      "title": "PlayStation Plus",
+      "summary": "Seguimiento de Essential, Extra, Premium, juegos que entran y juegos que salen.",
+      "cta": "Ver PS Plus",
+      "url": "https://www.playstation.com/ps-plus/",
+      "type": "Servicio"
+    },
+    {
+      "title": "PlayStation Direct",
+      "summary": "Accesorios oficiales, consolas, mandos DualSense y hardware PS5.",
+      "cta": "Ver Direct",
+      "url": "https://direct.playstation.com/",
+      "type": "Hardware"
+    }
+  ],
+  "gameHubs": [
+    {
+      "title": "Saros",
+      "studio": "Housemarque",
+      "status": "Exclusivo PS5 en seguimiento",
+      "summary": "Ficha prioritaria para noticias, reviews, Metacritic, trailers y comparacion con Returnal.",
+      "tags": ["Exclusivo", "Housemarque", "Reviews"]
+    },
+    {
+      "title": "Marvel's Wolverine",
+      "studio": "Insomniac Games",
+      "status": "Fecha confirmada",
+      "summary": "Centro para fecha, gameplay, villanos, trailers y cada nueva pista del exclusivo de PS5.",
+      "tags": ["Exclusivo", "Insomniac", "PS5"]
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet",
+      "studio": "Naughty Dog",
+      "status": "Sin fecha",
+      "summary": "Ficha de seguimiento para noticias oficiales, rumores prudentes y calendario de presentaciones.",
+      "tags": ["Naughty Dog", "Rumores", "Exclusivo"]
+    }
+  ],
+  "studios": [
+    {
+      "name": "Insomniac Games",
+      "focus": "Marvel's Wolverine",
+      "summary": "Uno de los estudios clave para el futuro inmediato de PS5.",
+      "priority": "alta"
+    },
+    {
+      "name": "Housemarque",
+      "focus": "Saros",
+      "summary": "Estudio first party con identidad fuerte en accion y ciencia ficcion.",
+      "priority": "alta"
+    },
+    {
+      "name": "Naughty Dog",
+      "focus": "Intergalactic",
+      "summary": "Seguimiento constante por el peso de su proxima IP en la marca PlayStation.",
+      "priority": "alta"
+    },
+    {
+      "name": "Santa Monica Studio",
+      "focus": "God of War Laufey",
+      "summary": "Referencia narrativa de PlayStation Studios tras el anuncio del State of Play.",
+      "priority": "alta"
+    }
+  ]
+}

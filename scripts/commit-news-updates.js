@@ -1,7 +1,20 @@
 const { spawnSync } = require("node:child_process");
 
 const git = process.env.GIT_EXE || "C:\\Program Files\\Git\\cmd\\git.exe";
-const files = ["data/noticias.json", "data/x-posts.json", "data/radar-sources.json", "POSTS_X_MANUAL.md"];
+const files = [
+  "data/noticias.json",
+  "data/x-posts.json",
+  "data/radar-sources.json",
+  "data/engagement-sections.json",
+  "POSTS_X_MANUAL.md",
+  "calendario.html",
+  "reviews.html",
+  "rumorometro.html",
+  "ofertas.html",
+  "juegos.html",
+  "estudios.html",
+  "index.html",
+];
 
 function run(args, options = {}) {
   const result = spawnSync(git, args, {

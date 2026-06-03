@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>PS Plus | BluePoint</title>
-    <meta name="description" content="PS Plus de BluePoint: actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores con informacion clara para jugadores." />
+    <title>Reviews y notas | BluePoint</title>
+    <meta name="description" content="Reviews y notas de BluePoint: actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores con informacion clara para jugadores." />
     <meta name="theme-color" content="#03070d" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="PS Plus | BluePoint" />
+    <meta property="og:title" content="Reviews y notas | BluePoint" />
     <meta property="og:description" content="Actualidad PlayStation con noticias de PS5, State of Play, PS Plus, exclusivos, rumores y trailers oficiales." />
     <meta property="og:image" content="./assets/bluepoint-wordmark-white.png" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -34,7 +34,7 @@
     <script src="./poll.js?v=10" defer></script>
     <script src="./engagement.js?v=10" defer></script>
   </head>
-  <body data-section="ps-plus">
+  <body>
     <header class="site-header">
       <a class="brand bluepoint-brand" href="./index.html" aria-label="BluePoint">
         <img class="brand-wordmark" src="./assets/bluepoint-wordmark-white.png" alt="BluePoint" />
@@ -43,8 +43,8 @@
         <a href="./index.html">Inicio</a>
         <a href="./playstation.html">Noticias PS5</a>
         <a href="./calendario.html">Calendario</a>
-        <a href="./reviews.html">Reviews</a>
-        <a class="active" href="./ps-plus.html">PS Plus</a>
+        <a class="active" href="./reviews.html">Reviews</a>
+        <a href="./ps-plus.html">PS Plus</a>
         <a href="./rumores.html">Rumores</a>
         <a href="./juegos.html">Juegos</a>
       </nav>
@@ -53,9 +53,9 @@
     <main class="page-shell">
       <section class="section-hero play-theme">
         <div>
-          <span class="label">PS Plus</span>
-          <h1>PlayStation Plus</h1>
-          <p>Juegos mensuales, catalogo Extra y Premium, rotaciones y servicios.</p>
+          <span class="label">Reviews</span>
+          <h1>Reviews y notas</h1>
+          <p>Recepcion critica de juegos PlayStation con contexto, fuentes y seguimiento de Metacritic.</p>
         </div>
         <div class="section-logo"><span class="section-icon official-ps-icon plus-icon" aria-hidden="true">
           <svg width="96" height="96" viewBox="0 0 24 24" role="img" aria-label="PlayStation" xmlns="http://www.w3.org/2000/svg">
@@ -63,7 +63,41 @@
           </svg>
         </span></div>
       </section>
-      <section class="section-layout news-only"><div class="article-stack" data-news-list></div></section>
+      <section class="resource-section">
+        <div class="section-heading">
+          <h2>Reviews y notas</h2>
+          <p>Recepcion critica, Metacritic y medios especializados sin reducir cada juego a una cifra.</p>
+        </div>
+        <div class="resource-grid">
+          <article class="resource-card review-resource">
+            <div class="score-pill"><strong>87</strong><span>Metascore</span></div>
+            <div>
+              <span class="label">En seguimiento</span>
+              <h3>Saros</h3>
+              <p>Seguimiento de criticas para la nueva IP de Housemarque, usando Metacritic como indice y revisando medios como GameSpew, Player 2, PlayStation Universe, VGC y WellPlayed.</p>
+              <a href="https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5" target="_blank" rel="noopener">Ver fuente -&gt;</a>
+            </div>
+          </article>
+          <article class="resource-card review-resource">
+            <div class="score-pill"><strong>Pendiente</strong><span>Sin reviews</span></div>
+            <div>
+              <span class="label">Pendiente</span>
+              <h3>Marvel's Wolverine</h3>
+              <p>Ficha preparada para reunir notas, impresiones y analisis cuando PlayStation libere embargo o previews.</p>
+              <a href="https://blog.playstation.com/" target="_blank" rel="noopener">Ver fuente -&gt;</a>
+            </div>
+          </article>
+          <article class="resource-card review-resource">
+            <div class="score-pill"><strong>Pendiente</strong><span>Sin reviews</span></div>
+            <div>
+              <span class="label">Pendiente</span>
+              <h3>Silent Hill: Townfall</h3>
+              <p>Seguimiento preparado para analizar recepcion del terror psicologico en PS5.</p>
+              <a href="https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/" target="_blank" rel="noopener">Ver fuente -&gt;</a>
+            </div>
+          </article>
+        </div>
+      </section>
     </main>
   </body>
 </html>

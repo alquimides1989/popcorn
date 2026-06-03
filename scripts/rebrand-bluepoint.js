@@ -1,6 +1,22 @@
 ﻿const fs = require("node:fs");
 
 const scriptVersion = "10";
+const readJson = (file, fallback) => {
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch {
+    return fallback;
+  }
+};
+
+const engagement = readJson("data/engagement-sections.json", {
+  calendar: [],
+  reviews: [],
+  rumorMeter: [],
+  deals: [],
+  gameHubs: [],
+  studios: [],
+});
 
 const head = (title) => `<!doctype html>
 <html lang="es">
@@ -51,11 +67,11 @@ const nav = (active) => {
   const items = [
     ["Inicio", "index.html"],
     ["Noticias PS5", "playstation.html"],
-    ["State of Play", "state-of-play.html"],
+    ["Calendario", "calendario.html"],
+    ["Reviews", "reviews.html"],
     ["PS Plus", "ps-plus.html"],
-    ["Exclusivos", "exclusivos.html"],
     ["Rumores", "rumores.html"],
-    ["Guias", "guias.html"],
+    ["Juegos", "juegos.html"],
   ];
 
   return `<header class="site-header">
@@ -89,6 +105,147 @@ const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy, icon
 `;
   fs.writeFileSync(file, html, "utf8");
 };
+
+const resourcePage = ({ file, title, active, label, heading, copy, icon, content }) => {
+  const html = `${head(title)}
+  <body>
+    ${nav(active)}
+    <main class="page-shell">
+      <section class="section-hero play-theme">
+        <div>
+          <span class="label">${label}</span>
+          <h1>${heading}</h1>
+          <p>${copy}</p>
+        </div>
+        <div class="section-logo">${sectionIcon(icon)}</div>
+      </section>
+      ${content}
+    </main>
+  </body>
+</html>
+`;
+  fs.writeFileSync(file, html, "utf8");
+};
+
+const calendarContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Calendario PS5</h2>
+          <p>Fechas, reservas, lanzamientos y eventos que el radar debe revisar cada dia.</p>
+        </div>
+        <div class="timeline-grid">
+          ${engagement.calendar
+            .map(
+              (item) => `<article class="timeline-card">
+            <time datetime="${item.date}">${item.label}</time>
+            <span class="label">${item.type}</span>
+            <h3>${item.title}</h3>
+            <p>${item.summary}</p>
+            <small>Fuente: ${item.source}</small>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
+const reviewsContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Reviews y notas</h2>
+          <p>Recepcion critica, Metacritic y medios especializados sin reducir cada juego a una cifra.</p>
+        </div>
+        <div class="resource-grid">
+          ${engagement.reviews
+            .map(
+              (item) => `<article class="resource-card review-resource">
+            <div class="score-pill"><strong>${item.score}</strong><span>${item.scoreLabel}</span></div>
+            <div>
+              <span class="label">${item.status}</span>
+              <h3>${item.title}</h3>
+              <p>${item.summary}</p>
+              <a href="${item.url}" target="_blank" rel="noopener">Ver fuente -&gt;</a>
+            </div>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
+const rumorometerContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Rumorometro</h2>
+          <p>Rumores con contexto y confianza visible para generar conversacion sin vender humo.</p>
+        </div>
+        <div class="resource-grid">
+          ${engagement.rumorMeter
+            .map(
+              (item) => `<article class="resource-card">
+            <span class="label">Confianza ${item.level}</span>
+            <h3>${item.title}</h3>
+            <div class="meter-line"><span style="width: ${item.confidence}%"></span></div>
+            <p>${item.summary}</p>
+            <small>Fuente: ${item.source}</small>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
+const dealsContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Ofertas PS Store</h2>
+          <p>Zona preparada para rebajas, reservas, hardware y futura monetizacion por afiliacion.</p>
+        </div>
+        <div class="resource-grid">
+          ${engagement.deals
+            .map(
+              (item) => `<article class="resource-card deal-resource">
+            <span class="label">${item.type}</span>
+            <h3>${item.title}</h3>
+            <p>${item.summary}</p>
+            <a href="${item.url}" target="_blank" rel="sponsored noopener">${item.cta} -&gt;</a>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
+const gamesContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Fichas de juegos</h2>
+          <p>Centros vivos por juego para concentrar noticias, trailers, reviews, rumores y guias.</p>
+        </div>
+        <div class="resource-grid game-hub-grid">
+          ${engagement.gameHubs
+            .map(
+              (item) => `<article class="resource-card game-resource">
+            <span class="label">${item.status}</span>
+            <h3>${item.title}</h3>
+            <p>${item.summary}</p>
+            <small>${item.studio}</small>
+            <div class="tag-row">${item.tags.map((tag) => `<span>${tag}</span>`).join("")}</div>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
+
+const studiosContent = `<section class="resource-section">
+        <div class="section-heading">
+          <h2>Radar de estudios</h2>
+          <p>Seguimiento de PlayStation Studios y socios clave para anticipar lo que interesa a la comunidad.</p>
+        </div>
+        <div class="resource-grid">
+          ${engagement.studios
+            .map(
+              (item) => `<article class="resource-card studio-resource">
+            <span class="label">Prioridad ${item.priority}</span>
+            <h3>${item.name}</h3>
+            <p>${item.summary}</p>
+            <small>Foco actual: ${item.focus}</small>
+          </article>`
+            )
+            .join("\n          ")}
+        </div>
+      </section>`;
 
 const trailerItems = [
   {
@@ -294,6 +451,11 @@ const home = `${head("BluePoint")}
           <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos -&gt;</b></span></a>
           <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores -&gt;</b></span></a>
           <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias -&gt;</b></span></a>
+          <a class="platform-card play" href="./calendario.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>Calendario PS5</strong><small>Fechas, reservas, betas, demos y eventos importantes.</small><b>Ver calendario -&gt;</b></span></a>
+          <a class="platform-card play" href="./reviews.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>Reviews y notas</strong><small>Metacritic, analisis y que dicen los medios especializados.</small><b>Ver reviews -&gt;</b></span></a>
+          <a class="platform-card play" href="./ofertas.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Ofertas PS Store</strong><small>Rebajas, reservas, accesorios y oportunidades monetizables.</small><b>Ver ofertas -&gt;</b></span></a>
+          <a class="platform-card play" href="./juegos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Fichas de juegos</strong><small>Saros, Wolverine, Intergalactic y hubs vivos por juego.</small><b>Ver juegos -&gt;</b></span></a>
+          <a class="platform-card play" href="./estudios.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Radar de estudios</strong><small>Insomniac, Housemarque, Naughty Dog, Santa Monica y mas.</small><b>Ver estudios -&gt;</b></span></a>
         </div>
       </section>
 
@@ -391,6 +553,72 @@ sectionPage({
   heading: "Guias PlayStation",
   copy: "Consejos, explicaciones y claves practicas para jugadores de PS5.",
   icon: "guide",
+});
+
+resourcePage({
+  file: "calendario.html",
+  title: "Calendario PS5",
+  active: "Calendario",
+  label: "Calendario",
+  heading: "Calendario PS5",
+  copy: "Fechas de salida, reservas, betas, demos y eventos para que el lector vuelva cada semana.",
+  icon: "state",
+  content: calendarContent,
+});
+
+resourcePage({
+  file: "reviews.html",
+  title: "Reviews y notas",
+  active: "Reviews",
+  label: "Reviews",
+  heading: "Reviews y notas",
+  copy: "Recepcion critica de juegos PlayStation con contexto, fuentes y seguimiento de Metacritic.",
+  icon: "plus",
+  content: reviewsContent,
+});
+
+resourcePage({
+  file: "rumorometro.html",
+  title: "Rumorometro",
+  active: "Rumores",
+  label: "Rumores",
+  heading: "Rumorometro PlayStation",
+  copy: "Una capa visual para medir confianza, separar filtracion de confirmacion y mover conversacion.",
+  icon: "rumor",
+  content: rumorometerContent,
+});
+
+resourcePage({
+  file: "ofertas.html",
+  title: "Ofertas PS Store",
+  active: "PS Plus",
+  label: "Ofertas",
+  heading: "Ofertas PS Store",
+  copy: "Radar de rebajas, reservas, accesorios y enlaces preparados para monetizacion futura.",
+  icon: "guide",
+  content: dealsContent,
+});
+
+resourcePage({
+  file: "juegos.html",
+  title: "Fichas de juegos",
+  active: "Juegos",
+  label: "Juegos",
+  heading: "Fichas de juegos PlayStation",
+  copy: "Hubs vivos para los juegos que mas busquedas y conversacion pueden traer a BluePoint.",
+  icon: "exclusive",
+  content: gamesContent,
+});
+
+resourcePage({
+  file: "estudios.html",
+  title: "Radar de estudios",
+  active: "Juegos",
+  label: "Estudios",
+  heading: "Radar de estudios PlayStation",
+  copy: "Seguimiento de estudios first party y socios clave para anticipar noticias importantes.",
+  icon: "ps5",
+  content: studiosContent,
 });
 
 ["videojuegos.html", "xbox.html", "nintendo.html", "pc.html", "cine.html", "series.html"].forEach((file) => {
