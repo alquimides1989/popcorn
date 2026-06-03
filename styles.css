@@ -645,7 +645,7 @@ h1 {
   place-items: center;
   width: min(70%, 132px);
   aspect-ratio: 1;
-  padding: 20%;
+  padding: 0;
   border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 50%;
   color: white;
@@ -661,9 +661,23 @@ h1 {
   overflow: hidden;
 }
 
+.section-icon::before {
+  content: "";
+  position: absolute;
+  inset: 14%;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 42%, rgba(255, 255, 255, 0.16), transparent 62%);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+}
+
 .platform-icon .section-icon {
-  width: 74%;
-  box-shadow: none;
+  width: 76px;
+  min-width: 76px;
+  height: 76px;
+  box-shadow:
+    inset 0 0 0 2px rgba(255, 255, 255, 0.08),
+    inset 0 -18px 26px rgba(0, 0, 0, 0.28),
+    0 12px 22px rgba(0, 0, 0, 0.28);
 }
 
 .section-icon img {
@@ -676,13 +690,17 @@ h1 {
 
 .section-icon svg {
   display: block;
-  width: 86px;
-  min-width: 86px;
-  height: 86px;
-  max-width: 88%;
-  max-height: 88%;
+  position: relative;
+  z-index: 1;
+  width: 52px;
+  min-width: 52px;
+  height: 52px;
+  max-width: none;
+  max-height: none;
   fill: white;
-  filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.42));
+  filter:
+    drop-shadow(0 8px 12px rgba(0, 0, 0, 0.58))
+    drop-shadow(0 0 14px rgba(255, 255, 255, 0.22));
 }
 
 .state-icon {
@@ -1824,11 +1842,11 @@ h1 {
 }
 
 .section-logo .section-icon svg {
-  width: 104px;
-  min-width: 104px;
-  height: 104px;
-  max-width: 88%;
-  max-height: 88%;
+  width: 116px;
+  min-width: 116px;
+  height: 116px;
+  max-width: none;
+  max-height: none;
 }
 
 .section-photo,
