@@ -1,0 +1,16 @@
+{
+  "name": "BluePoint",
+  "short_name": "BluePoint",
+  "description": "Actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#03070d",
+  "theme_color": "#03070d",
+  "icons": [
+    {
+      "src": "./assets/bluepoint-symbol-white.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

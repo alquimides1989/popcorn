@@ -1,6 +1,6 @@
 ﻿const fs = require("node:fs");
 
-const scriptVersion = "8";
+const scriptVersion = "9";
 
 const head = (title) => `<!doctype html>
 <html lang="es">
@@ -8,6 +8,14 @@ const head = (title) => `<!doctype html>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>${title === "BluePoint" ? "BluePoint" : `${title} | BluePoint`}</title>
+    <meta name="description" content="${title === "BluePoint" ? "BluePoint cubre noticias de PS5, State of Play, PS Plus, exclusivos PlayStation, rumores y trailers oficiales con contexto para jugadores." : `${title} de BluePoint: actualidad PlayStation, PS5, State of Play, PS Plus, exclusivos y rumores con informacion clara para jugadores.`}" />
+    <meta name="theme-color" content="#03070d" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="${title === "BluePoint" ? "BluePoint" : `${title} | BluePoint`}" />
+    <meta property="og:description" content="Actualidad PlayStation con noticias de PS5, State of Play, PS Plus, exclusivos, rumores y trailers oficiales." />
+    <meta property="og:image" content="./assets/bluepoint-wordmark-white.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="manifest" href="./site.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet" />
@@ -15,6 +23,7 @@ const head = (title) => `<!doctype html>
     <link rel="stylesheet" href="./styles.css" />
     <script src="./noticias.js?v=${scriptVersion}" defer></script>
     <script src="./poll.js?v=${scriptVersion}" defer></script>
+    <script src="./engagement.js?v=${scriptVersion}" defer></script>
   </head>`;
 
 const sectionIcon = (name) => `<span class="section-icon official-ps-icon ${name}-icon" aria-hidden="true">
@@ -39,7 +48,7 @@ const nav = (active) => {
       <nav class="nav" aria-label="Principal">
         ${items.map(([label, href]) => `<a${label === active ? ' class="active"' : ""} href="./${href}">${label}</a>`).join("\n        ")}
       </nav>
-      <a class="learn" href="./playstation.html">Noticias <span aria-hidden="true">â€º</span></a>
+      <a class="learn" href="./playstation.html">Noticias <span aria-hidden="true">&gt;</span></a>
     </header>`;
 };
 
@@ -132,12 +141,45 @@ const statePoll = `<section class="state-poll" aria-labelledby="state-poll-title
         <p class="poll-status" data-poll-status>Vota para desbloquear los resultados.</p>
       </section>`;
 
+const growthPanel = `<section class="growth-panel" aria-label="Compartir y comunidad">
+        <div class="share-card">
+          <span class="label">Compartir</span>
+          <h2>Ayuda a que BluePoint llegue a mas jugadores</h2>
+          <p>Comparte la cobertura del State of Play y trae mas votos a la encuesta.</p>
+          <div class="share-actions">
+            <button type="button" data-share="native">Compartir</button>
+            <a data-share-x href="https://twitter.com/intent/tweet?text=BluePoint%20resume%20lo%20mejor%20del%20State%20of%20Play%20para%20PS5&hashtags=PlayStation,PS5,StateOfPlay" target="_blank" rel="noopener">X</a>
+            <button type="button" data-copy-link>Copiar enlace</button>
+          </div>
+          <small data-share-status>Listo para compartir.</small>
+        </div>
+        <div class="deal-card">
+          <span class="label">Ofertas</span>
+          <h2>Accesos utiles para jugadores PS5</h2>
+          <p>Bloque preparado para monetizacion por afiliacion o acuerdos patrocinados.</p>
+          <div class="deal-list">
+            <a href="https://www.playstation.com/ps-plus/" target="_blank" rel="sponsored noopener"><strong>PlayStation Plus</strong><small>Catalogo, Essential, Extra y Premium</small></a>
+            <a href="https://direct.playstation.com/" target="_blank" rel="sponsored noopener"><strong>PlayStation Direct</strong><small>Consolas, mandos y accesorios oficiales</small></a>
+            <a href="https://store.playstation.com/" target="_blank" rel="sponsored noopener"><strong>PS Store</strong><small>Lanzamientos, reservas y rebajas digitales</small></a>
+          </div>
+          <small>Algunos enlaces pueden convertirse en afiliados cuando se active el programa.</small>
+        </div>
+      </section>`;
+
+const sponsorPanel = `<section class="sponsor-panel" aria-label="Espacio patrocinado">
+        <div>
+          <span>Espacio patrocinado</span>
+          <strong>Zona lista para acuerdos: tiendas, accesorios PS5, sillas, monitores o tarjetas PSN.</strong>
+        </div>
+        <a href="mailto:contacto@bluepoint.local?subject=Patrocinio%20BluePoint">Contactar</a>
+      </section>`;
+
 const home = `${head("BluePoint")}
   <body data-group="playstation">
     ${nav("Inicio")}
     <main class="page-shell">
       <section class="ticker" aria-label="Ultima hora" data-news-ticker>
-        <strong><span aria-hidden="true">âš¡</span> Ultima hora</strong>
+        <strong><span aria-hidden="true">BP</span> Ultima hora</strong>
         <span>State of Play</span>
         <span>PS Plus</span>
         <span>Exclusivos PS5</span>
@@ -154,7 +196,7 @@ const home = `${head("BluePoint")}
             <h1>Actualidad PlayStation con pulso propio</h1>
             <p>BluePoint sigue PS5, PlayStation Studios, State of Play, PS Plus, exclusivos, rumores y guias con contexto claro para jugadores.</p>
             <div class="hero-actions">
-              <a class="primary-btn" href="#destacadas">Ver noticias <span aria-hidden="true">â€º</span></a>
+              <a class="primary-btn" href="#destacadas">Ver noticias <span aria-hidden="true">&gt;</span></a>
               <a class="ghost-btn" href="./state-of-play.html">State of Play</a>
             </div>
           </div>
@@ -169,12 +211,12 @@ const home = `${head("BluePoint")}
           <p>Accesos directos a las areas clave del ecosistema PlayStation.</p>
         </div>
         <div class="platform-grid">
-          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play â†’</b></span></a>
-          <a class="platform-card play" href="./playstation.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias â†’</b></span></a>
-          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus â†’</b></span></a>
-          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos â†’</b></span></a>
-          <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores â†’</b></span></a>
-          <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias â†’</b></span></a>
+          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play -&gt;</b></span></a>
+          <a class="platform-card play" href="./playstation.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias -&gt;</b></span></a>
+          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus -&gt;</b></span></a>
+          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos -&gt;</b></span></a>
+          <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores -&gt;</b></span></a>
+          <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias -&gt;</b></span></a>
         </div>
       </section>
 
@@ -190,8 +232,12 @@ const home = `${head("BluePoint")}
 
       ${trailerSection}
 
+      ${growthPanel}
+
+      ${sponsorPanel}
+
       <section class="newsletter" aria-label="Suscripcion">
-        <div class="mail-icon" aria-hidden="true">âœ‰</div>
+        <div class="mail-icon" aria-hidden="true">@</div>
         <div><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Actualidad PlayStation, PS Plus, State of Play y exclusivos.</p></div>
         <form><label class="sr-only" for="email">Tu correo electronico</label><input id="email" type="email" placeholder="Tu correo electronico" /><button type="submit">Suscribirme</button><small>No enviamos spam. Puedes darte de baja cuando quieras.</small></form>
       </section>
