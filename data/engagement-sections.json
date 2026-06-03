@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T14:25:00+02:00",
+  "updatedAt": "2026-06-03T16:35:00+02:00",
   "calendar": [
     {
       "date": "2026-06-05",
@@ -497,25 +497,58 @@
   ],
   "deals": [
     {
-      "title": "PS Store",
-      "summary": "Radar para rebajas digitales, reservas y juegos destacados por precio.",
-      "cta": "Ver PS Store",
-      "url": "https://store.playstation.com/",
-      "type": "Tienda"
+      "title": "PS Store - Rebajas digitales",
+      "summary": "Seguimiento de promociones, reservas digitales y juegos PS5 con bajada de precio.",
+      "cta": "Ver ofertas PS Store",
+      "url": "https://store.playstation.com/category/35027334-375e-423b-b500-0d4e3e76f210/",
+      "type": "Juegos digitales",
+      "priority": "Alta",
+      "angle": "Ideal para noticias con enlace de compra o reserva cuando haya grandes lanzamientos."
     },
     {
       "title": "PlayStation Plus",
-      "summary": "Seguimiento de Essential, Extra, Premium, juegos que entran y juegos que salen.",
+      "summary": "Radar de altas, salidas y promociones de Essential, Extra y Premium.",
       "cta": "Ver PS Plus",
       "url": "https://www.playstation.com/ps-plus/",
-      "type": "Servicio"
+      "type": "Suscripcion",
+      "priority": "Alta",
+      "angle": "Contenido recurrente mensual con alta intencion de busqueda."
     },
     {
       "title": "PlayStation Direct",
-      "summary": "Accesorios oficiales, consolas, mandos DualSense y hardware PS5.",
-      "cta": "Ver Direct",
+      "summary": "Consolas, DualSense, Portal, Pulse, accesorios oficiales y reservas first party.",
+      "cta": "Ver PlayStation Direct",
       "url": "https://direct.playstation.com/",
-      "type": "Hardware"
+      "type": "Hardware oficial",
+      "priority": "Alta",
+      "angle": "Perfecto para afiliacion o acuerdos patrocinados si se activa monetizacion."
+    },
+    {
+      "title": "SSD compatibles PS5",
+      "summary": "Espacio preparado para guias y comparativas de almacenamiento interno compatible.",
+      "cta": "Preparar guia SSD",
+      "url": "./guias.html",
+      "type": "Guia monetizable",
+      "priority": "Media",
+      "angle": "Tema evergreen con potencial SEO y enlaces de afiliado."
+    },
+    {
+      "title": "Auriculares y audio PS5",
+      "summary": "Seguimiento de Pulse Elite, Pulse Explore y alternativas recomendables para jugadores.",
+      "cta": "Ver accesorios",
+      "url": "https://direct.playstation.com/accessories",
+      "type": "Accesorios",
+      "priority": "Media",
+      "angle": "Buen bloque para comparativas, Black Friday y campanas de temporada."
+    },
+    {
+      "title": "Mandos DualSense",
+      "summary": "DualSense, Edge, colores, ediciones especiales y oportunidades de compra.",
+      "cta": "Ver mandos",
+      "url": "https://direct.playstation.com/accessories/accessory/dualsense-wireless-controller.3005715",
+      "type": "Accesorios",
+      "priority": "Media",
+      "angle": "Producto recurrente y reconocible para conversion por impulso."
     }
   ],
   "gameHubs": [

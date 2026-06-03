@@ -1,6 +1,6 @@
 ﻿const fs = require("node:fs");
 
-const scriptVersion = "12";
+const scriptVersion = "13";
 const readJson = (file, fallback) => {
   try {
     return JSON.parse(fs.readFileSync(file, "utf8"));
@@ -169,16 +169,25 @@ const rumorometerContent = `<section class="resource-section">
 
 const dealsContent = `<section class="resource-section">
         <div class="section-heading">
-          <h2>Ofertas PS Store</h2>
-          <p>Zona preparada para rebajas, reservas, hardware y futura monetizacion por afiliacion.</p>
+          <h2>Radar de ofertas PlayStation</h2>
+          <p>Enlaces utiles, productos de alta intencion y bloques preparados para afiliacion o acuerdos patrocinados.</p>
         </div>
-        <div class="resource-grid">
+        <div class="deal-radar-hero">
+          <div>
+            <span class="label">Monetizacion</span>
+            <h3>Prioriza ofertas sin convertir BluePoint en una tienda</h3>
+            <p>El objetivo es recomendar solo accesos coherentes con PS5: juegos, PS Plus, hardware oficial, almacenamiento y accesorios que encajan con noticias y guias.</p>
+          </div>
+          <a href="https://store.playstation.com/" target="_blank" rel="sponsored noopener">Ver PS Store -&gt;</a>
+        </div>
+        <div class="resource-grid deal-radar-grid">
           ${engagement.deals
             .map(
               (item) => `<article class="resource-card deal-resource">
-            <span class="label">${item.type}</span>
+            <div class="deal-topline"><span class="label">${item.type}</span><b>${item.priority || "Media"}</b></div>
             <h3>${item.title}</h3>
             <p>${item.summary}</p>
+            <small>${item.angle || "Preparado para campanas, guias y enlaces patrocinados."}</small>
             <a href="${item.url}" target="_blank" rel="sponsored noopener">${item.cta} -&gt;</a>
           </article>`
             )
@@ -385,6 +394,18 @@ const growthPanel = `<section class="growth-panel" aria-label="Compartir y comun
         </div>
       </section>`;
 
+const weeklyDigestPanel = `<section class="weekly-digest-panel" aria-label="Resumen semanal BluePoint">
+        <div>
+          <span class="label">Newsletter semanal</span>
+          <h2>Resumen PlayStation de la semana</h2>
+          <p>Bloque conectado al generador semanal: noticias clave, calendario, rumores y ofertas para enviar por Brevo cada domingo.</p>
+        </div>
+        <div class="weekly-digest-actions">
+          <a href="./emails/resumen-semanal-bluepoint.html">Vista previa</a>
+          <a href="./ofertas.html">Radar de ofertas</a>
+        </div>
+      </section>`;
+
 const sponsorPanel = `<section class="sponsor-panel" aria-label="Espacio patrocinado">
         <div>
           <span>Espacio patrocinado</span>
@@ -460,6 +481,8 @@ const home = `${head("BluePoint")}
       ${trailerSection}
 
       ${growthPanel}
+
+      ${weeklyDigestPanel}
 
       ${sponsorPanel}
 

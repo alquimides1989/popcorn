@@ -1683,6 +1683,124 @@ h1 {
   font-weight: 800;
 }
 
+.news-share-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.news-share-actions a,
+.news-share-actions button {
+  min-height: 32px;
+  padding: 0 11px;
+  border: 1px solid rgba(19, 217, 255, 0.45);
+  border-radius: 6px;
+  color: #eaf7ff;
+  background: rgba(5, 12, 24, 0.72);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+}
+
+.news-share-actions a {
+  display: inline-flex;
+  align-items: center;
+}
+
+.deal-radar-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 14px;
+  padding: 22px;
+  border: 1px solid rgba(19, 217, 255, 0.44);
+  border-radius: var(--radius);
+  background:
+    radial-gradient(circle at 86% 20%, rgba(255, 210, 28, 0.18), transparent 15rem),
+    linear-gradient(135deg, rgba(7, 20, 42, 0.92), rgba(5, 10, 18, 0.88));
+}
+
+.deal-radar-hero h3 {
+  margin-top: 10px;
+  font-size: 1.45rem;
+}
+
+.deal-radar-hero p {
+  margin-top: 8px;
+  color: #d7e1f5;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.deal-radar-hero a,
+.weekly-digest-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border: 1px solid var(--cyan);
+  border-radius: 6px;
+  color: white;
+  background: rgba(19, 217, 255, 0.1);
+  font-size: 0.82rem;
+  font-weight: 900;
+}
+
+.deal-radar-grid .deal-resource {
+  min-height: 240px;
+}
+
+.deal-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.deal-topline b {
+  color: var(--gold);
+  font-size: 0.76rem;
+  text-transform: uppercase;
+}
+
+.weekly-digest-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 18px;
+  margin-top: 12px;
+  padding: 22px;
+  border: 1px solid rgba(46, 140, 255, 0.58);
+  border-radius: var(--radius);
+  background:
+    radial-gradient(circle at 82% 28%, rgba(19, 217, 255, 0.18), transparent 16rem),
+    rgba(7, 14, 24, 0.88);
+  box-shadow: 0 16px 70px rgba(0, 0, 0, 0.25);
+}
+
+.weekly-digest-panel h2 {
+  margin-top: 10px;
+  font-size: 1.42rem;
+}
+
+.weekly-digest-panel p {
+  margin-top: 8px;
+  color: #d7e1f5;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.weekly-digest-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
 .section-layout.news-only {
   grid-template-columns: 1fr;
 }
@@ -2327,6 +2445,11 @@ h1 {
     grid-template-columns: 1fr;
   }
 
+  .deal-radar-hero,
+  .weekly-digest-panel {
+    grid-template-columns: 1fr;
+  }
+
   .now-item {
     grid-template-columns: 112px 1fr;
   }
@@ -2412,6 +2535,16 @@ h1 {
 
   .deal-list {
     grid-template-columns: 1fr;
+  }
+
+  .weekly-digest-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .weekly-digest-actions a,
+  .deal-radar-hero a {
+    width: 100%;
   }
 
   .sponsor-panel {

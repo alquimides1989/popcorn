@@ -144,6 +144,27 @@ const getCategoryClass = (category) => CATEGORY_CLASS[category] || "pc";
 const getCategoryLink = (category) => CATEGORY_LINK[category] || "./videojuegos.html";
 let activeItems = [];
 
+function getShareUrl(item) {
+  const page = new URL(getCategoryLink(item.category), window.location.href);
+  if (item.id) page.hash = item.id;
+  return page.href;
+}
+
+function getXIntent(item) {
+  const text = `BluePoint: ${item.title}`;
+  const hashtags = ["PlayStation", "PS5", "BluePoint"].join(",");
+  return `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(
+    getShareUrl(item)
+  )}&hashtags=${encodeURIComponent(hashtags)}`;
+}
+
+function renderNewsShare(item) {
+  return `<div class="news-share-actions">
+    <a href="${escapeText(getXIntent(item))}" target="_blank" rel="noopener">Compartir en X</a>
+    <button type="button" data-copy-news="${escapeText(getShareUrl(item))}">Copiar enlace</button>
+  </div>`;
+}
+
 function hasAny(item, values) {
   const haystack = [item.title, item.summary, item.category, ...(Array.isArray(item.tags) ? item.tags : [])].join(" ");
   return values.some((value) => haystack.toLowerCase().includes(value.toLowerCase()));
@@ -310,7 +331,7 @@ function renderGrid(items) {
 
     if (isWide) {
       return `
-        <article class="${articleClass}">
+        <article class="${articleClass}" id="${escapeText(item.id || "")}">
           <div class="wide-art ${mediaClass}">
             <img src="${escapeText(image)}" alt="${escapeText(imageAlt)}" loading="lazy" />
             ${credit}
@@ -321,13 +342,14 @@ function renderGrid(items) {
             <p>${escapeText(item.summary)}</p>
             <div class="article-meta">${confidence}</div>
             ${source}
+            ${renderNewsShare(item)}
           </div>
         </article>
       `;
     }
 
     return `
-      <article class="${articleClass}">
+      <article class="${articleClass}" id="${escapeText(item.id || "")}">
         <div class="brand-stage ${mediaClass}">
           <img src="${escapeText(image)}" alt="${escapeText(imageAlt)}" loading="lazy" />
           ${credit}
@@ -337,6 +359,7 @@ function renderGrid(items) {
           <h3>${escapeText(item.title)}</h3>
           <p>${escapeText(item.summary)}</p>
           ${source}
+          ${renderNewsShare(item)}
         </div>
       </article>
     `;
@@ -403,7 +426,7 @@ function renderList(items) {
     const source = item.source ? `<p class="source-note">Fuente: ${escapeText(item.source)}</p>` : "";
 
     return `
-      <article class="article-row ${getCategoryClass(item.category)}">
+      <article class="article-row ${getCategoryClass(item.category)}" id="${escapeText(item.id || "")}">
         <div class="article-thumb ${mediaClass}">
           <img src="${escapeText(image)}" alt="${escapeText(imageAlt)}" loading="lazy" />
         </div>
@@ -415,6 +438,7 @@ function renderList(items) {
           <h3>${escapeText(item.title)}</h3>
           <div class="article-body">${renderArticleBody(item)}</div>
           ${source}
+          ${renderNewsShare(item)}
         </div>
       </article>
     `;
@@ -429,4 +453,19 @@ loadNews().then((data) => {
   renderGrid(items);
   renderList(items);
   setupNewsSearch(items);
+});
+
+document.addEventListener("click", async (event) => {
+  const button = event.target.closest("[data-copy-news]");
+  if (!button) return;
+
+  try {
+    await navigator.clipboard.writeText(button.dataset.copyNews);
+    button.textContent = "Copiado";
+    setTimeout(() => {
+      button.textContent = "Copiar enlace";
+    }, 1600);
+  } catch {
+    button.textContent = "No copiado";
+  }
 });
