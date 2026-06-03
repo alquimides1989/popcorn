@@ -1,6 +1,6 @@
-const fs = require("node:fs");
+﻿const fs = require("node:fs");
 
-const scriptVersion = "7";
+const scriptVersion = "8";
 
 const head = (title) => `<!doctype html>
 <html lang="es">
@@ -38,7 +38,7 @@ const nav = (active) => {
       <nav class="nav" aria-label="Principal">
         ${items.map(([label, href]) => `<a${label === active ? ' class="active"' : ""} href="./${href}">${label}</a>`).join("\n        ")}
       </nav>
-      <a class="learn" href="./playstation.html">Noticias <span aria-hidden="true">›</span></a>
+      <a class="learn" href="./playstation.html">Noticias <span aria-hidden="true">â€º</span></a>
     </header>`;
 };
 
@@ -65,41 +65,41 @@ const sectionPage = ({ file, title, active, bodyAttr, label, heading, copy, icon
 
 const trailerItems = [
   {
-    title: "Call of Duty: Black Ops 7 & Warzone - Season 04 Launch Trailer",
-    meta: "PS5 y PS4 · PlayStation oficial",
-    videoId: "GQU0QLE9mdY",
+    title: "God of War Laufey - Official Gameplay Reveal",
+    meta: "PS5 - State of Play - PlayStation oficial",
+    videoId: "HLMX2w3cwuE",
   },
   {
-    title: "Fallout 76 - Infestations Gameplay Trailer",
-    meta: "PS5 y PS4 · PlayStation oficial",
-    videoId: "frVlAoQOnfY",
+    title: "Until Dawn 2 - Announce Trailer",
+    meta: "PS5 - State of Play - PlayStation oficial",
+    videoId: "QpVZ9OvRLZI",
   },
   {
-    title: "Where Winds Meet - Imperial Palace Expansion Chapter 2 Trailer",
-    meta: "PS5 · PlayStation oficial",
-    videoId: "tapDbkUzRyg",
+    title: "Control Resonant - Story/Release Date Reveal Trailer",
+    meta: "PS5 - State of Play - PlayStation oficial",
+    videoId: "TAzxTMaA6j4",
   },
   {
-    title: "Rainbow Six Siege - Operation System Override Launch Trailer",
-    meta: "PS5 y PS4 · PlayStation oficial",
-    videoId: "NrG2eUbeSEE",
+    title: "Ace Combat 8: Wings of Theve - Release Date Trailer",
+    meta: "PS5 - State of Play - PlayStation oficial",
+    videoId: "c2bgoQhlzqE",
   },
   {
-    title: "Satisfactory - 1.2 Update Trailer",
-    meta: "PS5 · PlayStation oficial",
-    videoId: "VE09EvKaTRw",
+    title: "Marathon - Season 2 Gameplay Trailer",
+    meta: "PS5 y PC - State of Play - PlayStation oficial",
+    videoId: "-WVhTcByDyY",
   },
   {
-    title: "2XKO - Senna Gameplay Reveal Trailer",
-    meta: "PS5 · PlayStation oficial",
-    videoId: "SfMfmRcvmhs",
+    title: "ILL - Story Trailer",
+    meta: "PS5 - State of Play - PlayStation oficial",
+    videoId: "TFHcVsPNbsY",
   },
 ];
 
 const trailerSection = `<section class="trailer-strip" id="trailers">
         <div class="section-heading">
           <h2>Trailers oficiales PS5</h2>
-          <p>Ultimos videos publicados en el canal oficial de PlayStation en YouTube.</p>
+          <p>Videos oficiales publicados tras el State of Play del 2 de junio.</p>
         </div>
         <div class="trailer-grid">
           ${trailerItems
@@ -121,7 +121,7 @@ const home = `${head("BluePoint")}
     ${nav("Inicio")}
     <main class="page-shell">
       <section class="ticker" aria-label="Ultima hora" data-news-ticker>
-        <strong><span aria-hidden="true">⚡</span> Ultima hora</strong>
+        <strong><span aria-hidden="true">âš¡</span> Ultima hora</strong>
         <span>State of Play</span>
         <span>PS Plus</span>
         <span>Exclusivos PS5</span>
@@ -138,7 +138,7 @@ const home = `${head("BluePoint")}
             <h1>Actualidad PlayStation con pulso propio</h1>
             <p>BluePoint sigue PS5, PlayStation Studios, State of Play, PS Plus, exclusivos, rumores y guias con contexto claro para jugadores.</p>
             <div class="hero-actions">
-              <a class="primary-btn" href="#destacadas">Ver noticias <span aria-hidden="true">›</span></a>
+              <a class="primary-btn" href="#destacadas">Ver noticias <span aria-hidden="true">â€º</span></a>
               <a class="ghost-btn" href="./state-of-play.html">State of Play</a>
             </div>
           </div>
@@ -153,12 +153,12 @@ const home = `${head("BluePoint")}
           <p>Accesos directos a las areas clave del ecosistema PlayStation.</p>
         </div>
         <div class="platform-grid">
-          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play →</b></span></a>
-          <a class="platform-card play" href="./playstation.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias →</b></span></a>
-          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus →</b></span></a>
-          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos →</b></span></a>
-          <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores →</b></span></a>
-          <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias →</b></span></a>
+          <a class="platform-card play" href="./state-of-play.html"><span class="platform-icon">${sectionIcon("state")}</span><span><strong>State of Play</strong><small>Eventos, anuncios, trailers y gameplay mostrados por Sony.</small><b>Ver State of Play â†’</b></span></a>
+          <a class="platform-card play" href="./playstation.html"><span class="platform-icon">${sectionIcon("ps5")}</span><span><strong>Noticias PS5</strong><small>Actualidad diaria de PS5, PlayStation Studios y accesorios.</small><b>Ver noticias â†’</b></span></a>
+          <a class="platform-card play" href="./ps-plus.html"><span class="platform-icon">${sectionIcon("plus")}</span><span><strong>PS Plus</strong><small>Juegos mensuales, catalogo, Extra, Premium y rotaciones.</small><b>Ver PS Plus â†’</b></span></a>
+          <a class="platform-card play" href="./exclusivos.html"><span class="platform-icon">${sectionIcon("exclusive")}</span><span><strong>Exclusivos</strong><small>Grandes juegos first party y acuerdos clave de PlayStation.</small><b>Ver exclusivos â†’</b></span></a>
+          <a class="platform-card play" href="./rumores.html"><span class="platform-icon">${sectionIcon("rumor")}</span><span><strong>Rumores</strong><small>Filtraciones, pistas y senales con lectura prudente.</small><b>Ver rumores â†’</b></span></a>
+          <a class="platform-card play" href="./guias.html"><span class="platform-icon">${sectionIcon("guide")}</span><span><strong>Guias</strong><small>Consejos y claves practicas para jugadores de PS5.</small><b>Ver guias â†’</b></span></a>
         </div>
       </section>
 
@@ -173,7 +173,7 @@ const home = `${head("BluePoint")}
       ${trailerSection}
 
       <section class="newsletter" aria-label="Suscripcion">
-        <div class="mail-icon" aria-hidden="true">✉</div>
+        <div class="mail-icon" aria-hidden="true">âœ‰</div>
         <div><h2>Recibe lo mejor de <span>BluePoint</span></h2><p>Actualidad PlayStation, PS Plus, State of Play y exclusivos.</p></div>
         <form><label class="sr-only" for="email">Tu correo electronico</label><input id="email" type="email" placeholder="Tu correo electronico" /><button type="submit">Suscribirme</button><small>No enviamos spam. Puedes darte de baja cuando quieras.</small></form>
       </section>

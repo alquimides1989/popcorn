@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:45:00+02:00",
+  "updatedAt": "2026-06-03T10:35:00+02:00",
   "items": [
     {
       "id": "windows-central-xbox-project-helix-showcase",
@@ -78,28 +78,153 @@
     },
     {
       "id": "playstation-state-of-play-2-junio-wolverine",
-      "title": "PlayStation celebra hoy su State of Play con Marvel's Wolverine como gran foco",
-      "summary": "El State of Play de hoy, 2 de junio, se emitira a las 23:00 CEST con mas de 60 minutos de anuncios, actualizaciones y gameplay, incluyendo un vistazo a Marvel's Wolverine.",
+      "title": "El State of Play deja a Marvel's Wolverine con fecha y abre una nueva ola de anuncios para PS5",
+      "summary": "La emision del 2 de junio ya esta disponible en el canal oficial de PlayStation y confirma a Marvel's Wolverine para el 15 de septiembre, junto a novedades como God of War Laufey, Until Dawn 2, Control Resonant y Ace Combat 8.",
       "body": [
-        "PlayStation celebra hoy, martes 2 de junio, una nueva edicion de State of Play. La retransmision empezara a las 23:00 CEST, una hora especialmente pensada para que el evento conecte con la tarde estadounidense y la noche europea.",
-        "Sony ha confirmado que la presentacion durara mas de 60 minutos e incluira anuncios, actualizaciones y revelaciones de gameplay de estudios de todo el mundo. El nombre que ya aparece como gran reclamo es Marvel's Wolverine, el proyecto de Insomniac Games que muchos jugadores de PS5 esperan ver con mas claridad.",
-        "La importancia del evento va mas alla de un solo juego. PlayStation necesita ordenar su calendario de segunda mitad de 2026 y mostrar que el catalogo de PS5 sigue teniendo margen para sorprender entre grandes exclusivos, acuerdos third party y posibles novedades de servicios.",
-        "Como siempre con un State of Play, conviene distinguir lo confirmado de los rumores. Lo seguro es la hora, la duracion superior a una hora y la presencia de Marvel's Wolverine; el resto de apariciones dependera de lo que Sony decida revelar durante la emision."
+        "PlayStation ya ha cerrado el State of Play del 2 de junio y la emision completa queda como una de las citas mas cargadas del ano para PS5. El programa arranco con Marvel's Wolverine, que no solo mostro un vistazo mas directo a su combate, sino que tambien fijo su lanzamiento para el 15 de septiembre en PS5.",
+        "El evento funciono como escaparate de calendario. A Wolverine se sumaron anuncios y trailers de juegos como God of War Laufey, Until Dawn 2, Control Resonant, Ace Combat 8: Wings of Theve, Marathon Season 2 e ILL, todos publicados tambien como videos independientes en el canal oficial de PlayStation.",
+        "Para el lector de BluePoint, la lectura principal es que Sony ha usado esta presentacion para mezclar tres capas: exclusivos first party, acuerdos con estudios externos y actualizaciones de juegos ya activos. Esa combinacion permite mantener viva la conversacion mas alla de un unico gran titular.",
+        "Ahora el trabajo editorial pasa por separar cada anuncio y seguirlo por secciones: Wolverine y God of War Laufey entran en la parte de exclusivos, Until Dawn 2 y Control Resonant refuerzan la agenda de PS5, y Marathon muestra la parte de servicios y comunidad del catalogo PlayStation."
       ],
       "category": "PlayStation",
       "pinned": true,
       "tags": ["PlayStation", "State of Play", "Marvel's Wolverine", "PS5"],
       "source": "PlayStation Blog",
-      "url": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/",
-      "detectedAt": "2026-06-02T11:05:00+02:00",
-      "publishedAt": "2026-05-20T00:00:00+02:00",
+      "url": "https://www.youtube.com/watch?v=cvh0xXmu0bs",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-03T00:32:31+02:00",
       "confidence": "Confirmado por PlayStation",
       "image": {
-        "url": "https://blog.playstation.com/tachyon/2086/05/a752370ce16df03754ac285695174544a31bf13e.png?crop_strategy=smart&resize=1088%2C612",
-        "alt": "Grafico oficial del State of Play del 2 de junio",
-        "kind": "graphic",
-        "credit": "PlayStation Blog",
-        "sourceUrl": "https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/"
+        "url": "https://i.ytimg.com/vi/cvh0xXmu0bs/hqdefault.jpg",
+        "alt": "Miniatura oficial del State of Play del 2 de junio",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=cvh0xXmu0bs"
+      }
+    },
+    {
+      "id": "god-of-war-laufey-gameplay-reveal",
+      "title": "God of War Laufey aparece como nuevo capitulo principal con gameplay para PS5",
+      "summary": "Santa Monica Studio ha presentado God of War Laufey con un primer gameplay oficial centrado en Faye y una nueva aventura para PS5.",
+      "body": [
+        "God of War Laufey fue uno de los anuncios con mayor impacto del State of Play. PlayStation lo presenta como una nueva aventura de Santa Monica Studio para PS5, centrada en Laufey, tambien conocida como Faye, una figura clave dentro de la etapa nordica de la saga.",
+        "El trailer oficial de gameplay plantea una premisa clara: la muerte no es el cierre de la historia para Faye. La pieza muestra una aventura que parte del legado de God of War, pero desplaza el foco hacia otro punto de vista y hacia una protagonista con peso propio dentro de la mitologia de la serie.",
+        "Sony ha acompanado el anuncio con varios videos complementarios, incluidos materiales sobre el reparto, la presentacion de Faye y una entrevista de Cory Barlog con el equipo creativo. Eso indica que PlayStation quiere tratar el juego como un gran lanzamiento narrativo, no como un simple derivado menor.",
+        "Todavia no hay fecha cerrada mas alla de un 'coming soon' para PS5. Aun asi, por estudio, marca y tratamiento en el evento, God of War Laufey pasa a ser una de las piezas prioritarias dentro del seguimiento de exclusivos de BluePoint."
+      ],
+      "category": "PlayStation",
+      "tags": ["PlayStation Studios", "Exclusivos", "God of War", "Laufey", "PS5", "State of Play"],
+      "source": "PlayStation",
+      "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-03T00:15:01+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://i.ytimg.com/vi/HLMX2w3cwuE/hqdefault.jpg",
+        "alt": "Miniatura oficial de God of War Laufey",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=HLMX2w3cwuE"
+      }
+    },
+    {
+      "id": "until-dawn-2-announce-ps5-2027",
+      "title": "Until Dawn 2 recupera el terror de decisiones y apunta a PS5 en 2027",
+      "summary": "PlayStation ha publicado el trailer de anuncio de Until Dawn 2, una nueva entrega de terror para PS5 prevista para 2027.",
+      "body": [
+        "Until Dawn 2 vuelve a colocar el terror interactivo dentro del escaparate de PlayStation. El trailer oficial presenta a un grupo de cazadores de fantasmas que persiguen impacto viral en una isla remota, hasta que la historia local empieza a convertirse en una amenaza real.",
+        "La descripcion del video deja claro que el peso seguira estando en las decisiones del jugador. La promesa 'make every choice count' encaja con el ADN de Until Dawn: tension, consecuencias y personajes que pueden sobrevivir o caer segun las elecciones tomadas.",
+        "El anuncio fija 2027 como ventana de lanzamiento para PS5. No se han detallado todavia sistemas concretos, reparto completo o estructura jugable, pero el simple regreso de la marca ya da a PlayStation una carta fuerte dentro del terror cinematografico.",
+        "Para BluePoint, Until Dawn 2 encaja como noticia de seguimiento continuo: trailer de anuncio ahora, posibles detalles de jugabilidad mas adelante y una ventana suficientemente amplia como para mantener interes durante los proximos eventos."
+      ],
+      "category": "PlayStation",
+      "tags": ["State of Play", "Until Dawn 2", "PS5", "Terror"],
+      "source": "PlayStation",
+      "url": "https://www.youtube.com/watch?v=QpVZ9OvRLZI",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-02T23:50:38+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://i.ytimg.com/vi/QpVZ9OvRLZI/hqdefault.jpg",
+        "alt": "Miniatura oficial de Until Dawn 2",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=QpVZ9OvRLZI"
+      }
+    },
+    {
+      "id": "control-resonant-fecha-ps5-septiembre-2026",
+      "title": "Control Resonant fija fecha en PS5 y cambia el foco hacia Dylan Faden",
+      "summary": "El nuevo trailer de Control Resonant confirma lanzamiento para el 24 de septiembre de 2026 en PlayStation 5.",
+      "body": [
+        "Control Resonant salio del State of Play con una noticia concreta: fecha de lanzamiento para PS5. El trailer oficial situa el estreno el 24 de septiembre de 2026 y presenta una historia marcada por una Manhattan bajo ataque de fuerzas de otro mundo.",
+        "La pieza coloca a Dylan Faden en el centro del conflicto. La descripcion oficial habla de un personaje que debe recordar como ser humano de nuevo mientras intenta contener una amenaza ligada al Hiss, lo que conecta directamente con la mitologia de Control.",
+        "El anuncio no se limita a recordar que el juego existe; tambien abre reservas y da una ventana clara al jugador. Eso convierte a Control Resonant en una de las noticias mas utiles del evento, porque pasa de la expectativa a una fecha concreta dentro del calendario de PS5.",
+        "Para la web, esta noticia ayuda a equilibrar la portada: no todo depende de los grandes first party de Sony. PlayStation tambien necesita third party potentes y nombres reconocibles que mantengan la agenda viva entre exclusivos."
+      ],
+      "category": "PlayStation",
+      "tags": ["State of Play", "Control Resonant", "PS5", "Remedy"],
+      "source": "PlayStation",
+      "url": "https://www.youtube.com/watch?v=TAzxTMaA6j4",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-02T23:43:42+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://i.ytimg.com/vi/TAzxTMaA6j4/hqdefault.jpg",
+        "alt": "Miniatura oficial de Control Resonant",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=TAzxTMaA6j4"
+      }
+    },
+    {
+      "id": "ace-combat-8-fecha-ps5-octubre-2026",
+      "title": "Ace Combat 8: Wings of Theve despega en PS5 el 2 de octubre",
+      "summary": "Bandai Namco y PlayStation han mostrado el trailer con fecha de Ace Combat 8: Wings of Theve, previsto para el 2 de octubre de 2026.",
+      "body": [
+        "Ace Combat 8: Wings of Theve tambien tuvo presencia en la oleada de videos oficiales de PlayStation tras el State of Play. El trailer de fecha confirma que la nueva entrega llegara a PS5 el 2 de octubre de 2026.",
+        "La descripcion oficial situa la accion en julio de 2029, con la Federacion de Central Usea bajo ataque y el jugador operando desde el portaaviones Endurance. El nombre Wings of Theve funciona dentro de la historia como simbolo de esperanza para recuperar el territorio perdido.",
+        "El anuncio llega en un momento significativo para la saga, que celebra su 30 aniversario. PlayStation lo presenta como una nueva entrega pensada para elevar la serie, manteniendo el enfoque de combate aereo, velocidad y sensacion de ser un piloto de elite.",
+        "En clave de radar, Ace Combat 8 es importante porque no solo suma un trailer espectacular: aporta fecha, edicion deluxe, incentivos de reserva y una posicion clara dentro de octubre, un mes que ya empieza a tener peso en el calendario de PS5."
+      ],
+      "category": "PlayStation",
+      "tags": ["State of Play", "Ace Combat 8", "PS5", "Bandai Namco"],
+      "source": "PlayStation",
+      "url": "https://www.youtube.com/watch?v=c2bgoQhlzqE",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-02T23:36:34+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://i.ytimg.com/vi/c2bgoQhlzqE/hqdefault.jpg",
+        "alt": "Miniatura oficial de Ace Combat 8",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=c2bgoQhlzqE"
+      }
+    },
+    {
+      "id": "marathon-season-2-open-play-week",
+      "title": "Marathon abre su Season 2 con semana de juego abierto en PS5 y PC",
+      "summary": "Bungie y PlayStation han presentado la Season 2 de Marathon, disponible con Open Play Week del 2 al 9 de junio.",
+      "body": [
+        "Marathon uso el State of Play para mostrar su Season 2 y activar una nueva ventana de prueba. El video oficial confirma una Open Play Week del 2 al 9 de junio, una forma directa de llevar jugadores al shooter de extraccion de Bungie.",
+        "La temporada introduce el mapa Night Marsh, el Runner defensivo Sentinel, nuevas armas y mas formas de ajustar el estilo de juego. PlayStation lo presenta como un reinicio de temporada pensado para que nuevos y veteranos exploren cambios al mismo tiempo.",
+        "El enfoque de Marathon sigue siendo PvP y PvE de alto riesgo: entrar, saquear y extraer antes de que otros jugadores o las propias amenazas del mapa arruinen la partida. La Season 2 intenta reforzar esa tension con contenido jugable inmediato.",
+        "Para BluePoint, Marathon representa la otra cara de la estrategia PlayStation: no es un exclusivo narrativo cerrado, sino un juego vivo que necesita comunidad, eventos y actualizaciones constantes para mantenerse visible."
+      ],
+      "category": "PlayStation",
+      "tags": ["State of Play", "Marathon", "Bungie", "PS5", "PC"],
+      "source": "PlayStation",
+      "url": "https://www.youtube.com/watch?v=-WVhTcByDyY",
+      "detectedAt": "2026-06-03T10:35:00+02:00",
+      "publishedAt": "2026-06-02T23:45:50+02:00",
+      "confidence": "Confirmado por PlayStation",
+      "image": {
+        "url": "https://i.ytimg.com/vi/-WVhTcByDyY/hqdefault.jpg",
+        "alt": "Miniatura oficial de Marathon Season 2",
+        "kind": "photo",
+        "credit": "PlayStation",
+        "sourceUrl": "https://www.youtube.com/watch?v=-WVhTcByDyY"
       }
     },
     {
