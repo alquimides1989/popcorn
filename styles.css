@@ -674,6 +674,17 @@ h1 {
   filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.42));
 }
 
+.section-icon svg {
+  display: block;
+  width: 86px;
+  min-width: 86px;
+  height: 86px;
+  max-width: 88%;
+  max-height: 88%;
+  fill: white;
+  filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.42));
+}
+
 .state-icon {
   background:
     radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.4), transparent 25%),
@@ -1803,6 +1814,21 @@ h1 {
   max-height: 130px;
   object-fit: contain;
   filter: drop-shadow(0 18px 28px rgba(0, 0, 0, 0.45)) drop-shadow(0 0 28px rgba(255, 255, 255, 0.2));
+}
+
+.section-logo .section-icon img {
+  width: min(88%, 86px);
+  height: auto;
+  max-height: 82px;
+  object-fit: contain;
+}
+
+.section-logo .section-icon svg {
+  width: 104px;
+  min-width: 104px;
+  height: 104px;
+  max-width: 88%;
+  max-height: 88%;
 }
 
 .section-photo,
