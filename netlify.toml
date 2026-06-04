@@ -6,3 +6,8 @@
   from = "/api/brevo-subscribe"
   to = "/.netlify/functions/brevo-subscribe"
   status = 200
+
+[[redirects]]
+  from = "/api/visit-counter"
+  to = "/.netlify/functions/visit-counter"
+  status = 200

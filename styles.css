@@ -1801,6 +1801,17 @@ h1 {
   gap: 10px;
 }
 
+.visit-counter {
+  border-color: rgba(255, 210, 28, 0.52);
+  background:
+    radial-gradient(circle at 82% 18%, rgba(255, 210, 28, 0.18), transparent 10rem),
+    linear-gradient(145deg, rgba(7, 20, 42, 0.92), rgba(5, 10, 18, 0.88));
+}
+
+.visit-counter strong {
+  color: var(--gold);
+}
+
 .section-layout.news-only {
   grid-template-columns: 1fr;
 }

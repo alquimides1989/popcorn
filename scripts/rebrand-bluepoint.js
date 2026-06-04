@@ -1,6 +1,6 @@
 ﻿const fs = require("node:fs");
 
-const scriptVersion = "13";
+const scriptVersion = "14";
 const readJson = (file, fallback) => {
   try {
     return JSON.parse(fs.readFileSync(file, "utf8"));
@@ -54,6 +54,7 @@ const head = (title) => `<!doctype html>
     <script src="./poll.js?v=${scriptVersion}" defer></script>
     <script src="./engagement.js?v=${scriptVersion}" defer></script>
     <script src="./newsletter.js?v=${scriptVersion}" defer></script>
+    <script src="./visits.js?v=${scriptVersion}" defer></script>
   </head>`;
 
 const playStationGlyph = `<svg width="96" height="96" viewBox="0 0 24 24" role="img" aria-label="PlayStation" xmlns="http://www.w3.org/2000/svg">
@@ -335,6 +336,10 @@ const commandCenter = `<section class="command-center" aria-labelledby="command-
           <div class="pulse-card">
             <strong>2</strong>
             <span>Rumores bajo vigilancia editorial</span>
+          </div>
+          <div class="pulse-card visit-counter" data-visit-widget>
+            <strong data-visit-count>...</strong>
+            <span data-visit-label>visitas registradas</span>
           </div>
         </div>
       </section>`;
