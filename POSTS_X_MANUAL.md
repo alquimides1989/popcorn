@@ -1,174 +1,150 @@
 # Posts manuales para X - BluePoint
 
-Generado: 2026-06-04T07:00:23.646Z
+Generado: 2026-06-04T14:07:01.621Z
 
 Copia cada bloque de texto en X. Los hashtags y enlaces ya van incluidos dentro del post.
 
-## 1. ps-store-mayo-2026-top-descargas-007-first-light
+## 1. rumor-fairgames-haven-playtests
 
 Slot sugerido: Dia 1 - 10:00
-Tipo: Noticia confirmada
-Notas de fuente: Fuente base: PlayStation Blog y radar interno BluePoint
+Tipo: Rumor / seguimiento
+Notas de fuente: PlayStation LifeStyle recoge reportes atribuidos a Tom Henderson sobre pruebas internas de Fairgames
 
-007 First Light fue lo mas descargado de PS5 en mayo en PS Store. Buena pista de por donde va el interes: novedades fuertes, catalogo persistente y mucho foco en PS5. https://bluepointesp.netlify.app/playstation.html #BluePoint #PS5 #PlayStation
+Radar rumores: Fairgames vuelve a sonar por dudas sobre sus pruebas internas. Hasta que Sony o Haven muevan ficha, toca leerlo como senal de seguimiento, no como sentencia. https://bluepointesp.netlify.app/rumores.html #Fairgames #PS5 #PlayStation
 
-Caracteres: 245
-Imagen sugerida: Imagen relacionada con 007 First Light en PS5
-Credito imagen: PlayStation Blog / PS Store
+Caracteres: 247
+Imagen sugerida: Radar editorial sobre Fairgames y Haven Studios
+Credito imagen: BluePoint / PlayStation Studios
 
-## 2. days-of-play-2026-ofertas-tramo-final
+## 2. rumor-uncharted-patente-sony-break-in
 
 Slot sugerido: Dia 1 - 13:00
-Tipo: Oferta / conversion
-Notas de fuente: Fuente base: PlayStation / Sony
+Tipo: Rumor / patente
+Notas de fuente: Vice reporto el rumor alrededor de una patente de Sony asociada por fans a Uncharted
 
-Days of Play encara su tramo final: PS Plus, PS VR2, DualSense, Pulse y juegos PS5 con descuentos hasta el 10 de junio. En BluePoint filtramos lo que merece la pena mirar. https://bluepointesp.netlify.app/ofertas.html #DaysOfPlay #PS5
-
-Caracteres: 234
-Imagen sugerida: Promociones Days of Play con productos PlayStation
-Credito imagen: PlayStation / Sony
-
-## 3. state-of-play-junio-2026-calendario-ps5-confirmado
-
-Slot sugerido: Dia 1 - 18:00
-Tipo: Calendario
-Notas de fuente: Fuente base: PlayStation Blog y calendario BluePoint
-
-El State of Play deja septiembre y octubre cargados para PS5: Silent Hill Townfall, Control Resonant, Onimusha y Ace Combat 8 ya aparecen como nombres clave del calendario. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5
-
-Caracteres: 242
-Imagen sugerida: Grafica editorial de State of Play y calendario PS5
-Credito imagen: PlayStation Blog
-
-## 4. silent-hill-townfall-ps5-septiembre
-
-Slot sugerido: Dia 2 - 10:00
-Tipo: Noticia confirmada
-Notas de fuente: Fuente base: PlayStation Blog
-
-Silent Hill: Townfall llega a PS5 el 24 de septiembre con terror psicologico, puzzles narrativos y una lectura mas intima del universo Silent Hill. Septiembre pinta fuerte para el horror. https://bluepointesp.netlify.app/playstation.html #SilentHill #PS5
-
-Caracteres: 254
-Imagen sugerida: Imagen oficial de Silent Hill Townfall para PS5
-Credito imagen: PlayStation Blog
-
-## 5. tomb-raider-legacy-atlantis-ps5-fecha
-
-Slot sugerido: Dia 2 - 13:00
-Tipo: Noticia confirmada
-Notas de fuente: Fuente base: PlayStation Blog
-
-Tomb Raider: Legacy of Atlantis fija fecha en PS5 para el 12 de febrero de 2027. Lara vuelve al radar grande de PlayStation con ediciones, gameplay y una ventana clara. https://bluepointesp.netlify.app/playstation.html #TombRaider #PS5
-
-Caracteres: 235
-Imagen sugerida: Imagen oficial de Tomb Raider Legacy of Atlantis
-Credito imagen: PlayStation Blog
-
-## 6. marvel-tokon-magneto-green-goblin-carnage
-
-Slot sugerido: Dia 2 - 18:00
-Tipo: Noticia confirmada
-Notas de fuente: Fuente base: PlayStation Blog
-
-MARVEL Tokon suma a Magneto, Green Goblin y Carnage. Con Arc System Works detras, cada personaje nuevo puede cambiar bastante el ritmo competitivo del juego. https://bluepointesp.netlify.app/playstation.html #MARVELTokon #PS5 #FightingGames
-
-Caracteres: 240
-Imagen sugerida: Imagen oficial de MARVEL Tokon Fighting Souls
-Credito imagen: PlayStation Blog
-
-## 7. saros-criticas-metacritic-ps5
-
-Slot sugerido: Dia 3 - 10:00
-Tipo: Seguimiento critico
-Notas de fuente: Fuente base: Metacritic y radar de criticas BluePoint
-
-Saros entra en seguimiento critico: Metacritic ya sirve como mapa para revisar que estan destacando medios como VGC, PSU o WellPlayed. Housemarque vuelve a mover conversacion. https://bluepointesp.netlify.app/exclusivos.html #Saros #PS5
-
-Caracteres: 236
-Imagen sugerida: Arte oficial de Saros para PS5
-Credito imagen: PlayStation / Metacritic
-
-## 8. ps-plus-state-of-play-junio-catalogo-clasicos
-
-Slot sugerido: Dia 3 - 13:00
-Tipo: Servicio
-Notas de fuente: Fuente base: PlayStation Blog y PS Plus
-
-PS Plus gana peso tras el State of Play: nuevas llegadas al catalogo y clasicos refuerzan junio. La clave no es solo cuantos juegos entran, sino cuanto valor real dejan. https://bluepointesp.netlify.app/ps-plus.html #PSPlus #PS5
-
-Caracteres: 228
-Imagen sugerida: Imagen editorial relacionada con PS Plus
-Credito imagen: PlayStation Blog
-
-## 9. radar-fuentes-kotaku-extas1s-playstation
-
-Slot sugerido: Dia 3 - 18:00
-Tipo: Radar de fuentes
-Notas de fuente: Post editorial: menciona fuentes de seguimiento sin convertir rumores en hechos
-
-Radar BluePoint: seguimos medios como Kotaku y cuentas/insiders como eXtas1s, pero separamos rumor de confirmacion. Si no hay fuente solida, no lo vendemos como noticia. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5 #PlayStation
-
-Caracteres: 242
-Imagen sugerida: Radar editorial de rumores PlayStation
-Credito imagen: BluePoint
-
-## 10. pregunta-comunidad-state-of-play
-
-Slot sugerido: Dia 4 - 10:00
-Tipo: Engagement
-Notas de fuente: Post de interaccion para respuestas y alcance organico
-
-Pregunta rapida: despues del ultimo State of Play, que anuncio de PS5 te dejo con mas ganas? 1) Silent Hill 2) Tomb Raider 3) MARVEL Tokon 4) Saros Responde con numero. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5
-
-Caracteres: 238
-Imagen sugerida: Encuesta editorial sobre State of Play
-Credito imagen: BluePoint
-
-## 11. calendario-ps5-seguimiento-lanzamientos
-
-Slot sugerido: Dia 4 - 13:00
-Tipo: Utilidad
-Notas de fuente: Post de utilidad para derivar trafico recurrente
-
-Hemos ordenado el calendario PS5 hasta diciembre para tener a mano fechas, ventanas y lanzamientos importantes. Ideal para no perder reservas, demos o cambios de fecha. https://bluepointesp.netlify.app/calendario.html #PS5 #PlayStation
-
-Caracteres: 235
-Imagen sugerida: Calendario de lanzamientos PS5
-Credito imagen: BluePoint
-
-## 12. ofertas-radar-playstation
-
-Slot sugerido: Dia 4 - 18:00
-Tipo: Oferta / conversion
-Notas de fuente: Post evergreen para trafico y monetizacion futura
-
-Nuevo habito para ahorrar en PlayStation: revisar ofertas con criterio, no por impulso. En BluePoint dejamos radar de PS Store, PS Plus y accesorios para separar chollo de ruido. https://bluepointesp.netlify.app/ofertas.html #PS5 #Ofertas #PSPlus
-
-Caracteres: 246
-Imagen sugerida: Radar de ofertas PlayStation
-Credito imagen: BluePoint
-
-## 13. bluepoint-post-fijado
-
-Slot sugerido: Fijar en perfil
-Tipo: Post fijado
-Notas de fuente: Post recomendado para anclar en el perfil
-
-BluePoint es tu radar PlayStation en espanol: noticias PS5, PS Plus, State of Play, exclusivos, rumores filtrados con criterio, calendario y ofertas. Menos ruido, mas contexto. https://bluepointesp.netlify.app/ #BluePoint #PS5 #PlayStation
+Radar rumores: una patente de Sony ha reactivado teorias sobre Uncharted. Ojo: una patente no confirma juego. Sirve para mirar hacia donde podria estar investigando PlayStation. https://bluepointesp.netlify.app/rumores.html #Uncharted #PS5
 
 Caracteres: 239
-Imagen sugerida: Logo blanco de BluePoint sobre fondo PlayStation
+Imagen sugerida: Radar editorial sobre una posible pista de Uncharted
+Credito imagen: BluePoint / Sony Interactive Entertainment
+
+## 3. rumor-sly-cooper-kotaku-state-of-play
+
+Slot sugerido: Dia 1 - 18:00
+Tipo: Rumor / comunidad
+Notas de fuente: Kotaku PlayStation tag menciona rumores alrededor de Sly Cooper antes del State of Play
+
+Kotaku volvio a poner Sly Cooper en la conversacion previa al State of Play. No hay anuncio oficial, pero el interes existe: Sony tiene sagas dormidas con mucho tiron social. https://bluepointesp.netlify.app/rumores.html #SlyCooper #PS5
+
+Caracteres: 236
+Imagen sugerida: Radar editorial sobre Sly Cooper y sagas clasicas de PlayStation
+Credito imagen: BluePoint / Kotaku
+
+## 4. rumor-god-of-war-santa-monica-silencio
+
+Slot sugerido: Dia 2 - 10:00
+Tipo: Rumor / expectativa
+Notas de fuente: Toms Guide recogio expectativas y reportes previos sobre un posible nuevo God of War
+
+Radar rumores: God of War sigue apareciendo en quinielas, pero el State of Play no dejo una confirmacion clara. Mejor vigilar a Santa Monica sin inflar expectativas. https://bluepointesp.netlify.app/rumores.html #GodOfWar #PS5
+
+Caracteres: 226
+Imagen sugerida: Radar editorial sobre Santa Monica Studio y God of War
+Credito imagen: BluePoint / PlayStation Studios
+
+## 5. rumor-ps6-conversacion-temprana
+
+Slot sugerido: Dia 2 - 13:00
+Tipo: Rumor / hardware
+Notas de fuente: Creative Bloq y PS6News tratan el ruido alrededor de PS6 como conversacion temprana
+
+Radar hardware: ya hay ruido sobre PS6, pero todo apunta a conversacion temprana. Ahora mismo el foco real de Sony sigue siendo alargar PS5, PS5 Pro y el catalogo 2026-2027. https://bluepointesp.netlify.app/rumores.html #PS6 #PS5
+
+Caracteres: 229
+Imagen sugerida: Radar editorial de hardware PlayStation
 Credito imagen: BluePoint
 
-## 14. newsletter-bluepoint-playstation
+## 6. rumor-xbox-games-ps5-showcase
 
-Slot sugerido: Dia 5 - 10:00
-Tipo: Newsletter
-Notas de fuente: Post de captacion para newsletter
+Slot sugerido: Dia 2 - 18:00
+Tipo: Radar industria
+Notas de fuente: Windows Central recoge declaraciones de Matt Booty sobre mostrar plataformas en el Xbox Showcase
 
-Si quieres seguir PlayStation sin perderte entre titulares repetidos, la newsletter de BluePoint resume lo importante: noticias, PS Plus, calendario, rumores y ofertas. https://bluepointesp.netlify.app/?newsletter=brevo #BluePoint #PS5
+Radar industria: Xbox mostrara cuando sus juegos lleguen a PS5 y otras plataformas. Para PlayStation, la pregunta es clara: que thirds y antiguos exclusivos acabaran reforzando PS5? https://bluepointesp.netlify.app/rumores.html #PS5 #Xbox
 
-Caracteres: 235
-Imagen sugerida: Captura o creatividad de la newsletter BluePoint
+Caracteres: 238
+Imagen sugerida: Radar editorial sobre juegos multiplataforma llegando a PS5
+Credito imagen: BluePoint / Windows Central
+
+## 7. rumor-naughty-dog-intergalactic-silencio
+
+Slot sugerido: Dia 3 - 10:00
+Tipo: Rumor / first party
+Notas de fuente: Medios como LOS40 mencionaron Intergalactic en quinielas previas al State of Play
+
+Radar first party: Intergalactic y Naughty Dog siguen generando ruido cada vez que Sony prepara escaparate. Si no hay trailer nuevo, no hay noticia: solo seguimiento. https://bluepointesp.netlify.app/rumores.html #NaughtyDog #PS5
+
+Caracteres: 229
+Imagen sugerida: Radar editorial sobre Naughty Dog e Intergalactic
+Credito imagen: BluePoint / PlayStation Studios
+
+## 8. rumor-wolverine-post-state-of-play-lectura
+
+Slot sugerido: Dia 3 - 13:00
+Tipo: Radar / lectura editorial
+Notas de fuente: Fuente oficial: State of Play; enfoque editorial sobre expectativas de first party
+
+Radar Wolverine: tras el State of Play, la lectura no es solo fecha o gameplay. La clave esta en si Insomniac puede convertirlo en el gran ancla first party de PS5 para 2026. https://bluepointesp.netlify.app/state-of-play.html #Wolverine #PS5
+
+Caracteres: 242
+Imagen sugerida: Radar editorial sobre Marvel Wolverine en PS5
+Credito imagen: BluePoint / PlayStation
+
+## 9. rumor-firesprite-until-dawn-2
+
+Slot sugerido: Dia 3 - 18:00
+Tipo: Rumor / lectura comunidad
+Notas de fuente: Reddit Games megathread recoge conversacion comunitaria sobre Firesprite y terror narrativo
+
+Radar comunidad: en el megathread del State of Play se habla de Firesprite y una posible linea cercana a Until Dawn. Por ahora, prudencia: interesante para seguir, no confirmado. https://bluepointesp.netlify.app/rumores.html #PS5 #HorrorGames
+
+Caracteres: 242
+Imagen sugerida: Radar editorial sobre Firesprite y terror narrativo
+Credito imagen: BluePoint / Reddit comunidad
+
+## 10. rumor-playstation-studios-sagas-dormidas
+
+Slot sugerido: Dia 4 - 10:00
+Tipo: Engagement / rumor
+Notas de fuente: Post de engagement basado en conversacion recurrente de comunidad
+
+Pregunta radar: que saga dormida de PlayStation tendria mas impacto si volviera en PS5? 1) Sly Cooper 2) Jak and Daxter 3) Killzone 4) Resistance. https://bluepointesp.netlify.app/rumores.html #PlayStation #PS5
+
+Caracteres: 210
+Imagen sugerida: Encuesta sobre sagas dormidas de PlayStation
+Credito imagen: BluePoint
+
+## 11. rumor-metodo-bluepoint-fuentes
+
+Slot sugerido: Dia 4 - 13:00
+Tipo: Marca editorial
+Notas de fuente: Post de posicionamiento editorial para ganar confianza
+
+Nuestro metodo para rumores PlayStation: 1 fuente no es confirmacion, una patente no es anuncio y un insider no sustituye a Sony. Rumor marcado, contexto claro. https://bluepointesp.netlify.app/rumores.html #BluePoint #PS5
+
+Caracteres: 222
+Imagen sugerida: Metodo editorial BluePoint para rumores
+Credito imagen: BluePoint
+
+## 12. rumor-extas1s-tratamiento-bluepoint
+
+Slot sugerido: Dia 4 - 18:00
+Tipo: Radar de insider
+Notas de fuente: Post editorial: eXtas1s se cita como cuenta de seguimiento, no como confirmacion factual
+
+Seguimos cuentas como eXtas1s cuando mueven conversacion, pero en BluePoint las tratamos como radar, no como fuente final. Confirmacion solo cuando hay base solida. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5
+
+Caracteres: 224
+Imagen sugerida: Radar editorial sobre insiders PlayStation
 Credito imagen: BluePoint
 

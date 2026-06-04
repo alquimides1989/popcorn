@@ -1,229 +1,198 @@
 {
-  "updatedAt": "2026-06-04T07:00:23.578Z",
+  "updatedAt": "2026-06-04T14:07:00.968Z",
+  "focus": "rumores-playstation",
   "items": [
     {
-      "newsId": "ps-store-mayo-2026-top-descargas-007-first-light",
-      "type": "Noticia confirmada",
+      "newsId": "rumor-fairgames-haven-playtests",
+      "type": "Rumor / seguimiento",
       "slot": "Dia 1 - 10:00",
-      "text": "007 First Light fue lo mas descargado de PS5 en mayo en PS Store. Buena pista de por donde va el interes: novedades fuertes, catalogo persistente y mucho foco en PS5. https://bluepointesp.netlify.app/playstation.html #BluePoint #PS5 #PlayStation",
+      "text": "Radar rumores: Fairgames vuelve a sonar por dudas sobre sus pruebas internas. Hasta que Sony o Haven muevan ficha, toca leerlo como senal de seguimiento, no como sentencia. https://bluepointesp.netlify.app/rumores.html #Fairgames #PS5 #PlayStation",
+      "hashtags": [
+        "#Fairgames",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Fairgames y Haven Studios",
+      "imageCredit": "BluePoint / PlayStation Studios",
+      "sourceNotes": "PlayStation LifeStyle recoge reportes atribuidos a Tom Henderson sobre pruebas internas de Fairgames",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-uncharted-patente-sony-break-in",
+      "type": "Rumor / patente",
+      "slot": "Dia 1 - 13:00",
+      "text": "Radar rumores: una patente de Sony ha reactivado teorias sobre Uncharted. Ojo: una patente no confirma juego. Sirve para mirar hacia donde podria estar investigando PlayStation. https://bluepointesp.netlify.app/rumores.html #Uncharted #PS5",
+      "hashtags": [
+        "#Uncharted",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre una posible pista de Uncharted",
+      "imageCredit": "BluePoint / Sony Interactive Entertainment",
+      "sourceNotes": "Vice reporto el rumor alrededor de una patente de Sony asociada por fans a Uncharted",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-sly-cooper-kotaku-state-of-play",
+      "type": "Rumor / comunidad",
+      "slot": "Dia 1 - 18:00",
+      "text": "Kotaku volvio a poner Sly Cooper en la conversacion previa al State of Play. No hay anuncio oficial, pero el interes existe: Sony tiene sagas dormidas con mucho tiron social. https://bluepointesp.netlify.app/rumores.html #SlyCooper #PS5",
+      "hashtags": [
+        "#SlyCooper",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Sly Cooper y sagas clasicas de PlayStation",
+      "imageCredit": "BluePoint / Kotaku",
+      "sourceNotes": "Kotaku PlayStation tag menciona rumores alrededor de Sly Cooper antes del State of Play",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-god-of-war-santa-monica-silencio",
+      "type": "Rumor / expectativa",
+      "slot": "Dia 2 - 10:00",
+      "text": "Radar rumores: God of War sigue apareciendo en quinielas, pero el State of Play no dejo una confirmacion clara. Mejor vigilar a Santa Monica sin inflar expectativas. https://bluepointesp.netlify.app/rumores.html #GodOfWar #PS5",
+      "hashtags": [
+        "#GodOfWar",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Santa Monica Studio y God of War",
+      "imageCredit": "BluePoint / PlayStation Studios",
+      "sourceNotes": "Toms Guide recogio expectativas y reportes previos sobre un posible nuevo God of War",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-ps6-conversacion-temprana",
+      "type": "Rumor / hardware",
+      "slot": "Dia 2 - 13:00",
+      "text": "Radar hardware: ya hay ruido sobre PS6, pero todo apunta a conversacion temprana. Ahora mismo el foco real de Sony sigue siendo alargar PS5, PS5 Pro y el catalogo 2026-2027. https://bluepointesp.netlify.app/rumores.html #PS6 #PS5",
+      "hashtags": [
+        "#PS6",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial de hardware PlayStation",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Creative Bloq y PS6News tratan el ruido alrededor de PS6 como conversacion temprana",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-xbox-games-ps5-showcase",
+      "type": "Radar industria",
+      "slot": "Dia 2 - 18:00",
+      "text": "Radar industria: Xbox mostrara cuando sus juegos lleguen a PS5 y otras plataformas. Para PlayStation, la pregunta es clara: que thirds y antiguos exclusivos acabaran reforzando PS5? https://bluepointesp.netlify.app/rumores.html #PS5 #Xbox",
+      "hashtags": [
+        "#PS5",
+        "#Xbox",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre juegos multiplataforma llegando a PS5",
+      "imageCredit": "BluePoint / Windows Central",
+      "sourceNotes": "Windows Central recoge declaraciones de Matt Booty sobre mostrar plataformas en el Xbox Showcase",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-naughty-dog-intergalactic-silencio",
+      "type": "Rumor / first party",
+      "slot": "Dia 3 - 10:00",
+      "text": "Radar first party: Intergalactic y Naughty Dog siguen generando ruido cada vez que Sony prepara escaparate. Si no hay trailer nuevo, no hay noticia: solo seguimiento. https://bluepointesp.netlify.app/rumores.html #NaughtyDog #PS5",
+      "hashtags": [
+        "#NaughtyDog",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Naughty Dog e Intergalactic",
+      "imageCredit": "BluePoint / PlayStation Studios",
+      "sourceNotes": "Medios como LOS40 mencionaron Intergalactic en quinielas previas al State of Play",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-wolverine-post-state-of-play-lectura",
+      "type": "Radar / lectura editorial",
+      "slot": "Dia 3 - 13:00",
+      "text": "Radar Wolverine: tras el State of Play, la lectura no es solo fecha o gameplay. La clave esta en si Insomniac puede convertirlo en el gran ancla first party de PS5 para 2026. https://bluepointesp.netlify.app/state-of-play.html #Wolverine #PS5",
+      "hashtags": [
+        "#Wolverine",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Marvel Wolverine en PS5",
+      "imageCredit": "BluePoint / PlayStation",
+      "sourceNotes": "Fuente oficial: State of Play; enfoque editorial sobre expectativas de first party",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-firesprite-until-dawn-2",
+      "type": "Rumor / lectura comunidad",
+      "slot": "Dia 3 - 18:00",
+      "text": "Radar comunidad: en el megathread del State of Play se habla de Firesprite y una posible linea cercana a Until Dawn. Por ahora, prudencia: interesante para seguir, no confirmado. https://bluepointesp.netlify.app/rumores.html #PS5 #HorrorGames",
+      "hashtags": [
+        "#PS5",
+        "#HorrorGames",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar editorial sobre Firesprite y terror narrativo",
+      "imageCredit": "BluePoint / Reddit comunidad",
+      "sourceNotes": "Reddit Games megathread recoge conversacion comunitaria sobre Firesprite y terror narrativo",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-playstation-studios-sagas-dormidas",
+      "type": "Engagement / rumor",
+      "slot": "Dia 4 - 10:00",
+      "text": "Pregunta radar: que saga dormida de PlayStation tendria mas impacto si volviera en PS5? 1) Sly Cooper 2) Jak and Daxter 3) Killzone 4) Resistance. https://bluepointesp.netlify.app/rumores.html #PlayStation #PS5",
+      "hashtags": [
+        "#PlayStation",
+        "#PS5",
+        "#BluePoint"
+      ],
+      "imageAlt": "Encuesta sobre sagas dormidas de PlayStation",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Post de engagement basado en conversacion recurrente de comunidad",
+      "status": "manual_ready",
+      "createdAt": "2026-06-04T14:07:00.968Z"
+    },
+    {
+      "newsId": "rumor-metodo-bluepoint-fuentes",
+      "type": "Marca editorial",
+      "slot": "Dia 4 - 13:00",
+      "text": "Nuestro metodo para rumores PlayStation: 1 fuente no es confirmacion, una patente no es anuncio y un insider no sustituye a Sony. Rumor marcado, contexto claro. https://bluepointesp.netlify.app/rumores.html #BluePoint #PS5",
       "hashtags": [
         "#BluePoint",
         "#PS5",
         "#PlayStation"
       ],
-      "imageAlt": "Imagen relacionada con 007 First Light en PS5",
-      "imageCredit": "PlayStation Blog / PS Store",
-      "sourceNotes": "Fuente base: PlayStation Blog y radar interno BluePoint",
+      "imageAlt": "Metodo editorial BluePoint para rumores",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Post de posicionamiento editorial para ganar confianza",
       "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
+      "createdAt": "2026-06-04T14:07:00.968Z"
     },
     {
-      "newsId": "days-of-play-2026-ofertas-tramo-final",
-      "type": "Oferta / conversion",
-      "slot": "Dia 1 - 13:00",
-      "text": "Days of Play encara su tramo final: PS Plus, PS VR2, DualSense, Pulse y juegos PS5 con descuentos hasta el 10 de junio. En BluePoint filtramos lo que merece la pena mirar. https://bluepointesp.netlify.app/ofertas.html #DaysOfPlay #PS5",
-      "hashtags": [
-        "#DaysOfPlay",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Promociones Days of Play con productos PlayStation",
-      "imageCredit": "PlayStation / Sony",
-      "sourceNotes": "Fuente base: PlayStation / Sony",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "state-of-play-junio-2026-calendario-ps5-confirmado",
-      "type": "Calendario",
-      "slot": "Dia 1 - 18:00",
-      "text": "El State of Play deja septiembre y octubre cargados para PS5: Silent Hill Townfall, Control Resonant, Onimusha y Ace Combat 8 ya aparecen como nombres clave del calendario. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5",
-      "hashtags": [
-        "#StateOfPlay",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Grafica editorial de State of Play y calendario PS5",
-      "imageCredit": "PlayStation Blog",
-      "sourceNotes": "Fuente base: PlayStation Blog y calendario BluePoint",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "silent-hill-townfall-ps5-septiembre",
-      "type": "Noticia confirmada",
-      "slot": "Dia 2 - 10:00",
-      "text": "Silent Hill: Townfall llega a PS5 el 24 de septiembre con terror psicologico, puzzles narrativos y una lectura mas intima del universo Silent Hill. Septiembre pinta fuerte para el horror. https://bluepointesp.netlify.app/playstation.html #SilentHill #PS5",
-      "hashtags": [
-        "#SilentHill",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Imagen oficial de Silent Hill Townfall para PS5",
-      "imageCredit": "PlayStation Blog",
-      "sourceNotes": "Fuente base: PlayStation Blog",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "tomb-raider-legacy-atlantis-ps5-fecha",
-      "type": "Noticia confirmada",
-      "slot": "Dia 2 - 13:00",
-      "text": "Tomb Raider: Legacy of Atlantis fija fecha en PS5 para el 12 de febrero de 2027. Lara vuelve al radar grande de PlayStation con ediciones, gameplay y una ventana clara. https://bluepointesp.netlify.app/playstation.html #TombRaider #PS5",
-      "hashtags": [
-        "#TombRaider",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Imagen oficial de Tomb Raider Legacy of Atlantis",
-      "imageCredit": "PlayStation Blog",
-      "sourceNotes": "Fuente base: PlayStation Blog",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "marvel-tokon-magneto-green-goblin-carnage",
-      "type": "Noticia confirmada",
-      "slot": "Dia 2 - 18:00",
-      "text": "MARVEL Tokon suma a Magneto, Green Goblin y Carnage. Con Arc System Works detras, cada personaje nuevo puede cambiar bastante el ritmo competitivo del juego. https://bluepointesp.netlify.app/playstation.html #MARVELTokon #PS5 #FightingGames",
-      "hashtags": [
-        "#MARVELTokon",
-        "#PS5",
-        "#FightingGames"
-      ],
-      "imageAlt": "Imagen oficial de MARVEL Tokon Fighting Souls",
-      "imageCredit": "PlayStation Blog",
-      "sourceNotes": "Fuente base: PlayStation Blog",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "saros-criticas-metacritic-ps5",
-      "type": "Seguimiento critico",
-      "slot": "Dia 3 - 10:00",
-      "text": "Saros entra en seguimiento critico: Metacritic ya sirve como mapa para revisar que estan destacando medios como VGC, PSU o WellPlayed. Housemarque vuelve a mover conversacion. https://bluepointesp.netlify.app/exclusivos.html #Saros #PS5",
-      "hashtags": [
-        "#Saros",
-        "#PS5",
-        "#Housemarque"
-      ],
-      "imageAlt": "Arte oficial de Saros para PS5",
-      "imageCredit": "PlayStation / Metacritic",
-      "sourceNotes": "Fuente base: Metacritic y radar de criticas BluePoint",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "ps-plus-state-of-play-junio-catalogo-clasicos",
-      "type": "Servicio",
-      "slot": "Dia 3 - 13:00",
-      "text": "PS Plus gana peso tras el State of Play: nuevas llegadas al catalogo y clasicos refuerzan junio. La clave no es solo cuantos juegos entran, sino cuanto valor real dejan. https://bluepointesp.netlify.app/ps-plus.html #PSPlus #PS5",
-      "hashtags": [
-        "#PSPlus",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Imagen editorial relacionada con PS Plus",
-      "imageCredit": "PlayStation Blog",
-      "sourceNotes": "Fuente base: PlayStation Blog y PS Plus",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "radar-fuentes-kotaku-extas1s-playstation",
-      "type": "Radar de fuentes",
-      "slot": "Dia 3 - 18:00",
-      "text": "Radar BluePoint: seguimos medios como Kotaku y cuentas/insiders como eXtas1s, pero separamos rumor de confirmacion. Si no hay fuente solida, no lo vendemos como noticia. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5 #PlayStation",
+      "newsId": "rumor-extas1s-tratamiento-bluepoint",
+      "type": "Radar de insider",
+      "slot": "Dia 4 - 18:00",
+      "text": "Seguimos cuentas como eXtas1s cuando mueven conversacion, pero en BluePoint las tratamos como radar, no como fuente final. Confirmacion solo cuando hay base solida. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5",
       "hashtags": [
         "#Rumores",
         "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial de rumores PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post editorial: menciona fuentes de seguimiento sin convertir rumores en hechos",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "pregunta-comunidad-state-of-play",
-      "type": "Engagement",
-      "slot": "Dia 4 - 10:00",
-      "text": "Pregunta rapida: despues del ultimo State of Play, que anuncio de PS5 te dejo con mas ganas? 1) Silent Hill 2) Tomb Raider 3) MARVEL Tokon 4) Saros Responde con numero. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5",
-      "hashtags": [
-        "#StateOfPlay",
-        "#PS5",
         "#BluePoint"
       ],
-      "imageAlt": "Encuesta editorial sobre State of Play",
+      "imageAlt": "Radar editorial sobre insiders PlayStation",
       "imageCredit": "BluePoint",
-      "sourceNotes": "Post de interaccion para respuestas y alcance organico",
+      "sourceNotes": "Post editorial: eXtas1s se cita como cuenta de seguimiento, no como confirmacion factual",
       "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "calendario-ps5-seguimiento-lanzamientos",
-      "type": "Utilidad",
-      "slot": "Dia 4 - 13:00",
-      "text": "Hemos ordenado el calendario PS5 hasta diciembre para tener a mano fechas, ventanas y lanzamientos importantes. Ideal para no perder reservas, demos o cambios de fecha. https://bluepointesp.netlify.app/calendario.html #PS5 #PlayStation",
-      "hashtags": [
-        "#PS5",
-        "#PlayStation",
-        "#BluePoint"
-      ],
-      "imageAlt": "Calendario de lanzamientos PS5",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post de utilidad para derivar trafico recurrente",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "ofertas-radar-playstation",
-      "type": "Oferta / conversion",
-      "slot": "Dia 4 - 18:00",
-      "text": "Nuevo habito para ahorrar en PlayStation: revisar ofertas con criterio, no por impulso. En BluePoint dejamos radar de PS Store, PS Plus y accesorios para separar chollo de ruido. https://bluepointesp.netlify.app/ofertas.html #PS5 #Ofertas #PSPlus",
-      "hashtags": [
-        "#PS5",
-        "#Ofertas",
-        "#PSPlus"
-      ],
-      "imageAlt": "Radar de ofertas PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post evergreen para trafico y monetizacion futura",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "bluepoint-post-fijado",
-      "type": "Post fijado",
-      "slot": "Fijar en perfil",
-      "text": "BluePoint es tu radar PlayStation en espanol: noticias PS5, PS Plus, State of Play, exclusivos, rumores filtrados con criterio, calendario y ofertas. Menos ruido, mas contexto. https://bluepointesp.netlify.app/ #BluePoint #PS5 #PlayStation",
-      "hashtags": [
-        "#BluePoint",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Logo blanco de BluePoint sobre fondo PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post recomendado para anclar en el perfil",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
-    },
-    {
-      "newsId": "newsletter-bluepoint-playstation",
-      "type": "Newsletter",
-      "slot": "Dia 5 - 10:00",
-      "text": "Si quieres seguir PlayStation sin perderte entre titulares repetidos, la newsletter de BluePoint resume lo importante: noticias, PS Plus, calendario, rumores y ofertas. https://bluepointesp.netlify.app/?newsletter=brevo #BluePoint #PS5",
-      "hashtags": [
-        "#BluePoint",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Captura o creatividad de la newsletter BluePoint",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post de captacion para newsletter",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T07:00:23.578Z"
+      "createdAt": "2026-06-04T14:07:00.968Z"
     }
   ]
 }
