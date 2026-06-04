@@ -1,6 +1,100 @@
 {
-  "updatedAt": "2026-06-03T12:20:00+02:00",
+  "updatedAt": "2026-06-04T12:40:00+02:00",
   "items": [
+    {
+      "id": "ps-store-mayo-2026-top-descargas-007-first-light",
+      "title": "007 First Light domina las descargas de PS5 en mayo en PS Store",
+      "summary": "PlayStation Blog publica el ranking de mayo de PS Store: 007 First Light lidera tanto en Estados Unidos/Canada como en Europa, mientras I Am Cat encabeza PS VR2.",
+      "body": [
+        "El ranking de descargas de mayo en PlayStation Store deja una senal clara: 007 First Light ha convertido su impulso comercial en liderato digital. Segun PlayStation Blog, el juego aparece en el primer puesto de PS5 tanto en Estados Unidos/Canada como en Europa, por delante de otros nombres de alto reconocimiento.",
+        "La lista tambien muestra una fotografia interesante del catalogo actual. En PS5 conviven novedades, juegos recurrentes y titulos con recorrido largo como Grand Theft Auto V, Minecraft, Call of Duty: Black Ops 7, Saros, Crimson Desert, Sea of Thieves o Forza Horizon 5, lo que confirma que la tienda no se mueve solo por estrenos recientes.",
+        "Para BluePoint, este tipo de ranking es util porque ayuda a separar ruido de traccion real. Un juego puede protagonizar conversacion durante dias, pero aparecer arriba en descargas indica compra o interes directo del usuario, una metrica especialmente valiosa para decidir que juegos seguir con mas atencion.",
+        "El dato de PS VR2 tambien merece vigilancia: I Am Cat lidera el ranking del visor, una posicion llamativa porque senala que las propuestas de realidad virtual con concepto claro pueden encontrar espacio incluso fuera de las grandes licencias."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS Store",
+        "PS5",
+        "007 First Light",
+        "Top descargas",
+        "Saros"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/",
+      "detectedAt": "2026-06-04T12:40:00+02:00",
+      "publishedAt": "2026-06-03T18:00:00+02:00",
+      "confidence": "Ranking oficial de PlayStation Blog",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+        "alt": "Mando DualSense sobre una superficie iluminada para noticia de PS Store",
+        "kind": "photo",
+        "credit": "Imagen editorial",
+        "sourceUrl": "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/"
+      }
+    },
+    {
+      "id": "days-of-play-2026-ofertas-tramo-final",
+      "title": "Days of Play encara su tramo final con descuentos en PS Plus, PS VR2 y accesorios",
+      "summary": "La promocion oficial de PlayStation sigue activa hasta el 10 de junio con ofertas en juegos, accesorios, PS Plus y ventajas adicionales para miembros del servicio.",
+      "body": [
+        "Days of Play 2026 entra en sus dias mas importantes para cualquier radar de ofertas. PlayStation Blog recuerda que la campana comenzo el 27 de mayo y se mantiene activa hasta el 10 de junio, con promociones repartidas entre PlayStation Store, PlayStation Direct y comercios participantes.",
+        "La parte mas monetizable para BluePoint esta en hardware y accesorios: PlayStation senala descuentos en PS VR2, Pulse Explore, Pulse Elite, DualSense Edge, Access Controller y mandos DualSense. Ademas, menciona rebajas en juegos de PS5 como Ghost of Yotei, Helldivers 2, Death Stranding 2 y The Last of Us Part II Remastered.",
+        "PS Plus tambien queda en el centro de la campana. Los usuarios de paises participantes pueden encontrar descuentos de hasta el 33% al unirse o al actualizar a planes superiores, una oportunidad especialmente buena para crear contenido de guia: que plan elegir, cuando compensa Premium y que juegos justifican la subida.",
+        "La lectura editorial es sencilla: Days of Play no debe vivir solo como noticia puntual, sino como una seccion temporal de compra inteligente. Hasta el 10 de junio conviene empujar el radar de ofertas y enlazar noticias, guias y comparativas relacionadas."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "Days of Play",
+        "Ofertas",
+        "PS Plus",
+        "PS VR2",
+        "DualSense"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/",
+      "detectedAt": "2026-06-04T12:40:00+02:00",
+      "publishedAt": "2026-06-04T12:40:00+02:00",
+      "confidence": "Promocion oficial de PlayStation",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&w=1200&q=82",
+        "alt": "Mando de videojuego iluminado para radar de ofertas PlayStation",
+        "kind": "photo",
+        "credit": "Imagen editorial",
+        "sourceUrl": "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/"
+      }
+    },
+    {
+      "id": "state-of-play-junio-2026-calendario-ps5-confirmado",
+      "title": "El State of Play deja un calendario PS5 cargado para septiembre y octubre",
+      "summary": "El resumen oficial de PlayStation Blog y la cobertura especializada consolidan varias fechas: Control Resonant y Silent Hill: Townfall el 24 de septiembre, Onimusha el 25 y Ace Combat 8 el 2 de octubre.",
+      "body": [
+        "La resaca del State of Play ya permite ordenar mejor el calendario de PS5. PlayStation Blog reunio los anuncios y trailers del evento, y la lectura principal es que septiembre y octubre pasan a ser meses especialmente densos para el usuario de PlayStation.",
+        "Entre las fechas ya fijadas destacan Control Resonant y Silent Hill: Townfall para el 24 de septiembre, Onimusha: Way of the Sword para el 25 de septiembre y Ace Combat 8: Wings of Theve para el 2 de octubre. A eso se suman movimientos como Dune: Awakening, No Rest for the Wicked, Phantom Blade Zero y otros anuncios que amplian la agenda.",
+        "El valor para BluePoint esta en convertir esa lista en seguimiento vivo. No basta con publicar una noticia de evento: cada fecha debe alimentar calendario, trailers, posts en X, recordatorios de reserva y posibles guias cuando se acerque el lanzamiento.",
+        "La conclusion es clara: PlayStation ha usado el State of Play para llenar huecos del segundo semestre. El radar debe revisar cambios de fecha y nuevos materiales de cada juego, porque cualquier trailer adicional puede reactivar busquedas y conversacion."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "State of Play",
+        "PS5",
+        "Calendario",
+        "Silent Hill",
+        "Onimusha",
+        "Ace Combat"
+      ],
+      "source": "PlayStation Blog / PlayStation LifeStyle",
+      "url": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
+      "detectedAt": "2026-06-04T12:40:00+02:00",
+      "publishedAt": "2026-06-04T12:30:00+02:00",
+      "confidence": "Fechas confirmadas por fuentes oficiales y seguimiento editorial",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+        "alt": "Imagen oficial del resumen de State of Play de junio de 2026",
+        "kind": "photo",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+      }
+    },
     {
       "id": "tomb-raider-legacy-atlantis-ps5-fecha",
       "title": "Tomb Raider: Legacy of Atlantis fija su lanzamiento en PS5 para febrero de 2027",

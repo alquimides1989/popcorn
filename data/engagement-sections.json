@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T16:35:00+02:00",
+  "updatedAt": "2026-06-04T12:40:00+02:00",
   "calendar": [
     {
       "date": "2026-06-05",
@@ -496,6 +496,15 @@
     }
   ],
   "deals": [
+    {
+      "title": "Days of Play 2026",
+      "summary": "Campana activa hasta el 10 de junio con ofertas en juegos, PS VR2, Pulse, DualSense, PS Plus y PlayStation Store.",
+      "cta": "Ver Days of Play",
+      "url": "https://www.playstation.com/deals/days-of-play/",
+      "type": "Campana temporal",
+      "priority": "Alta",
+      "angle": "Empujar hasta el 10 de junio con posts, guias y enlaces de compra."
+    },
     {
       "title": "PS Store - Rebajas digitales",
       "summary": "Seguimiento de promociones, reservas digitales y juegos PS5 con bajada de precio.",
