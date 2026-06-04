@@ -1,133 +1,174 @@
 # Posts manuales para X - BluePoint
 
-Generado: 2026-06-03T07:06:49.565Z
+Generado: 2026-06-04T07:00:23.646Z
 
-Copia cada bloque de texto en X. Los hashtags ya van incluidos dentro del post.
+Copia cada bloque de texto en X. Los hashtags y enlaces ya van incluidos dentro del post.
 
-## 1. tomb-raider-legacy-atlantis-ps5-fecha
+## 1. ps-store-mayo-2026-top-descargas-007-first-light
 
-Tomb Raider: Legacy of Atlantis ya tiene fecha para PS5: 12 de febrero de 2027. PlayStation detalla ediciones, gameplay y regreso de personaje clave. #BluePoint #TombRaider #PS5 #PlayStation
+Slot sugerido: Dia 1 - 10:00
+Tipo: Noticia confirmada
+Notas de fuente: Fuente base: PlayStation Blog y radar interno BluePoint
 
-Caracteres: 190
-Imagen sugerida: Imagen oficial de Tomb Raider: Legacy of Atlantis para PS5
+007 First Light fue lo mas descargado de PS5 en mayo en PS Store. Buena pista de por donde va el interes: novedades fuertes, catalogo persistente y mucho foco en PS5. https://bluepointesp.netlify.app/playstation.html #BluePoint #PS5 #PlayStation
+
+Caracteres: 245
+Imagen sugerida: Imagen relacionada con 007 First Light en PS5
+Credito imagen: PlayStation Blog / PS Store
+
+## 2. days-of-play-2026-ofertas-tramo-final
+
+Slot sugerido: Dia 1 - 13:00
+Tipo: Oferta / conversion
+Notas de fuente: Fuente base: PlayStation / Sony
+
+Days of Play encara su tramo final: PS Plus, PS VR2, DualSense, Pulse y juegos PS5 con descuentos hasta el 10 de junio. En BluePoint filtramos lo que merece la pena mirar. https://bluepointesp.netlify.app/ofertas.html #DaysOfPlay #PS5
+
+Caracteres: 234
+Imagen sugerida: Promociones Days of Play con productos PlayStation
+Credito imagen: PlayStation / Sony
+
+## 3. state-of-play-junio-2026-calendario-ps5-confirmado
+
+Slot sugerido: Dia 1 - 18:00
+Tipo: Calendario
+Notas de fuente: Fuente base: PlayStation Blog y calendario BluePoint
+
+El State of Play deja septiembre y octubre cargados para PS5: Silent Hill Townfall, Control Resonant, Onimusha y Ace Combat 8 ya aparecen como nombres clave del calendario. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5
+
+Caracteres: 242
+Imagen sugerida: Grafica editorial de State of Play y calendario PS5
 Credito imagen: PlayStation Blog
 
-## 2. silent-hill-townfall-ps5-septiembre
+## 4. silent-hill-townfall-ps5-septiembre
 
-Silent Hill: Townfall llegara a PS5 el 24 de septiembre con puzzles narrativos, terror psicologico y reservas abiertas. #BluePoint #SilentHill #PS5 #HorrorGames
+Slot sugerido: Dia 2 - 10:00
+Tipo: Noticia confirmada
+Notas de fuente: Fuente base: PlayStation Blog
 
-Caracteres: 160
-Imagen sugerida: Imagen oficial de Silent Hill: Townfall para PS5
+Silent Hill: Townfall llega a PS5 el 24 de septiembre con terror psicologico, puzzles narrativos y una lectura mas intima del universo Silent Hill. Septiembre pinta fuerte para el horror. https://bluepointesp.netlify.app/playstation.html #SilentHill #PS5
+
+Caracteres: 254
+Imagen sugerida: Imagen oficial de Silent Hill Townfall para PS5
 Credito imagen: PlayStation Blog
 
-## 3. marvel-tokon-magneto-green-goblin-carnage
+## 5. tomb-raider-legacy-atlantis-ps5-fecha
 
-MARVEL Tokon: Fighting Souls suma a Magneto, Green Goblin y Carnage. Arc System Works refuerza su juego de lucha con los Knights of Doom. #BluePoint #MARVELTokon #PS5 #FightingGames
+Slot sugerido: Dia 2 - 13:00
+Tipo: Noticia confirmada
+Notas de fuente: Fuente base: PlayStation Blog
 
-Caracteres: 181
-Imagen sugerida: Imagen oficial de MARVEL Tokon: Fighting Souls
+Tomb Raider: Legacy of Atlantis fija fecha en PS5 para el 12 de febrero de 2027. Lara vuelve al radar grande de PlayStation con ediciones, gameplay y una ventana clara. https://bluepointesp.netlify.app/playstation.html #TombRaider #PS5
+
+Caracteres: 235
+Imagen sugerida: Imagen oficial de Tomb Raider Legacy of Atlantis
 Credito imagen: PlayStation Blog
 
-## 4. saros-criticas-metacritic-ps5
+## 6. marvel-tokon-magneto-green-goblin-carnage
 
-Saros entra en seguimiento de critica: Metacritic ya sirve como radar para revisar analisis de GameSpew, PSU, VGC, WellPlayed y mas medios. #BluePoint #Saros #PS5 #Housemarque
+Slot sugerido: Dia 2 - 18:00
+Tipo: Noticia confirmada
+Notas de fuente: Fuente base: PlayStation Blog
 
-Caracteres: 175
+MARVEL Tokon suma a Magneto, Green Goblin y Carnage. Con Arc System Works detras, cada personaje nuevo puede cambiar bastante el ritmo competitivo del juego. https://bluepointesp.netlify.app/playstation.html #MARVELTokon #PS5 #FightingGames
+
+Caracteres: 240
+Imagen sugerida: Imagen oficial de MARVEL Tokon Fighting Souls
+Credito imagen: PlayStation Blog
+
+## 7. saros-criticas-metacritic-ps5
+
+Slot sugerido: Dia 3 - 10:00
+Tipo: Seguimiento critico
+Notas de fuente: Fuente base: Metacritic y radar de criticas BluePoint
+
+Saros entra en seguimiento critico: Metacritic ya sirve como mapa para revisar que estan destacando medios como VGC, PSU o WellPlayed. Housemarque vuelve a mover conversacion. https://bluepointesp.netlify.app/exclusivos.html #Saros #PS5
+
+Caracteres: 236
 Imagen sugerida: Arte oficial de Saros para PS5
-Credito imagen: PlayStation
+Credito imagen: PlayStation / Metacritic
 
-## 5. ps-plus-state-of-play-junio-catalogo-clasicos
+## 8. ps-plus-state-of-play-junio-catalogo-clasicos
 
-PS Plus tambien gana peso tras el State of Play: nuevas llegadas al catalogo y clasicos refuerzan el servicio durante junio. #BluePoint #PSPlus #PlayStation #PS5
+Slot sugerido: Dia 3 - 13:00
+Tipo: Servicio
+Notas de fuente: Fuente base: PlayStation Blog y PS Plus
 
-Caracteres: 161
-Imagen sugerida: Imagen editorial relacionada con PS Plus y State of Play
+PS Plus gana peso tras el State of Play: nuevas llegadas al catalogo y clasicos refuerzan junio. La clave no es solo cuantos juegos entran, sino cuanto valor real dejan. https://bluepointesp.netlify.app/ps-plus.html #PSPlus #PS5
+
+Caracteres: 228
+Imagen sugerida: Imagen editorial relacionada con PS Plus
 Credito imagen: PlayStation Blog
 
-## 6. windows-central-xbox-project-helix-showcase
+## 9. radar-fuentes-kotaku-extas1s-playstation
 
-Xbox centrara su Showcase del 7 de junio en juegos: Matt Booty aclara que Project Helix quedara para mas adelante. #PixelPopcorn #Xbox #ProjectHelix #Gaming
+Slot sugerido: Dia 3 - 18:00
+Tipo: Radar de fuentes
+Notas de fuente: Post editorial: menciona fuentes de seguimiento sin convertir rumores en hechos
 
-Caracteres: 156
-Imagen sugerida: Logotipo de Xbox para noticia sobre Project Helix
-Credito imagen: Wikimedia Commons
+Radar BluePoint: seguimos medios como Kotaku y cuentas/insiders como eXtas1s, pero separamos rumor de confirmacion. Si no hay fuente solida, no lo vendemos como noticia. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5 #PlayStation
 
-## 7. windows-central-xbox-lineup-halo-campaign-evolved
+Caracteres: 242
+Imagen sugerida: Radar editorial de rumores PlayStation
+Credito imagen: BluePoint
 
-Matt Booty apunta una potente alineacion Xbox con Halo: Campaign Evolved, Minecraft Dungeons 2, Gears of War: E-Day y Call of Duty. #PixelPopcorn #Xbox #Halo #Gaming
+## 10. pregunta-comunidad-state-of-play
 
-Caracteres: 165
-Imagen sugerida: Logotipo de Xbox para noticia sobre la alineacion de juegos
-Credito imagen: Wikimedia Commons
+Slot sugerido: Dia 4 - 10:00
+Tipo: Engagement
+Notas de fuente: Post de interaccion para respuestas y alcance organico
 
-## 8. windows-central-xbox-logos-playstation-showcase
+Pregunta rapida: despues del ultimo State of Play, que anuncio de PS5 te dejo con mas ganas? 1) Silent Hill 2) Tomb Raider 3) MARVEL Tokon 4) Saros Responde con numero. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5
 
-Xbox mostrara logos de otras plataformas en su Showcase y reabre el debate sobre identidad, transparencia y estrategia multiplataforma. #PixelPopcorn #Xbox #Showcase #Gaming
+Caracteres: 238
+Imagen sugerida: Encuesta editorial sobre State of Play
+Credito imagen: BluePoint
 
-Caracteres: 173
-Imagen sugerida: Logotipo de Xbox para debate sobre el Showcase
-Credito imagen: Wikimedia Commons
+## 11. calendario-ps5-seguimiento-lanzamientos
 
-## 9. playstation-state-of-play-2-junio-wolverine
+Slot sugerido: Dia 4 - 13:00
+Tipo: Utilidad
+Notas de fuente: Post de utilidad para derivar trafico recurrente
 
-PlayStation celebra hoy State of Play a las 23:00 CEST con mas de 60 minutos de anuncios y Marvel's Wolverine como gran foco. #PixelPopcorn #PlayStation #StateOfPlay #PS5
+Hemos ordenado el calendario PS5 hasta diciembre para tener a mano fechas, ventanas y lanzamientos importantes. Ideal para no perder reservas, demos o cambios de fecha. https://bluepointesp.netlify.app/calendario.html #PS5 #PlayStation
 
-Caracteres: 170
-Imagen sugerida: Logotipo de PlayStation para State of Play
-Credito imagen: Simple Icons
+Caracteres: 235
+Imagen sugerida: Calendario de lanzamientos PS5
+Credito imagen: BluePoint
 
-## 10. fortnite-nueva-temporada-skins-john-wick
+## 12. ofertas-radar-playstation
 
-Fortnite revela las skins de su nueva temporada y suma un nuevo John Wick al Pase de Batalla. El arranque esta previsto para el 5 de junio. #PixelPopcorn #Fortnite #Videojuegos #Gaming
+Slot sugerido: Dia 4 - 18:00
+Tipo: Oferta / conversion
+Notas de fuente: Post evergreen para trafico y monetizacion futura
 
-Caracteres: 184
-Imagen sugerida: Set de juego con pantalla y luces de colores
-Credito imagen: Unsplash
+Nuevo habito para ahorrar en PlayStation: revisar ofertas con criterio, no por impulso. En BluePoint dejamos radar de PS Store, PS Plus y accesorios para separar chollo de ruido. https://bluepointesp.netlify.app/ofertas.html #PS5 #Ofertas #PSPlus
 
-## 11. scary-movie-6-trailer-final
+Caracteres: 246
+Imagen sugerida: Radar de ofertas PlayStation
+Credito imagen: BluePoint
 
-Scary Movie 6 ensena su trailer final antes de volver a los cines el 12 de junio con nueva ronda de parodia y humor de terror. #PixelPopcorn #Cine #ScaryMovie #Estrenos
+## 13. bluepoint-post-fijado
 
-Caracteres: 168
-Imagen sugerida: Butacas de cine iluminadas en una sala oscura
-Credito imagen: Unsplash
+Slot sugerido: Fijar en perfil
+Tipo: Post fijado
+Notas de fuente: Post recomendado para anclar en el perfil
 
-## 12. theos-cities-of-myth-pc-city-builder
+BluePoint es tu radar PlayStation en espanol: noticias PS5, PS Plus, State of Play, exclusivos, rumores filtrados con criterio, calendario y ofertas. Menos ruido, mas contexto. https://bluepointesp.netlify.app/ #BluePoint #PS5 #PlayStation
 
-Theos: Cities of Myth recupera el city builder clasico con una apuesta de gestion urbana ambientada en la Antigua Grecia. Dotemu y Triskell lo preparan para PC en 2026. #PixelPopcorn #PCGaming #TheosCitiesOfMyth #Videojuegos
+Caracteres: 239
+Imagen sugerida: Logo blanco de BluePoint sobre fondo PlayStation
+Credito imagen: BluePoint
 
-Caracteres: 224
-Imagen sugerida: Logotipo de Steam para PC Gaming
-Credito imagen: Simple Icons
+## 14. newsletter-bluepoint-playstation
 
-## 13. xbox-showcase-2026-fecha-gears-eday
+Slot sugerido: Dia 5 - 10:00
+Tipo: Newsletter
+Notas de fuente: Post de captacion para newsletter
 
-Xbox ya tiene fecha para su gran Showcase de junio: 7 de junio a las 19:00 CEST, con Gears of War: E-Day como foco confirmado. #PixelPopcorn #Xbox #GearsOfWar #Gaming
+Si quieres seguir PlayStation sin perderte entre titulares repetidos, la newsletter de BluePoint resume lo importante: noticias, PS Plus, calendario, rumores y ofertas. https://bluepointesp.netlify.app/?newsletter=brevo #BluePoint #PS5
 
-Caracteres: 166
-Imagen sugerida: Logotipo de Xbox
-Credito imagen: Wikimedia Commons
+Caracteres: 235
+Imagen sugerida: Captura o creatividad de la newsletter BluePoint
+Credito imagen: BluePoint
 
-## 14. resident-evil-requiem-demo-multiplataforma
-
-Resident Evil Requiem estrena demo gratuita en PC, PS5, Xbox Series X|S y Nintendo Switch 2, con unos 45 minutos de juego. #PixelPopcorn #ResidentEvil #Videojuegos #Gaming
-
-Caracteres: 171
-Imagen sugerida: Pasillo oscuro relacionado con terror y suspense
-Credito imagen: Unsplash
-
-## 15. ps-plus-junio-2026-grounded-darktide-nickelodeon
-
-PlayStation Plus prepara un junio variado con Darktide, Grounded Fully Yoked Edition y Nickelodeon All-Star Brawl 2. #PixelPopcorn #PlayStation #PSPlus #Videojuegos
-
-Caracteres: 164
-Imagen sugerida: Logotipo de PlayStation
-Credito imagen: Simple Icons
-
-## 16. star-fox-switch-2-junio-2026
-
-Star Fox vuelve en Switch 2 con una revision inspirada en Star Fox 64, nuevas opciones de control y multijugador online. #PixelPopcorn #Nintendo #StarFox #Videojuegos
-
-Caracteres: 166
-Imagen sugerida: Logotipo de Nintendo
-Credito imagen: Simple Icons

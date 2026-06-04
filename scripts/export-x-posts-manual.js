@@ -4,17 +4,21 @@ const queue = JSON.parse(fs.readFileSync("data/x-posts.json", "utf8"));
 const pending = queue.items.filter((item) => item.status !== "posted");
 
 const lines = [
-  "# Posts manuales para X - Pixel & Popcorn",
+  "# Posts manuales para X - BluePoint",
   "",
   `Generado: ${new Date().toISOString()}`,
   "",
-  "Copia cada bloque de texto en X. Los hashtags ya van incluidos dentro del post.",
+  "Copia cada bloque de texto en X. Los hashtags y enlaces ya van incluidos dentro del post.",
   "",
 ];
 
 pending.forEach((post, index) => {
   lines.push(
     `## ${index + 1}. ${post.newsId}`,
+    "",
+    post.slot ? `Slot sugerido: ${post.slot}` : "",
+    post.type ? `Tipo: ${post.type}` : "",
+    post.sourceNotes ? `Notas de fuente: ${post.sourceNotes}` : "",
     "",
     post.text,
     "",
