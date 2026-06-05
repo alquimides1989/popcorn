@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T12:40:00+02:00",
+  "updatedAt": "2026-06-05T00:35:00+02:00",
   "calendar": [
     {
       "date": "2026-06-05",
@@ -474,36 +474,36 @@
   ],
   "rumorMeter": [
     {
-      "title": "Intergalactic lejos del calendario inmediato",
+      "title": "Break In podria estar conectado con Fairgames",
       "level": "medio",
-      "confidence": 55,
-      "summary": "Hay interes alto y seguimiento constante, pero sin fecha oficial ni nueva ventana publica.",
-      "source": "GamesRadar+ / MeriStation"
+      "confidence": 52,
+      "summary": "Rumor interesante por el estado de Fairgames, pero sin confirmacion oficial de Sony ni Haven.",
+      "source": "Radar BluePoint / Toms Guide"
     },
     {
-      "title": "Estrategia first party mas selectiva en PC",
-      "level": "medio-alto",
-      "confidence": 68,
-      "summary": "Reportes apuntan a que Sony protegeria mas sus juegos narrativos como reclamo principal de PS5.",
-      "source": "MeriStation / Bloomberg"
+      "title": "Sly Cooper sigue vivo como deseo de comunidad",
+      "level": "bajo-medio",
+      "confidence": 41,
+      "summary": "Kotaku y comunidad mantienen la conversacion, pero no hay anuncio ni senal oficial reciente.",
+      "source": "Kotaku / comunidad"
     },
     {
-      "title": "Nuevos anuncios first party antes de final de ano",
+      "title": "PS6 y portatil PlayStation son ruido temprano",
       "level": "bajo",
-      "confidence": 34,
-      "summary": "Encaja con el calendario habitual, pero ahora mismo no hay confirmacion oficial.",
-      "source": "Radar BluePoint"
+      "confidence": 33,
+      "summary": "Hay reportes y especulacion de hardware, pero el foco comercial inmediato sigue en PS5 y PS5 Pro.",
+      "source": "Radar hardware BluePoint"
     }
   ],
   "deals": [
     {
-      "title": "Days of Play 2026",
+      "title": "Days of Play 2026 - tramo final",
       "summary": "Campana activa hasta el 10 de junio con ofertas en juegos, PS VR2, Pulse, DualSense, PS Plus y PlayStation Store.",
       "cta": "Ver Days of Play",
       "url": "https://www.playstation.com/deals/days-of-play/",
       "type": "Campana temporal",
       "priority": "Alta",
-      "angle": "Empujar hasta el 10 de junio con posts, guias y enlaces de compra."
+      "angle": "Empujar fuerte hasta el 10 de junio con posts, guia de compra y newsletter."
     },
     {
       "title": "PS Store - Rebajas digitales",

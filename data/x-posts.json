@@ -1,230 +1,198 @@
 {
-  "updatedAt": "2026-06-04T22:48:32.891Z",
-  "focus": "rumores-playstation-actuales",
+  "updatedAt": "2026-06-05T07:10:49.226Z",
+  "focus": "radar-general-playstation",
   "items": [
     {
-      "newsId": "rumor-break-in-fairgames-rebrand",
-      "type": "Rumor / marca registrada",
+      "newsId": "marvel-wolverine-state-of-play-gameplay-septiembre-2026",
+      "type": "Noticia confirmada",
       "slot": "Dia 1 - 10:00",
-      "text": "Radar rumores: Break In vuelve a sonar como posible rebranding de Fairgames. Sony no lo ha confirmado, asi que lo tratamos como pista de marca, no como anuncio. https://bluepointesp.netlify.app/rumores.html #Fairgames #PS5",
-      "hashtags": [
-        "#Fairgames",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre Break In y Fairgames",
-      "imageCredit": "BluePoint / PlayStation Studios",
-      "sourceNotes": "Toms Guide recogio que el rumor de Break In apunta a un posible rebranding de Fairgames",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-fairgames-lectura-haven",
-      "type": "Rumor / first party",
-      "slot": "Dia 1 - 13:00",
-      "text": "Fairgames sigue siendo una de las carpetas mas delicadas de PlayStation Studios. Si Break In acaba conectado con Haven, la clave sera si Sony cambia mensaje, formato o ambicion. https://bluepointesp.netlify.app/rumores.html #PS5 #PlayStation",
-      "hashtags": [
-        "#PS5",
-        "#PlayStation",
-        "#Fairgames"
-      ],
-      "imageAlt": "Radar editorial sobre Haven Studios",
-      "imageCredit": "BluePoint / PlayStation Studios",
-      "sourceNotes": "Seguimiento editorial tras rumores recientes sobre Fairgames y Haven",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-sly-cooper-kotaku-junio",
-      "type": "Rumor / comunidad",
-      "slot": "Dia 1 - 18:00",
-      "text": "Kotaku ha vuelto a empujar el debate: Sly Cooper sigue siendo una de las sagas dormidas con mas tiron social. Sin anuncio oficial, pero con conversacion viva. https://bluepointesp.netlify.app/rumores.html #SlyCooper #PS5",
-      "hashtags": [
-        "#SlyCooper",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre Sly Cooper",
-      "imageCredit": "BluePoint / Kotaku",
-      "sourceNotes": "Kotaku PlayStation tag: articulo sobre Sly Cooper y rumores previos al State of Play",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-sagas-dormidas-playstation",
-      "type": "Engagement / rumor",
-      "slot": "Dia 2 - 10:00",
-      "text": "Pregunta radar: si PlayStation recupera una saga dormida, cual mueve mas comunidad? Sly Cooper, Killzone, Resistance, Jak and Daxter o Ape Escape. https://bluepointesp.netlify.app/rumores.html #PlayStation #PS5",
-      "hashtags": [
-        "#PlayStation",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Encuesta sobre sagas dormidas de PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post de engagement a partir de la conversacion de Kotaku y comunidad",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-ps6-no-inminente",
-      "type": "Rumor / hardware",
-      "slot": "Dia 2 - 13:00",
-      "text": "Radar PS6: hay ruido, pero las lecturas actuales apuntan a que no es inminente. La realidad comercial sigue siendo PS5, PS5 Pro y catalogo fuerte hasta 2027. https://bluepointesp.netlify.app/rumores.html #PS6 #PS5",
-      "hashtags": [
-        "#PS6",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre PS6 y hardware PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "PS6News y Creative Bloq tratan PS6 como conversacion temprana, no anuncio cercano",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-playstation-portatil-studios",
-      "type": "Rumor / hardware",
-      "slot": "Dia 2 - 18:00",
-      "text": "Rumor hardware: algunos reportes hablan de estudios PlayStation recibiendo informacion sobre una futura portatil. Interesante, pero lejos de una confirmacion publica. https://bluepointesp.netlify.app/rumores.html #PlayStation #PS5",
-      "hashtags": [
-        "#PlayStation",
-        "#PS5",
-        "#PS6"
-      ],
-      "imageAlt": "Radar editorial sobre posible portatil PlayStation",
-      "imageCredit": "BluePoint / Gameranx",
-      "sourceNotes": "Gameranx publico un rumor sobre informacion a estudios para una futura portatil PlayStation",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-fsr-frame-generation-ps5",
-      "type": "Radar tecnico",
-      "slot": "Dia 3 - 10:00",
-      "text": "Radar tecnico: Mark Cerny ha dejado claro que FSR Frame Generation llegara a PlayStation, pero no en 2026. Esto enfria expectativas inmediatas para PS5 Pro. https://bluepointesp.netlify.app/rumores.html #PS5Pro #PS5",
-      "hashtags": [
-        "#PS5Pro",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar tecnico sobre PS5 Pro y FSR Frame Generation",
-      "imageCredit": "BluePoint / TechRadar",
-      "sourceNotes": "TechRadar recoge declaraciones de Mark Cerny sobre FSR Frame Generation y calendario",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-xbox-titulos-ps5-showcase",
-      "type": "Radar industria",
-      "slot": "Dia 3 - 13:00",
-      "text": "Radar industria: Microsoft mostrara cuando sus juegos lleguen a PS5 y otras plataformas. Para PlayStation, la duda es que antiguos exclusivos acabaran reforzando el catalogo. https://bluepointesp.netlify.app/rumores.html #PS5 #Xbox",
-      "hashtags": [
-        "#PS5",
-        "#Xbox",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre juegos Xbox llegando a PS5",
-      "imageCredit": "BluePoint / Windows Central",
-      "sourceNotes": "Windows Central recoge que Xbox mostrara plataformas, incluida PS5, en sus anuncios",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-firesprite-terror-narrativo",
-      "type": "Rumor / comunidad",
-      "slot": "Dia 3 - 18:00",
-      "text": "Radar comunidad: tras el State of Play, Firesprite se asocia a terror narrativo y comparaciones con Until Dawn. Por ahora, lectura de comunidad, no confirmacion cerrada. https://bluepointesp.netlify.app/rumores.html #PS5 #HorrorGames",
-      "hashtags": [
-        "#PS5",
-        "#HorrorGames",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre Firesprite y terror narrativo",
-      "imageCredit": "BluePoint / Reddit Games",
-      "sourceNotes": "Reddit Games megathread menciona conversacion sobre Firesprite y terror narrativo",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-naughty-dog-distancia",
-      "type": "Rumor / first party",
-      "slot": "Dia 4 - 10:00",
-      "text": "Radar Naughty Dog: la conversacion post-State of Play sugiere prudencia con Intergalactic. Si no hay nuevo gameplay, mejor asumir que aun esta lejos. https://bluepointesp.netlify.app/rumores.html #NaughtyDog #PS5",
-      "hashtags": [
-        "#NaughtyDog",
-        "#PS5",
-        "#PlayStation"
-      ],
-      "imageAlt": "Radar editorial sobre Naughty Dog e Intergalactic",
-      "imageCredit": "BluePoint / Reddit Games",
-      "sourceNotes": "Reddit Games recoge comentarios comunitarios sobre distancia de Intergalactic",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-wolverine-ancla-first-party",
-      "type": "Lectura editorial",
-      "slot": "Dia 4 - 13:00",
-      "text": "Wolverine ya no es solo rumor: tras el gameplay del State of Play, la pregunta pasa a ser si Insomniac puede convertirlo en el gran ancla first party de PS5. https://bluepointesp.netlify.app/state-of-play.html #Wolverine #PS5",
+      "text": "Marvel's Wolverine sale del State of Play como gran ancla first party de PS5: nuevo gameplay, mas historia y lanzamiento el 15 de septiembre de 2026. https://bluepointesp.netlify.app/playstation.html #Wolverine #PS5",
       "hashtags": [
         "#Wolverine",
         "#PS5",
         "#PlayStation"
       ],
-      "imageAlt": "Radar editorial sobre Marvel Wolverine en PS5",
-      "imageCredit": "BluePoint / PlayStation Blog",
-      "sourceNotes": "PlayStation Blog y GamesRadar recogen novedades oficiales de Wolverine tras State of Play",
+      "imageAlt": "Imagen oficial del State of Play con Marvel's Wolverine",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog / GamesRadar+",
       "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
+      "createdAt": "2026-06-05T07:10:49.226Z"
     },
     {
-      "newsId": "rumor-bloodborne-ausencia-state-of-play",
-      "type": "Engagement / rumor",
-      "slot": "Dia 4 - 18:00",
-      "text": "Radar eterno: Bloodborne vuelve a ser tendencia cada vez que Sony anuncia evento. Otra vez sin senal oficial. La comunidad insiste, Sony calla. https://bluepointesp.netlify.app/rumores.html #Bloodborne #PS5",
+      "newsId": "state-of-play-junio-2026-lineup-riesgo-estetico-ps5",
+      "type": "Lectura editorial",
+      "slot": "Dia 1 - 13:00",
+      "text": "El State of Play no fue solo una lista de trailers: Sony enseno una PS5 con mas identidad visual, regresos potentes y nuevas IP con personalidad. https://bluepointesp.netlify.app/state-of-play.html #StateOfPlay #PS5",
       "hashtags": [
-        "#Bloodborne",
+        "#StateOfPlay",
         "#PS5",
         "#PlayStation"
       ],
-      "imageAlt": "Radar editorial sobre Bloodborne y rumores recurrentes",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post de engagement sobre rumor recurrente de comunidad, sin fuente oficial nueva",
+      "imageAlt": "Imagen oficial del State of Play de junio",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog / Creative Bloq",
       "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
+      "createdAt": "2026-06-05T07:10:49.226Z"
     },
     {
-      "newsId": "rumor-metodo-bluepoint-junio",
+      "newsId": "ps-plus-junio-2026-grounded-darktide-nickelodeon-live",
+      "type": "Servicio",
+      "slot": "Dia 1 - 18:00",
+      "text": "PS Plus de junio ya esta activo: Grounded, Warhammer 40K Darktide y Nickelodeon All-Star Brawl 2 hasta el 6 de julio. FC 26 aguanta hasta el 16 de junio. https://bluepointesp.netlify.app/ps-plus.html #PSPlus #PS5",
+      "hashtags": [
+        "#PSPlus",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Imagen oficial de PS Plus junio 2026",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "rumor-break-in-fairgames-haven-radar-junio-2026",
+      "type": "Rumor / seguimiento",
+      "slot": "Dia 2 - 10:00",
+      "text": "Radar rumores: Break In vuelve a sonar como posible movimiento conectado con Fairgames. Sin confirmacion de Sony o Haven, lo tratamos como pista, no como anuncio. https://bluepointesp.netlify.app/rumores.html #Fairgames #PS5",
+      "hashtags": [
+        "#Fairgames",
+        "#PS5",
+        "#Rumores"
+      ],
+      "imageAlt": "Radar editorial sobre Break In y Fairgames",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Rumor sin confirmacion oficial; seguimiento prudente",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "days-of-play-2026-ofertas-tramo-final",
+      "type": "Oferta / conversion",
+      "slot": "Dia 2 - 13:00",
+      "text": "Days of Play entra en tramo final: hasta el 10 de junio toca revisar PS Plus, PS VR2, DualSense, Pulse y juegos PS5 con descuentos. https://bluepointesp.netlify.app/ofertas.html #DaysOfPlay #PS5",
+      "hashtags": [
+        "#DaysOfPlay",
+        "#PS5",
+        "#PSPlus"
+      ],
+      "imageAlt": "Promociones Days of Play PlayStation",
+      "imageCredit": "PlayStation",
+      "sourceNotes": "Fuente base: PlayStation Blog / PlayStation deals",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "silent-hill-townfall-ps5-septiembre",
+      "type": "Noticia confirmada",
+      "slot": "Dia 2 - 18:00",
+      "text": "Silent Hill: Townfall ya tiene fecha en PS5: 24 de septiembre. Terror psicologico, puzzles narrativos y una ventana perfecta para el calendario de horror. https://bluepointesp.netlify.app/playstation.html #SilentHill #PS5",
+      "hashtags": [
+        "#SilentHill",
+        "#PS5",
+        "#HorrorGames"
+      ],
+      "imageAlt": "Imagen oficial de Silent Hill Townfall",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "tomb-raider-legacy-atlantis-ps5-fecha",
+      "type": "Noticia confirmada",
+      "slot": "Dia 3 - 10:00",
+      "text": "Tomb Raider: Legacy of Atlantis fija su lanzamiento en PS5 para el 12 de febrero de 2027. Lara vuelve al calendario grande tras el State of Play. https://bluepointesp.netlify.app/playstation.html #TombRaider #PS5",
+      "hashtags": [
+        "#TombRaider",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Imagen oficial de Tomb Raider Legacy of Atlantis",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "xbox-pc-state-of-play-junio-2026-ps5-multiplataforma",
+      "type": "Radar industria",
+      "slot": "Dia 3 - 13:00",
+      "text": "El State of Play tambien dejo lectura multiplataforma: varios juegos llegaran a Xbox o PC, pero siguen reforzando el calendario PS5. No todo valor viene del exclusivo puro. https://bluepointesp.netlify.app/playstation.html #PS5 #PlayStation",
+      "hashtags": [
+        "#PS5",
+        "#PlayStation",
+        "#StateOfPlay"
+      ],
+      "imageAlt": "Radar editorial sobre State of Play multiplataforma",
+      "imageCredit": "BluePoint / Windows Central",
+      "sourceNotes": "Fuente base: Windows Central",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "rumor-sagas-dormidas-playstation-junio",
+      "type": "Engagement / rumor",
+      "slot": "Dia 3 - 18:00",
+      "text": "Pregunta radar: que saga dormida de PlayStation moveria mas comunidad si volviera en PS5? Sly Cooper, Killzone, Resistance, Jak and Daxter o Ape Escape. https://bluepointesp.netlify.app/rumores.html #PlayStation #PS5",
+      "hashtags": [
+        "#PlayStation",
+        "#PS5",
+        "#Rumores"
+      ],
+      "imageAlt": "Encuesta sobre sagas dormidas PlayStation",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Post de interaccion basado en conversacion comunitaria",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "rumor-ps6-portatil-playstation-junio",
+      "type": "Rumor / hardware",
+      "slot": "Dia 4 - 10:00",
+      "text": "Radar hardware: PS6 y una posible portatil PlayStation generan ruido, pero ahora mismo el negocio real sigue en PS5, PS5 Pro y catalogo 2026-2027. https://bluepointesp.netlify.app/rumores.html #PS6 #PS5",
+      "hashtags": [
+        "#PS6",
+        "#PS5",
+        "#PlayStation"
+      ],
+      "imageAlt": "Radar hardware PlayStation",
+      "imageCredit": "BluePoint",
+      "sourceNotes": "Rumor de hardware tratado como conversacion temprana",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "marvel-tokon-magneto-green-goblin-carnage",
+      "type": "Noticia confirmada",
+      "slot": "Dia 4 - 13:00",
+      "text": "MARVEL Tokon suma a Magneto, Green Goblin y Carnage. Con Arc System Works detras, cada personaje nuevo puede cambiar el mapa competitivo. https://bluepointesp.netlify.app/playstation.html #MARVELTokon #PS5",
+      "hashtags": [
+        "#MARVELTokon",
+        "#PS5",
+        "#FightingGames"
+      ],
+      "imageAlt": "Imagen oficial de MARVEL Tokon Fighting Souls",
+      "imageCredit": "PlayStation Blog",
+      "sourceNotes": "Fuente base: PlayStation Blog",
+      "status": "manual_ready",
+      "createdAt": "2026-06-05T07:10:49.226Z"
+    },
+    {
+      "newsId": "bluepoint-metodo-rumores-junio",
       "type": "Marca editorial",
-      "slot": "Dia 5 - 10:00",
-      "text": "Metodo BluePoint para rumores: una patente no es anuncio, un insider no sustituye a Sony y una quiniela no es filtracion. Rumor marcado, contexto claro. https://bluepointesp.netlify.app/rumores.html #BluePoint #PS5",
+      "slot": "Dia 4 - 18:00",
+      "text": "Metodo BluePoint: una patente no es anuncio, un insider no sustituye a Sony y una quiniela no es filtracion. Rumor marcado, contexto claro. https://bluepointesp.netlify.app/rumores.html #BluePoint #PS5",
       "hashtags": [
         "#BluePoint",
         "#PS5",
-        "#PlayStation"
+        "#Rumores"
       ],
-      "imageAlt": "Metodo editorial BluePoint para rumores PlayStation",
+      "imageAlt": "Metodo editorial de rumores BluePoint",
       "imageCredit": "BluePoint",
-      "sourceNotes": "Post de posicionamiento editorial para ganar confianza",
+      "sourceNotes": "Post de posicionamiento editorial",
       "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
-    },
-    {
-      "newsId": "rumor-extas1s-kotaku-tracking",
-      "type": "Radar de fuentes",
-      "slot": "Dia 5 - 13:00",
-      "text": "Radar fuentes: seguimos medios como Kotaku y cuentas como eXtas1s, pero en BluePoint no convertimos ruido en titular. Primero fuente, luego contexto. https://bluepointesp.netlify.app/rumores.html #Rumores #PS5",
-      "hashtags": [
-        "#Rumores",
-        "#PS5",
-        "#BluePoint"
-      ],
-      "imageAlt": "Radar editorial de fuentes e insiders PlayStation",
-      "imageCredit": "BluePoint",
-      "sourceNotes": "Post editorial: seguimiento de fuentes/insiders sin afirmar filtraciones concretas",
-      "status": "manual_ready",
-      "createdAt": "2026-06-04T22:48:32.891Z"
+      "createdAt": "2026-06-05T07:10:49.226Z"
     }
   ]
 }
