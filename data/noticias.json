@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T00:35:00+02:00",
+  "updatedAt": "2026-06-07T09:20:00+02:00",
   "items": [
     {
       "id": "marvel-wolverine-state-of-play-gameplay-septiembre-2026",
@@ -62,6 +62,38 @@
         "kind": "graphic",
         "credit": "PlayStation Blog",
         "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+      }
+    },
+    {
+      "id": "summer-game-fest-2026-16-juegos-ps5-playstation-blog",
+      "title": "Summer Game Fest deja otro empujon al calendario de PS5 con fechas, nuevas IP y un extra para PS Plus",
+      "summary": "PlayStation Blog resume 16 anuncios de Summer Game Fest para PS5 y deja varias claves utiles para BluePoint: Assassin's Creed Black Flag Resynced el 9 de julio, RuneScape: Dragonwilds el 15 de septiembre con llegada day one a PS Plus Extra/Premium, y nuevas ventanas para Control Resonant, Star Wars: Galactic Racer y mas.",
+      "body": [
+        "PlayStation ha usado su repaso oficial de Summer Game Fest 2026 para ordenar parte del ruido posterior al evento y convertirlo en fechas concretas para usuarios de PS5. El resumen de PlayStation Blog no se limita a enumerar trailers: sirve para fijar varios hitos del calendario que BluePoint debe seguir de cerca durante junio y verano.",
+        "Entre los movimientos mas claros estan Assassin's Creed Black Flag Resynced para el 9 de julio, Control Resonant para el 24 de septiembre, The Blood of Dawnwalker para el 3 de septiembre y Star Wars: Galactic Racer para el 6 de octubre. Tambien aparece RuneScape: Dragonwilds con fecha del 15 de septiembre y un detalle de servicio especialmente util: llegara directamente a PS Plus Extra y Premium.",
+        "La pieza tambien abre radar para proyectos sin fecha cerrada pero con peso propio en PlayStation, como gen Atlas del estudio genDesign, Guild Wars 3 en su primer salto a consolas domesticas, Crossfire de That's No Moon o Resident Evil Veronica para 2027. No todo entra en la misma prioridad editorial, pero si ayuda a separar lanzamientos cercanos de anuncios que solo necesitan vigilancia.",
+        "Para BluePoint, la lectura util es doble. Por un lado, hay material para reforzar calendario y fichas de juegos. Por otro, PS Plus gana una bala extra con Dragonwilds, un angulo que mezcla actualidad de lanzamientos con servicio y puede rendir mejor que una noticia generica de evento."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS5",
+        "Calendario",
+        "PS Plus",
+        "Summer Game Fest",
+        "Control Resonant",
+        "RuneScape Dragonwilds"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/",
+      "detectedAt": "2026-06-07T09:20:00+02:00",
+      "publishedAt": "2026-06-05T00:00:00+02:00",
+      "confidence": "Confirmado por PlayStation Blog",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2026/06/e73c791cbc8ca83b7612cbbb0b98efa371029277.jpg",
+        "alt": "Imagen oficial del resumen de Summer Game Fest 2026 con juegos de PS5",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/"
       }
     },
     {
