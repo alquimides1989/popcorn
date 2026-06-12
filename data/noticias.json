@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-06-07T09:20:00+02:00",
+  "updatedAt": "2026-06-12T12:15:00+02:00",
   "items": [
+    {
+      "id": "tomb-raider-legacy-of-atlantis-hands-on-junio-2026",
+      "title": "Tomb Raider: Legacy of Atlantis deja buenas sensaciones en su primer hands-on oficial para PS5",
+      "summary": "PlayStation Blog publica un avance practico del nuevo Tomb Raider y destaca un equilibrio entre exploracion clasica, puzles y ajustes modernos antes de su lanzamiento en PS5 el 12 de febrero de 2027.",
+      "body": [
+        "PlayStation ha reforzado el seguimiento de Tomb Raider: Legacy of Atlantis con un hands-on oficial publicado tras Summer Game Fest 2026. El avance no cambia la fecha ya conocida del 12 de febrero de 2027, pero si aporta algo mas util para BluePoint: contexto real sobre como se esta jugando en PS5.",
+        "Segun el texto de PlayStation Blog, la demo recorrida se centra en Lost Valley, en Peru, y pone el foco en exploracion, rutas secundarias y una nueva version del puzle de engranajes de la cascada. La lectura importante es que Crystal Dynamics y Flying Wild Hog quieren recuperar el sabor clasico de Lara Croft sin renunciar a ayudas opcionales y ajustes separados para combate y puzles.",
+        "Eso convierte a Legacy of Atlantis en un juego que no solo vive de la nostalgia o del nombre. El discurso oficial intenta vender una aventura mas abierta a distintos perfiles de jugador, algo que puede ayudar a que el regreso funcione mejor entre veteranos y publico nuevo de PS5.",
+        "Para BluePoint, esta pieza sirve para mantener vivo el seguimiento del juego sin caer en un simple recordatorio de fecha. Hay material para noticia, calendario y futuras guias si PlayStation sigue soltando nuevos avances practicos durante verano."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS5",
+        "Tomb Raider",
+        "Analisis",
+        "Calendario"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/",
+      "detectedAt": "2026-06-12T12:15:00+02:00",
+      "publishedAt": "2026-06-11T00:00:00+02:00",
+      "confidence": "Avance oficial publicado por PlayStation Blog",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2028/06/844c12577f9b2b130f1a25b68c1174c06636bc5a-scaled.jpg",
+        "alt": "Imagen oficial del hands-on de Tomb Raider: Legacy of Atlantis para PS5",
+        "kind": "photo",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/"
+      }
+    },
+    {
+      "id": "ps-plus-catalogo-junio-2026-final-fantasy-xvi-sonic-shadow",
+      "title": "PS Plus refuerza junio con Final Fantasy XVI, Sonic X Shadow Generations y mas catalogo para PS5",
+      "summary": "PlayStation Blog confirma la tanda de junio para PS Plus Extra y Premium, con Final Fantasy XVI disponible globalmente el 16 de junio y nuevas fechas escalonadas para Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure y otros juegos.",
+      "body": [
+        "PlayStation ya ha detallado el Game Catalog de junio para PS Plus Extra y Premium, y esta vez la pieza fuerte es muy clara: Final Fantasy XVI entra en el servicio el 16 de junio a nivel global. Es una incorporacion con peso real para PS5 porque no se trata solo de volumen, sino de una licencia grande que puede reactivar suscripciones y busquedas.",
+        "La lista oficial tambien mete Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure, Farming Simulator 25, Blades of Fire y Black Desert, mientras que Premium suma Gitaroo Man. Sony ademas esta probando un despliegue por fechas en algunos mercados, con el grueso del catalogo completo disponible el 16 de junio en territorios como Espana.",
+        "Para BluePoint, la noticia no debe quedarse en una enumeracion. Hay varios angulos utiles: que juego probar primero si juegas en PS5, cuales son los nombres con mas tiron comercial y que entradas merecen hueco en calendario para no perder el pico de interes del dia 16 y del dia 23.",
+        "Tambien es una actualizacion importante para la capa de servicio de la web. PS Plus sigue siendo una de las mejores puertas de entrada para contenido recurrente, guias rapidas y posts de X con fecha clara de utilidad."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS Plus",
+        "PS5",
+        "Servicios",
+        "Calendario"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/",
+      "detectedAt": "2026-06-12T12:15:00+02:00",
+      "publishedAt": "2026-06-10T00:00:00+02:00",
+      "confidence": "Confirmado por PlayStation Blog",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2026/06/17e388f35e19282ef852a9221ffd1b75764eb79d.jpg",
+        "alt": "Imagen oficial del catalogo de PS Plus de junio de 2026",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/"
+      }
+    },
+    {
+      "id": "gran-turismo-7-update-1-70-hypercars-le-mans",
+      "title": "Gran Turismo 7 recibe la actualizacion 1.70 con hypercars de Le Mans y nuevos eventos",
+      "summary": "PlayStation Blog confirma la actualizacion gratuita 1.70 de Gran Turismo 7 con Ferrari 499P, Porsche 963, BMW M Hybrid V8, Peugeot 9X8, Porsche 911 Turbo S Safety Car, un nuevo menu y cinco eventos adicionales en World Circuits.",
+      "body": [
+        "Gran Turismo 7 vuelve a entrar en el radar de actualidad de PlayStation con la actualizacion gratuita 1.70. Sony la ha ligado al arranque de las 24 Horas de Le Mans y la ha planteado como una puesta al dia especialmente atractiva para jugadores de PS5 que siguen el juego como servicio activo.",
+        "La novedad central es la llegada de varios hypercars modernos de resistencia: Ferrari 499P, Porsche 963, BMW M Hybrid V8 y Peugeot 9X8, junto al Porsche 911 Turbo S Safety Car. A eso se suman un nuevo menu y cinco pruebas extra de World Circuits, incluido el circuito de Le Mans.",
+        "La lectura util para BluePoint es que Gran Turismo 7 sigue generando noticias propias sin necesidad de una expansion de pago. Polyphony mantiene vivo uno de los grandes catalogos first party de Sony con contenido recurrente y eso encaja muy bien en la mezcla de servicio, calendario y guias practicas.",
+        "No es una nota menor: cuando PlayStation actualiza GT7 con contenido reconocible y gratuito, el juego recupera traccion de busqueda. Conviene tratarlo como una pieza viva del ecosistema PS5 y no como un exclusivo ya archivado."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS5",
+        "Gran Turismo 7",
+        "PlayStation Studios",
+        "Calendario"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/",
+      "detectedAt": "2026-06-12T12:15:00+02:00",
+      "publishedAt": "2026-06-10T00:00:00+02:00",
+      "confidence": "Actualizacion oficial confirmada por PlayStation Blog",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2028/06/c2d30e71a81fe0269fe38091d0520ca2d64d2aad.jpg",
+        "alt": "Imagen oficial de la actualizacion 1.70 de Gran Turismo 7",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/"
+      }
+    },
+    {
+      "id": "summer-game-fest-2026-hands-on-11-juegos-ps5",
+      "title": "Summer Game Fest deja un segundo bloque util para PS5 con hands-on y detalles extra de 11 juegos",
+      "summary": "PlayStation Blog amplia su cobertura de Summer Game Fest con impresiones y detalles de 11 juegos de PS5, entre ellos Control Resonant, Onimusha: Way of the Sword, Alien: Isolation 2 y gen Atlas.",
+      "body": [
+        "PlayStation no se quedo solo con el resumen de anuncios de Summer Game Fest. Un segundo articulo oficial publicado en PlayStation Blog amplia el valor editorial del evento con impresiones y detalles concretos de once juegos vistos o probados durante SGF Play Days.",
+        "La pieza ayuda a dar cuerpo a varios nombres que ya estaban en el calendario, como Control Resonant y Onimusha: Way of the Sword, y tambien a separar mejor que proyectos merecen seguimiento intenso aunque todavia no tengan fecha cerrada. En ese grupo entran ejemplos como Alien: Isolation 2 o gen Atlas.",
+        "Para BluePoint, el articulo es especialmente util porque baja el ruido del evento a informacion mas accionable. No es solo una lista de trailers: hay sensaciones de juego, tono, expectativas y foco editorial para decidir que titulos pueden sostener cobertura propia en las proximas semanas.",
+        "Tambien refuerza una idea importante para la marca PlayStation en junio: Sony esta intentando convertir cada bloque de anuncios en una conversacion mas larga, con calendario primero y contexto practico despues. Ese segundo paso suele rendir mejor que una noticia generica de showcase."
+      ],
+      "category": "PlayStation",
+      "tags": [
+        "PS5",
+        "Analisis",
+        "Calendario",
+        "Summer Game Fest"
+      ],
+      "source": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/",
+      "detectedAt": "2026-06-12T12:15:00+02:00",
+      "publishedAt": "2026-06-08T00:00:00+02:00",
+      "confidence": "Cobertura oficial ampliada por PlayStation Blog",
+      "image": {
+        "url": "https://blog.playstation.com/tachyon/2026/06/affaee4dedbc2a1a78370990dd928142e0f92123.jpg",
+        "alt": "Imagen oficial del hands-on de Summer Game Fest 2026 con juegos de PS5",
+        "kind": "graphic",
+        "credit": "PlayStation Blog",
+        "sourceUrl": "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/"
+      }
+    },
     {
       "id": "marvel-wolverine-state-of-play-gameplay-septiembre-2026",
       "title": "Marvel's Wolverine se coloca como gran ancla first party de PS5 tras el State of Play",

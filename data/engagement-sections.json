@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-06-07T09:20:00+02:00",
+  "updatedAt": "2026-06-12T12:15:00+02:00",
   "calendar": [
+    {
+      "date": "2026-06-11",
+      "label": "11 JUN",
+      "title": "Gran Turismo 7 Update 1.70 disponible",
+      "summary": "La actualizacion gratuita activa hypercars de Le Mans, un nuevo menu y cinco eventos adicionales para GT7 en PS5.",
+      "type": "Actualizacion",
+      "priority": "media",
+      "source": "PlayStation Blog"
+    },
+    {
+      "date": "2026-06-23",
+      "label": "23 JUN",
+      "title": "Kingdom Come: Deliverance y Life is Strange: Double Exposure en PS Plus",
+      "summary": "Dos de las siguientes incorporaciones destacadas del catalogo de junio aterrizan el 23 de junio en los mercados escalonados.",
+      "type": "PS Plus",
+      "priority": "media",
+      "source": "PlayStation Blog"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "16 JUN",
+      "title": "Final Fantasy XVI entra en PS Plus Extra/Premium",
+      "summary": "La tanda de junio del Game Catalog queda plenamente activa en Espana con Final Fantasy XVI y Gitaroo Man como ganchos principales.",
+      "type": "PS Plus",
+      "priority": "alta",
+      "source": "PlayStation Blog"
+    },
+    {
+      "date": "2026-06-12",
+      "label": "12 JUN",
+      "title": "Reservas de FlexStrike en PlayStation Direct",
+      "summary": "El fight stick oficial de PlayStation abre reservas el 12 de junio y se convierte en uno de los accesorios mas utiles del radar PS5.",
+      "type": "Accesorio",
+      "priority": "alta",
+      "source": "PlayStation Blog / PlayStation Direct"
+    },
     {
       "date": "2026-06-05",
       "label": "05 JUN",
@@ -533,40 +569,40 @@
   ],
   "deals": [
     {
-      "title": "Days of Play 2026 - tramo final",
-      "summary": "Campana activa hasta el 10 de junio con ofertas en juegos, PS VR2, Pulse, DualSense, PS Plus y un bonus de Destiny 2: Legacy Collection para Extra/Premium desde el 9 de junio.",
-      "cta": "Ver Days of Play",
-      "url": "https://www.playstation.com/deals/days-of-play/",
-      "type": "Campana temporal",
+      "title": "FlexStrike wireless fight stick",
+      "summary": "Reservas activas desde el 12 de junio en PlayStation Direct y distribuidores participantes para el nuevo fight stick oficial de PS5.",
+      "cta": "Ver FlexStrike",
+      "url": "https://direct.playstation.com/",
+      "type": "Accesorio oficial",
       "priority": "Alta",
-      "angle": "Empujar fuerte hasta el 10 de junio y recordar el bonus de PS Plus del 9 de junio."
-    },
-    {
-      "title": "PS Store - Rebajas digitales",
-      "summary": "Seguimiento de promociones, reservas digitales y oportunidades temporales como God of War Sons of Sparta con descuento oficial hasta el 11 de junio.",
-      "cta": "Ver ofertas PS Store",
-      "url": "https://store.playstation.com/category/35027334-375e-423b-b500-0d4e3e76f210/",
-      "type": "Juegos digitales",
-      "priority": "Alta",
-      "angle": "Ideal para noticias con enlace de compra o reserva cuando haya grandes lanzamientos."
-    },
-    {
-      "title": "PlayStation Plus",
-      "summary": "Radar de altas, salidas y promociones de Essential, Extra y Premium.",
-      "cta": "Ver PS Plus",
-      "url": "https://www.playstation.com/ps-plus/",
-      "type": "Suscripcion",
-      "priority": "Alta",
-      "angle": "Contenido recurrente mensual con alta intencion de busqueda."
+      "angle": "Accesorio con intencion clara de compra y buen encaje para noticias, comparativas y guias de lucha."
     },
     {
       "title": "PlayStation Direct",
-      "summary": "Consolas, DualSense, Portal, Pulse, accesorios oficiales y reservas first party.",
+      "summary": "Consolas, DualSense, Portal, monitor oficial, Pulse y accesorios first party con seguimiento directo de reservas y reposiciones.",
       "cta": "Ver PlayStation Direct",
       "url": "https://direct.playstation.com/",
       "type": "Hardware oficial",
       "priority": "Alta",
-      "angle": "Perfecto para afiliacion o acuerdos patrocinados si se activa monetizacion."
+      "angle": "Sigue siendo el mejor bloque para noticias de accesorios y futuras oportunidades de afiliacion."
+    },
+    {
+      "title": "PS Store - Rebajas digitales",
+      "summary": "Radar vivo para promociones, reservas y descuentos en juegos de PS5 con traccion comercial real.",
+      "cta": "Ver ofertas PS Store",
+      "url": "https://store.playstation.com/category/35027334-375e-423b-b500-0d4e3e76f210/",
+      "type": "Juegos digitales",
+      "priority": "Alta",
+      "angle": "Conviene usarlo cuando haya rankings oficiales, rebajas de marca o reservas de lanzamientos potentes."
+    },
+    {
+      "title": "PlayStation Plus",
+      "summary": "Radar de altas, salidas y promociones de Essential, Extra y Premium, ahora con la tanda de junio ya confirmada.",
+      "cta": "Ver PS Plus",
+      "url": "https://www.playstation.com/ps-plus/",
+      "type": "Suscripcion",
+      "priority": "Alta",
+      "angle": "Contenido recurrente mensual con alta intencion de busqueda y excelente encaje en guia rapida."
     },
     {
       "title": "SSD compatibles PS5",
@@ -579,21 +615,21 @@
     },
     {
       "title": "Auriculares y audio PS5",
-      "summary": "Seguimiento de Pulse Elite, Pulse Explore y alternativas recomendables para jugadores.",
+      "summary": "Seguimiento de Pulse Elite, Pulse Explore, Pulse Elevate y alternativas recomendables para jugadores.",
       "cta": "Ver accesorios",
       "url": "https://direct.playstation.com/accessories",
       "type": "Accesorios",
       "priority": "Media",
-      "angle": "Buen bloque para comparativas, Black Friday y campanas de temporada."
+      "angle": "Buen bloque para comparativas, audio inmersivo y campañas de temporada."
     },
     {
       "title": "Mandos DualSense",
-      "summary": "DualSense, Edge, colores, ediciones especiales y oportunidades de compra.",
+      "summary": "DualSense, Edge, colores, ediciones especiales y oportunidades de compra desde canales oficiales.",
       "cta": "Ver mandos",
-      "url": "https://direct.playstation.com/accessories/accessory/dualsense-wireless-controller.3005715",
+      "url": "https://direct.playstation.com/accessories",
       "type": "Accesorios",
       "priority": "Media",
-      "angle": "Producto recurrente y reconocible para conversion por impulso."
+      "angle": "Encaja bien con guias de compra rapidas y seguimiento de stock."
     }
   ],
   "gameHubs": [
@@ -833,8 +869,8 @@
       "year": 2022,
       "studio": "Polyphony Digital",
       "metascore": "87",
-      "status": "PS5 y PS4",
-      "summary": "Simulador de conduccion principal de PlayStation en la generacion PS5.",
+      "status": "PS5 / Servicio activo",
+      "summary": "Simulador de Polyphony Digital que sigue vivo en PS5 con la actualizacion gratuita 1.70 y nuevo contenido ligado a Le Mans.",
       "url": "https://www.playstation.com/en-us/games/gran-turismo-7/",
       "scoreSource": "Metacritic",
       "image": {
@@ -1410,6 +1446,12 @@
       "name": "Velan Studios",
       "focus": "Midnight Murder Club",
       "summary": "Proyecto online pequeno pero util para cubrir pruebas, invitaciones Guest Pass y vida de servicio en PS5.",
+      "priority": "media"
+    },
+    {
+      "name": "Polyphony Digital",
+      "focus": "Gran Turismo 7 Update 1.70",
+      "summary": "GT7 vuelve a poner a Polyphony en primer plano con contenido gratuito y ritmo constante de soporte para PS5.",
       "priority": "media"
     }
   ]
