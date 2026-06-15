@@ -1,650 +1,739 @@
 {
-    "updatedAt":  "2026-06-15T13:30:00+02:00",
-    "items":  [
-                  {
-                      "id":  "destruction-allstars-cierre-servicios-noviembre-2026",
-                      "title":  "PlayStation fija el cierre total de Destruction AllStars para el 25 de noviembre y mantiene caido su multijugador",
-                      "summary":  "La pagina oficial de avisos importantes de PlayStation indica que Destruction AllStars ya no vende el juego ni su moneda virtual y apagará todos sus servicios restantes el 25 de noviembre de 2026.",
-                      "body":  [
-                                   "PlayStation ha dejado por escrito el final operativo de Destruction AllStars dentro de su pagina oficial de avisos importantes. La clave para BluePoint es muy concreta: el juego y los Destruction Points se retiraron de la venta el 26 de mayo de 2026, y el apagado completo del servicio queda fijado para el 25 de noviembre de 2026 a las 00:00 UTC.",
-                                   "La nota oficial tambien aclara que el multijugador en PS5 sigue fuera de servicio por problemas tecnicos continuados y ya no esta disponible. Eso convierte la situacion del juego en algo mas serio que una simple retirada comercial: hoy ya no funciona como servicio online activo dentro del ecosistema de PlayStation.",
-                                   "Lo unico que seguira en pie para quienes ya lo tengan es el acceso a los modos para un jugador hasta la fecha de cierre, y despues Arcade Mode para usuarios que regresen, aunque Sony avisa de que la experiencia puede verse afectada tras la desconexion de servidores. Tambien confirma que la moneda virtual que quede en cuentas actuales solo podra gastarse dentro de esos modos disponibles hasta el apagado.",
-                                   "Para BluePoint, esta pieza sirve tanto como noticia de servicio como para actualizar calendario y fichas de juegos de Sony en PS5. No mueve hype, pero si resuelve una duda practica para cualquiera que aun conserve el juego en su biblioteca."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Servicios",
-                                   "PlayStation Studios",
-                                   "Calendario"
-                               ],
-                      "source":  "PlayStation Support",
-                      "url":  "https://www.playstation.com/en-us/support/important-notice/",
-                      "detectedAt":  "2026-06-15T13:30:00+02:00",
-                      "publishedAt":  "2026-06-15T13:30:00+02:00",
-                      "confidence":  "Aviso oficial de PlayStation sobre retirada y cierre de servicio",
-                      "image":  {
-                                    "url":  "https://image.api.playstation.com/vulcan/ap/rnd/202210/0418/d2l5anfkYCPcdtYL8lhqhfOX.png",
-                                    "alt":  "Imagen oficial de Destruction AllStars para la noticia de cierre de servicio en PS5",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation",
-                                    "sourceUrl":  "https://www.playstation.com/en-us/games/destruction-allstars/"
-                                }
-                  },
-                  {
-                      "id":  "ps-store-mid-year-deals-junio-2026-ps5",
-                      "title":  "PS Store activa Mid-Year Deals con rebajas potentes para PS5 y una nueva ventana util hasta julio",
-                      "summary":  "La pagina oficial de Deals de PlayStation Store ya destaca Mid-Year Deals y Push Square resume una seleccion de compras recomendables dentro de una promocion que, segun su seguimiento, se extiende hasta el 1 de julio de 2026.",
-                      "body":  [
-                                   "PlayStation Store ya ha levantado su escaparate de Mid-Year Deals y eso le da a BluePoint una pieza clara de servicio para mitad de junio. La pagina oficial de Deals coloca la promocion como bloque principal y deja ver descuentos activos en juegos y ediciones de PS5 dentro del circuito habitual de rebajas digitales de Sony.",
-                                   "Entre los ejemplos visibles en la tienda aparecen nombres como ARC Raiders, REANIMAL, Mortal Kombat: Legacy Kollection o 7 Days to Die, mientras que Push Square ha publicado una guia paralela con compras recomendadas para no perderse entre miles de precios rebajados. Esa combinacion de fuente oficial mas curacion editorial encaja muy bien con el enfoque de ofertas y guias utiles que necesita BluePoint.",
-                                   "La lectura importante no es solo que haya descuentos, sino que vuelve a abrirse una ventana de conversion clara para PS5 justo despues de Days of Play. Si el usuario ha terminado de revisar PS Plus o las noticias del State of Play, este es el siguiente clic monetizable natural dentro del ecosistema PlayStation.",
-                                   "Conviene tratar Mid-Year Deals como radar vivo y no como una nota de un solo dia. Mientras la promocion siga visible, BluePoint puede extraer recomendaciones, picks por genero y comparativas de compra rapida sin salirse del foco PlayStation."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Ofertas",
-                                   "PS Store",
-                                   "PS5",
-                                   "Guias"
-                               ],
-                      "source":  "PlayStation Store / Push Square",
-                      "url":  "https://store.playstation.com/pages/deals",
-                      "detectedAt":  "2026-06-15T13:30:00+02:00",
-                      "publishedAt":  "2026-06-10T12:30:00+02:00",
-                      "confidence":  "Promocion oficial visible en PS Store con contexto editorial de Push Square",
-                      "image":  {
-                                    "url":  "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format\u0026fit=crop\u0026w=1200\u0026q=82",
-                                    "alt":  "Imagen editorial de un mando DualSense para la promocion Mid-Year Deals de PS Store",
-                                    "kind":  "photo",
-                                    "credit":  "Imagen editorial",
-                                    "sourceUrl":  "https://store.playstation.com/pages/deals"
-                                }
-                  },
-                  {
-                      "id":  "guia-ps5-semana-15-21-junio-2026-ps-plus-elliot-ufc6",
-                      "title":  "La semana de PS5 del 15 al 21 de junio se ordena entre PS Plus, UFC 6 y The Adventures of Elliot",
-                      "summary":  "Push Square y la pagina oficial This Month on PlayStation colocan a Final Fantasy XVI en PS Plus el 16 de junio y a The Adventures of Elliot junto a EA Sports UFC 6 como los movimientos mas visibles de la semana en PS5.",
-                      "body":  [
-                                   "La agenda inmediata de PlayStation ya se puede leer con bastante claridad para la semana del 15 al 21 de junio. Push Square ha resumido los lanzamientos y entradas de servicio mas visibles de estos dias, mientras que la pagina oficial This Month on PlayStation refuerza parte del mismo calendario con sus picks editoriales del mes.",
-                                   "El punto mas fuerte llega el 16 de junio con la activacion de Final Fantasy XVI en PS Plus Extra y Premium en mercados como Espana. A partir de ahi, el foco de estrenos se mueve hacia The Adventures of Elliot: The Millennium Tales el 18 de junio y EA Sports UFC 6 el 19, dos lanzamientos muy distintos pero con recorrido evidente para recomendaciones y guias rapidas.",
-                                   "La ventaja de esta pieza es que no depende de un gran showcase ni de un rumor: sirve para ordenar la semana real del usuario de PS5. Tambien ayuda a separar que merece clic por novedad de compra y que entra por valor de suscripcion, una distincion importante para el trafico util y para el radar de PS Plus.",
-                                   "Para BluePoint, esta es la clase de guia corta que complementa bien a las noticias duras. No inventa calendario, lo pone en limpio y lo vuelve accionable para quien quiera jugar algo nuevo en los proximos dias."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Guias",
-                                   "Calendario",
-                                   "PS5",
-                                   "PS Plus"
-                               ],
-                      "source":  "Push Square / PlayStation.com",
-                      "url":  "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june",
-                      "detectedAt":  "2026-06-15T13:30:00+02:00",
-                      "publishedAt":  "2026-06-13T12:00:00+02:00",
-                      "confidence":  "Guia editorial apoyada por el calendario oficial This Month on PlayStation",
-                      "image":  {
-                                    "url":  "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format\u0026fit=crop\u0026w=1200\u0026q=82",
-                                    "alt":  "Imagen editorial de un mando para la guia semanal de PS5 y PS Plus de junio de 2026",
-                                    "kind":  "photo",
-                                    "credit":  "Imagen editorial",
-                                    "sourceUrl":  "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june"
-                                }
-                  },
-                  {
-                      "id":  "tomb-raider-legacy-of-atlantis-hands-on-junio-2026",
-                      "title":  "Tomb Raider: Legacy of Atlantis deja buenas sensaciones en su primer hands-on oficial para PS5",
-                      "summary":  "PlayStation Blog publica un avance practico del nuevo Tomb Raider y destaca un equilibrio entre exploracion clasica, puzles y ajustes modernos antes de su lanzamiento en PS5 el 12 de febrero de 2027.",
-                      "body":  [
-                                   "PlayStation ha reforzado el seguimiento de Tomb Raider: Legacy of Atlantis con un hands-on oficial publicado tras Summer Game Fest 2026. El avance no cambia la fecha ya conocida del 12 de febrero de 2027, pero si aporta algo mas util para BluePoint: contexto real sobre como se esta jugando en PS5.",
-                                   "Segun el texto de PlayStation Blog, la demo recorrida se centra en Lost Valley, en Peru, y pone el foco en exploracion, rutas secundarias y una nueva version del puzle de engranajes de la cascada. La lectura importante es que Crystal Dynamics y Flying Wild Hog quieren recuperar el sabor clasico de Lara Croft sin renunciar a ayudas opcionales y ajustes separados para combate y puzles.",
-                                   "Eso convierte a Legacy of Atlantis en un juego que no solo vive de la nostalgia o del nombre. El discurso oficial intenta vender una aventura mas abierta a distintos perfiles de jugador, algo que puede ayudar a que el regreso funcione mejor entre veteranos y publico nuevo de PS5.",
-                                   "Para BluePoint, esta pieza sirve para mantener vivo el seguimiento del juego sin caer en un simple recordatorio de fecha. Hay material para noticia, calendario y futuras guias si PlayStation sigue soltando nuevos avances practicos durante verano."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Tomb Raider",
-                                   "Analisis",
-                                   "Calendario"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/",
-                      "detectedAt":  "2026-06-12T12:15:00+02:00",
-                      "publishedAt":  "2026-06-11T00:00:00+02:00",
-                      "confidence":  "Avance oficial publicado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2028/06/844c12577f9b2b130f1a25b68c1174c06636bc5a-scaled.jpg",
-                                    "alt":  "Imagen oficial del hands-on de Tomb Raider: Legacy of Atlantis para PS5",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/"
-                                }
-                  },
-                  {
-                      "id":  "ps-plus-catalogo-junio-2026-final-fantasy-xvi-sonic-shadow",
-                      "title":  "PS Plus refuerza junio con Final Fantasy XVI, Sonic X Shadow Generations y mas catalogo para PS5",
-                      "summary":  "PlayStation Blog confirma la tanda de junio para PS Plus Extra y Premium, con Final Fantasy XVI disponible globalmente el 16 de junio y nuevas fechas escalonadas para Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure y otros juegos.",
-                      "body":  [
-                                   "PlayStation ya ha detallado el Game Catalog de junio para PS Plus Extra y Premium, y esta vez la pieza fuerte es muy clara: Final Fantasy XVI entra en el servicio el 16 de junio a nivel global. Es una incorporacion con peso real para PS5 porque no se trata solo de volumen, sino de una licencia grande que puede reactivar suscripciones y busquedas.",
-                                   "La lista oficial tambien mete Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure, Farming Simulator 25, Blades of Fire y Black Desert, mientras que Premium suma Gitaroo Man. Sony ademas esta probando un despliegue por fechas en algunos mercados, con el grueso del catalogo completo disponible el 16 de junio en territorios como Espana.",
-                                   "Para BluePoint, la noticia no debe quedarse en una enumeracion. Hay varios angulos utiles: que juego probar primero si juegas en PS5, cuales son los nombres con mas tiron comercial y que entradas merecen hueco en calendario para no perder el pico de interes del dia 16 y del dia 23.",
-                                   "Tambien es una actualizacion importante para la capa de servicio de la web. PS Plus sigue siendo una de las mejores puertas de entrada para contenido recurrente, guias rapidas y posts de X con fecha clara de utilidad."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS Plus",
-                                   "PS5",
-                                   "Servicios",
-                                   "Calendario"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/",
-                      "detectedAt":  "2026-06-12T12:15:00+02:00",
-                      "publishedAt":  "2026-06-10T00:00:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/17e388f35e19282ef852a9221ffd1b75764eb79d.jpg",
-                                    "alt":  "Imagen oficial del catalogo de PS Plus de junio de 2026",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/"
-                                }
-                  },
-                  {
-                      "id":  "gran-turismo-7-update-1-70-hypercars-le-mans",
-                      "title":  "Gran Turismo 7 recibe la actualizacion 1.70 con hypercars de Le Mans y nuevos eventos",
-                      "summary":  "PlayStation Blog confirma la actualizacion gratuita 1.70 de Gran Turismo 7 con Ferrari 499P, Porsche 963, BMW M Hybrid V8, Peugeot 9X8, Porsche 911 Turbo S Safety Car, un nuevo menu y cinco eventos adicionales en World Circuits.",
-                      "body":  [
-                                   "Gran Turismo 7 vuelve a entrar en el radar de actualidad de PlayStation con la actualizacion gratuita 1.70. Sony la ha ligado al arranque de las 24 Horas de Le Mans y la ha planteado como una puesta al dia especialmente atractiva para jugadores de PS5 que siguen el juego como servicio activo.",
-                                   "La novedad central es la llegada de varios hypercars modernos de resistencia: Ferrari 499P, Porsche 963, BMW M Hybrid V8 y Peugeot 9X8, junto al Porsche 911 Turbo S Safety Car. A eso se suman un nuevo menu y cinco pruebas extra de World Circuits, incluido el circuito de Le Mans.",
-                                   "La lectura util para BluePoint es que Gran Turismo 7 sigue generando noticias propias sin necesidad de una expansion de pago. Polyphony mantiene vivo uno de los grandes catalogos first party de Sony con contenido recurrente y eso encaja muy bien en la mezcla de servicio, calendario y guias practicas.",
-                                   "No es una nota menor: cuando PlayStation actualiza GT7 con contenido reconocible y gratuito, el juego recupera traccion de busqueda. Conviene tratarlo como una pieza viva del ecosistema PS5 y no como un exclusivo ya archivado."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Gran Turismo 7",
-                                   "PlayStation Studios",
-                                   "Calendario"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/",
-                      "detectedAt":  "2026-06-12T12:15:00+02:00",
-                      "publishedAt":  "2026-06-10T00:00:00+02:00",
-                      "confidence":  "Actualizacion oficial confirmada por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2028/06/c2d30e71a81fe0269fe38091d0520ca2d64d2aad.jpg",
-                                    "alt":  "Imagen oficial de la actualizacion 1.70 de Gran Turismo 7",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/"
-                                }
-                  },
-                  {
-                      "id":  "summer-game-fest-2026-hands-on-11-juegos-ps5",
-                      "title":  "Summer Game Fest deja un segundo bloque util para PS5 con hands-on y detalles extra de 11 juegos",
-                      "summary":  "PlayStation Blog amplia su cobertura de Summer Game Fest con impresiones y detalles de 11 juegos de PS5, entre ellos Control Resonant, Onimusha: Way of the Sword, Alien: Isolation 2 y gen Atlas.",
-                      "body":  [
-                                   "PlayStation no se quedo solo con el resumen de anuncios de Summer Game Fest. Un segundo articulo oficial publicado en PlayStation Blog amplia el valor editorial del evento con impresiones y detalles concretos de once juegos vistos o probados durante SGF Play Days.",
-                                   "La pieza ayuda a dar cuerpo a varios nombres que ya estaban en el calendario, como Control Resonant y Onimusha: Way of the Sword, y tambien a separar mejor que proyectos merecen seguimiento intenso aunque todavia no tengan fecha cerrada. En ese grupo entran ejemplos como Alien: Isolation 2 o gen Atlas.",
-                                   "Para BluePoint, el articulo es especialmente util porque baja el ruido del evento a informacion mas accionable. No es solo una lista de trailers: hay sensaciones de juego, tono, expectativas y foco editorial para decidir que titulos pueden sostener cobertura propia en las proximas semanas.",
-                                   "Tambien refuerza una idea importante para la marca PlayStation en junio: Sony esta intentando convertir cada bloque de anuncios en una conversacion mas larga, con calendario primero y contexto practico despues. Ese segundo paso suele rendir mejor que una noticia generica de showcase."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Analisis",
-                                   "Calendario",
-                                   "Summer Game Fest"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/",
-                      "detectedAt":  "2026-06-12T12:15:00+02:00",
-                      "publishedAt":  "2026-06-08T00:00:00+02:00",
-                      "confidence":  "Cobertura oficial ampliada por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/affaee4dedbc2a1a78370990dd928142e0f92123.jpg",
-                                    "alt":  "Imagen oficial del hands-on de Summer Game Fest 2026 con juegos de PS5",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/"
-                                }
-                  },
-                  {
-                      "id":  "marvel-wolverine-state-of-play-gameplay-septiembre-2026",
-                      "title":  "Marvel\u0027s Wolverine se coloca como gran ancla first party de PS5 tras el State of Play",
-                      "summary":  "PlayStation Blog y la cobertura posterior del State of Play destacan nuevo gameplay, detalles de historia y lanzamiento de Marvel\u0027s Wolverine para el 15 de septiembre de 2026 en PS5.",
-                      "body":  [
-                                   "Marvel\u0027s Wolverine sale del ultimo State of Play como la pieza mas importante del calendario first party inmediato de PlayStation. La presentacion dejo nuevo gameplay, detalles de historia y una fecha clave para el radar: 15 de septiembre de 2026 en PS5.",
-                                   "La lectura editorial no esta solo en la fecha. Insomniac vuelve a cargar con el papel de estudio que sostiene grandes momentos de marca para PlayStation, esta vez con un juego de accion centrado en combate fisico, violencia directa y una identidad mas dura que Spider-Man.",
-                                   "Para BluePoint, Wolverine debe funcionar como hub recurrente: trailers, personajes, reservas, ediciones, posibles previews y comparativas con otros exclusivos de PS5. Es una noticia confirmada, no un rumor, y por eso debe ocupar portada.",
-                                   "La oportunidad de trafico esta en seguir cada nuevo material oficial sin dispersar la cobertura. Cada pieza que Sony publique hasta septiembre puede alimentar noticia, post de X, newsletter y calendario."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Marvel\u0027s Wolverine",
-                                   "Insomniac",
-                                   "PS5",
-                                   "Exclusivos",
-                                   "State of Play"
-                               ],
-                      "source":  "PlayStation Blog / GamesRadar+",
-                      "url":  "https://blog.latam.playstation.com/2026/06/02/marvels-wolverine-nuevos-detalles-de-la-jugabilidad-y-de-la-historia-anunciados-en-state-of-play/",
-                      "detectedAt":  "2026-06-05T00:35:00+02:00",
-                      "publishedAt":  "2026-06-05T00:20:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog tras State of Play",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial del State of Play con Marvel\u0027s Wolverine",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
-                                },
-                      "pinned":  true
-                  },
-                  {
-                      "id":  "state-of-play-junio-2026-lineup-riesgo-estetico-ps5",
-                      "title":  "El State of Play refuerza la idea de una PS5 con catalogo mas arriesgado y reconocible",
-                      "summary":  "La cobertura posterior al evento lee el State of Play como una respuesta a las dudas sobre el calendario de PS5: Wolverine, God of War Laufey, Silent Hill, Tomb Raider, Kemuri y otros nombres dibujan una linea mas variada.",
-                      "body":  [
-                                   "El State of Play de junio no solo fue una lista de trailers. La lectura de fondo es que PlayStation intenta recuperar pulso con una mezcla de grandes marcas, terror, accion estilizada, regresos y nuevas IP con identidad visual fuerte.",
-                                   "Creative Bloq resume bien la sensacion: frente al ruido sobre PS6 y las dudas sobre el calendario, Sony enseno una PS5 que todavia tiene recorrido. Nombres como Marvel\u0027s Wolverine, God of War Laufey, Kemuri, Silent Hill: Townfall y Tomb Raider apuntan a una estrategia mas variada.",
-                                   "Para BluePoint, esa lectura ayuda a ordenar la cobertura. Hay que separar los anuncios confirmados, los juegos con fecha y los proyectos que solo necesitan seguimiento porque aun no tienen ventana clara.",
-                                   "La prioridad editorial pasa a ser convertir el evento en piezas utiles: calendario, trailers oficiales, fichas de juego, posts para X y rumorometro para lo que quedo fuera."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "State of Play",
-                                   "PS5",
-                                   "PlayStation Studios",
-                                   "Marvel\u0027s Wolverine",
-                                   "Silent Hill"
-                               ],
-                      "source":  "PlayStation Blog / Creative Bloq",
-                      "url":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
-                      "detectedAt":  "2026-06-05T00:35:00+02:00",
-                      "publishedAt":  "2026-06-05T00:15:00+02:00",
-                      "confidence":  "Resumen oficial y lectura editorial externa",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial del resumen de State of Play de junio de 2026",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
-                                }
-                  },
-                  {
-                      "id":  "summer-game-fest-2026-16-juegos-ps5-playstation-blog",
-                      "title":  "Summer Game Fest deja otro empujon al calendario de PS5 con fechas, nuevas IP y un extra para PS Plus",
-                      "summary":  "PlayStation Blog resume 16 anuncios de Summer Game Fest para PS5 y deja varias claves utiles para BluePoint: Assassin\u0027s Creed Black Flag Resynced el 9 de julio, RuneScape: Dragonwilds el 15 de septiembre con llegada day one a PS Plus Extra/Premium, y nuevas ventanas para Control Resonant, Star Wars: Galactic Racer y mas.",
-                      "body":  [
-                                   "PlayStation ha usado su repaso oficial de Summer Game Fest 2026 para ordenar parte del ruido posterior al evento y convertirlo en fechas concretas para usuarios de PS5. El resumen de PlayStation Blog no se limita a enumerar trailers: sirve para fijar varios hitos del calendario que BluePoint debe seguir de cerca durante junio y verano.",
-                                   "Entre los movimientos mas claros estan Assassin\u0027s Creed Black Flag Resynced para el 9 de julio, Control Resonant para el 24 de septiembre, The Blood of Dawnwalker para el 3 de septiembre y Star Wars: Galactic Racer para el 6 de octubre. Tambien aparece RuneScape: Dragonwilds con fecha del 15 de septiembre y un detalle de servicio especialmente util: llegara directamente a PS Plus Extra y Premium.",
-                                   "La pieza tambien abre radar para proyectos sin fecha cerrada pero con peso propio en PlayStation, como gen Atlas del estudio genDesign, Guild Wars 3 en su primer salto a consolas domesticas, Crossfire de That\u0027s No Moon o Resident Evil Veronica para 2027. No todo entra en la misma prioridad editorial, pero si ayuda a separar lanzamientos cercanos de anuncios que solo necesitan vigilancia.",
-                                   "Para BluePoint, la lectura util es doble. Por un lado, hay material para reforzar calendario y fichas de juegos. Por otro, PS Plus gana una bala extra con Dragonwilds, un angulo que mezcla actualidad de lanzamientos con servicio y puede rendir mejor que una noticia generica de evento."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Calendario",
-                                   "PS Plus",
-                                   "Summer Game Fest",
-                                   "Control Resonant",
-                                   "RuneScape Dragonwilds"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/",
-                      "detectedAt":  "2026-06-07T09:20:00+02:00",
-                      "publishedAt":  "2026-06-05T00:00:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/e73c791cbc8ca83b7612cbbb0b98efa371029277.jpg",
-                                    "alt":  "Imagen oficial del resumen de Summer Game Fest 2026 con juegos de PS5",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/"
-                                }
-                  },
-                  {
-                      "id":  "ps-plus-junio-2026-grounded-darktide-nickelodeon-live",
-                      "title":  "PS Plus de junio ya esta activo con Grounded, Darktide y Nickelodeon All-Star Brawl 2",
-                      "summary":  "Los juegos mensuales de PlayStation Plus para junio estan disponibles del 2 de junio al 6 de julio, con EA Sports FC 26 extendido hasta el 16 de junio.",
-                      "body":  [
-                                   "La seleccion mensual de PlayStation Plus para junio ya esta activa. PlayStation Blog confirma Grounded Fully Yoked Edition, Nickelodeon All-Star Brawl 2 y Warhammer 40,000: Darktide como los tres juegos principales disponibles del 2 de junio al 6 de julio.",
-                                   "La tanda tiene una lectura clara: mucho componente multijugador. Grounded aporta supervivencia cooperativa, Darktide lleva accion por escuadras al universo Warhammer 40K y Nickelodeon All-Star Brawl 2 cubre la parte de lucha arcade.",
-                                   "Ademas, EA Sports FC 26 se mantiene como juego mensual hasta el 16 de junio, un detalle importante para recordatorios de X y newsletter porque tiene una fecha de salida distinta al resto.",
-                                   "Para la web, PS Plus necesita seguimiento recurrente: que jugar primero, que juego encaja con cada perfil y cuando reclamar cada titulo antes de que rote la seleccion."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS Plus",
-                                   "PlayStation Plus",
-                                   "Grounded",
-                                   "Darktide",
-                                   "Nickelodeon",
-                                   "Servicios"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/",
-                      "detectedAt":  "2026-06-05T00:35:00+02:00",
-                      "publishedAt":  "2026-06-05T00:10:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/05/7ceda89d7b005abcfaafbf018adca62bd6beb679-scaled.jpg?crop_strategy=smart\u0026resize=1088%2C612",
-                                    "alt":  "Imagen oficial de PS Plus junio 2026",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/"
-                                }
-                  },
-                  {
-                      "id":  "xbox-pc-state-of-play-junio-2026-ps5-multiplataforma",
-                      "title":  "El State of Play tambien deja una lectura multiplataforma importante para PS5",
-                      "summary":  "Windows Central destaca que varios juegos vistos en el evento de Sony tambien llegaran a Xbox o PC, pero para BluePoint la clave es como refuerzan el calendario de PS5.",
-                      "body":  [
-                                   "El State of Play tuvo mucho peso PlayStation, pero tambien dejo una lectura de industria: varios juegos mostrados durante el evento llegaran a Xbox, PC o Game Pass ademas de PS5. Windows Central lo subraya al repasar los anuncios que no quedaron eclipsados por Wolverine.",
-                                   "Para BluePoint, esa informacion no resta valor a PS5. Al contrario: ayuda a distinguir que juegos funcionan como exclusivos de marca, cuales son acuerdos de presencia fuerte en PlayStation y cuales son piezas multiplataforma que igualmente alimentan el calendario de la consola.",
-                                   "Onimusha: Way of the Sword, Dune Awakening, No Rest for the Wicked y otros nombres pueden mover busquedas aunque no sean exclusivos. La clave editorial es no venderlos como first party y situarlos bien en calendario.",
-                                   "Esta lectura tambien sirve para posts de X: PlayStation no vive solo de exclusivos puros, sino de ser una de las plataformas donde se concentra la conversacion de grandes lanzamientos."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "State of Play",
-                                   "Multiplataforma",
-                                   "Calendario",
-                                   "Industria"
-                               ],
-                      "source":  "Windows Central",
-                      "url":  "https://www.windowscentral.com/gaming/every-xbox-and-pc-game-at-sony-june-2026-state-of-play",
-                      "detectedAt":  "2026-06-05T00:35:00+02:00",
-                      "publishedAt":  "2026-06-05T00:05:00+02:00",
-                      "confidence":  "Lectura editorial basada en cobertura especializada",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial del State of Play de junio",
-                                    "kind":  "graphic",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
-                                }
-                  },
-                  {
-                      "id":  "rumor-break-in-fairgames-haven-radar-junio-2026",
-                      "title":  "Break In y Fairgames entran en el radar de rumores de PlayStation Studios",
-                      "summary":  "El rumor sobre Break In como posible rebranding o movimiento conectado con Fairgames merece seguimiento, pero no debe tratarse como confirmacion de Sony ni de Haven.",
-                      "body":  [
-                                   "Break In vuelve a aparecer en el radar de rumores de PlayStation por su posible relacion con Fairgames y Haven. La lectura correcta es prudente: una marca, nombre o pista comercial no equivale a anuncio oficial.",
-                                   "El interes existe porque Fairgames es una de las carpetas mas delicadas de PlayStation Studios. Si Sony decide cambiar nombre, enfoque o comunicacion, podria ser una senal importante sobre como quiere reposicionar el proyecto.",
-                                   "Para BluePoint, este tipo de rumor debe vivir en el rumorometro y no en portada como confirmacion. Conviene seguir a insiders y medios, pero separando fuente, contexto y probabilidad.",
-                                   "La conclusion editorial es clara: Break In merece vigilancia, no titular rotundo. Hasta que Sony o Haven hablen, es una pista de seguimiento."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Rumores",
-                                   "Fairgames",
-                                   "Break In",
-                                   "Haven",
-                                   "PlayStation Studios"
-                               ],
-                      "source":  "Radar BluePoint / Toms Guide",
-                      "url":  "https://www.tomsguide.com/news/live/ps5-state-of-play-june-2026-live-updates",
-                      "detectedAt":  "2026-06-05T00:35:00+02:00",
-                      "publishedAt":  "2026-06-05T00:00:00+02:00",
-                      "confidence":  "Rumor sin confirmacion oficial; seguimiento prudente",
-                      "image":  {
-                                    "url":  "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format\u0026fit=crop\u0026w=1200\u0026q=82",
-                                    "alt":  "Mando DualSense para radar de rumores PlayStation",
-                                    "kind":  "photo",
-                                    "credit":  "Imagen editorial",
-                                    "sourceUrl":  "https://unsplash.com/"
-                                }
-                  },
-                  {
-                      "id":  "ps-store-mayo-2026-top-descargas-007-first-light",
-                      "title":  "007 First Light domina las descargas de PS5 en mayo en PS Store",
-                      "summary":  "PlayStation Blog publica el ranking de mayo de PS Store: 007 First Light lidera tanto en Estados Unidos/Canada como en Europa, mientras I Am Cat encabeza PS VR2.",
-                      "body":  [
-                                   "El ranking de descargas de mayo en PlayStation Store deja una senal clara: 007 First Light ha convertido su impulso comercial en liderato digital. Segun PlayStation Blog, el juego aparece en el primer puesto de PS5 tanto en Estados Unidos/Canada como en Europa, por delante de otros nombres de alto reconocimiento.",
-                                   "La lista tambien muestra una fotografia interesante del catalogo actual. En PS5 conviven novedades, juegos recurrentes y titulos con recorrido largo como Grand Theft Auto V, Minecraft, Call of Duty: Black Ops 7, Saros, Crimson Desert, Sea of Thieves o Forza Horizon 5, lo que confirma que la tienda no se mueve solo por estrenos recientes.",
-                                   "Para BluePoint, este tipo de ranking es util porque ayuda a separar ruido de traccion real. Un juego puede protagonizar conversacion durante dias, pero aparecer arriba en descargas indica compra o interes directo del usuario, una metrica especialmente valiosa para decidir que juegos seguir con mas atencion.",
-                                   "El dato de PS VR2 tambien merece vigilancia: I Am Cat lidera el ranking del visor, una posicion llamativa porque senala que las propuestas de realidad virtual con concepto claro pueden encontrar espacio incluso fuera de las grandes licencias."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS Store",
-                                   "PS5",
-                                   "007 First Light",
-                                   "Top descargas",
-                                   "Saros"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/",
-                      "detectedAt":  "2026-06-04T12:40:00+02:00",
-                      "publishedAt":  "2026-06-03T18:00:00+02:00",
-                      "confidence":  "Ranking oficial de PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format\u0026fit=crop\u0026w=1200\u0026q=82",
-                                    "alt":  "Mando DualSense sobre una superficie iluminada para noticia de PS Store",
-                                    "kind":  "photo",
-                                    "credit":  "Imagen editorial",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/"
-                                }
-                  },
-                  {
-                      "id":  "days-of-play-2026-ofertas-tramo-final",
-                      "title":  "Days of Play encara su tramo final con descuentos en PS Plus, PS VR2 y accesorios",
-                      "summary":  "La promocion oficial de PlayStation sigue activa hasta el 10 de junio con ofertas en juegos, accesorios, PS Plus y ventajas adicionales para miembros del servicio.",
-                      "body":  [
-                                   "Days of Play 2026 entra en sus dias mas importantes para cualquier radar de ofertas. PlayStation Blog recuerda que la campana comenzo el 27 de mayo y se mantiene activa hasta el 10 de junio, con promociones repartidas entre PlayStation Store, PlayStation Direct y comercios participantes.",
-                                   "La parte mas monetizable para BluePoint esta en hardware y accesorios: PlayStation senala descuentos en PS VR2, Pulse Explore, Pulse Elite, DualSense Edge, Access Controller y mandos DualSense. Ademas, menciona rebajas en juegos de PS5 como Ghost of Yotei, Helldivers 2, Death Stranding 2 y The Last of Us Part II Remastered.",
-                                   "PS Plus tambien queda en el centro de la campana. Los usuarios de paises participantes pueden encontrar descuentos de hasta el 33% al unirse o al actualizar a planes superiores, una oportunidad especialmente buena para crear contenido de guia: que plan elegir, cuando compensa Premium y que juegos justifican la subida.",
-                                   "La lectura editorial es sencilla: Days of Play no debe vivir solo como noticia puntual, sino como una seccion temporal de compra inteligente. Hasta el 10 de junio conviene empujar el radar de ofertas y enlazar noticias, guias y comparativas relacionadas."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Days of Play",
-                                   "Ofertas",
-                                   "PS Plus",
-                                   "PS VR2",
-                                   "DualSense"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/",
-                      "detectedAt":  "2026-06-04T12:40:00+02:00",
-                      "publishedAt":  "2026-06-04T12:40:00+02:00",
-                      "confidence":  "Promocion oficial de PlayStation",
-                      "image":  {
-                                    "url":  "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format\u0026fit=crop\u0026w=1200\u0026q=82",
-                                    "alt":  "Mando de videojuego iluminado para radar de ofertas PlayStation",
-                                    "kind":  "photo",
-                                    "credit":  "Imagen editorial",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/"
-                                }
-                  },
-                  {
-                      "id":  "state-of-play-junio-2026-calendario-ps5-confirmado",
-                      "title":  "El State of Play deja un calendario PS5 cargado para septiembre y octubre",
-                      "summary":  "El resumen oficial de PlayStation Blog y la cobertura especializada consolidan varias fechas: Control Resonant y Silent Hill: Townfall el 24 de septiembre, Onimusha el 25 y Ace Combat 8 el 2 de octubre.",
-                      "body":  [
-                                   "La resaca del State of Play ya permite ordenar mejor el calendario de PS5. PlayStation Blog reunio los anuncios y trailers del evento, y la lectura principal es que septiembre y octubre pasan a ser meses especialmente densos para el usuario de PlayStation.",
-                                   "Entre las fechas ya fijadas destacan Control Resonant y Silent Hill: Townfall para el 24 de septiembre, Onimusha: Way of the Sword para el 25 de septiembre y Ace Combat 8: Wings of Theve para el 2 de octubre. A eso se suman movimientos como Dune: Awakening, No Rest for the Wicked, Phantom Blade Zero y otros anuncios que amplian la agenda.",
-                                   "El valor para BluePoint esta en convertir esa lista en seguimiento vivo. No basta con publicar una noticia de evento: cada fecha debe alimentar calendario, trailers, posts en X, recordatorios de reserva y posibles guias cuando se acerque el lanzamiento.",
-                                   "La conclusion es clara: PlayStation ha usado el State of Play para llenar huecos del segundo semestre. El radar debe revisar cambios de fecha y nuevos materiales de cada juego, porque cualquier trailer adicional puede reactivar busquedas y conversacion."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "State of Play",
-                                   "PS5",
-                                   "Calendario",
-                                   "Silent Hill",
-                                   "Onimusha",
-                                   "Ace Combat"
-                               ],
-                      "source":  "PlayStation Blog / PlayStation LifeStyle",
-                      "url":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
-                      "detectedAt":  "2026-06-04T12:40:00+02:00",
-                      "publishedAt":  "2026-06-04T12:30:00+02:00",
-                      "confidence":  "Fechas confirmadas por fuentes oficiales y seguimiento editorial",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial del resumen de State of Play de junio de 2026",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
-                                }
-                  },
-                  {
-                      "id":  "silent-hill-townfall-ps5-septiembre",
-                      "title":  "Silent Hill: Townfall llegara a PS5 el 24 de septiembre con puzzles narrativos y terror psicologico",
-                      "summary":  "PlayStation Blog confirma que Silent Hill: Townfall se lanzara el 24 de septiembre en PS5, con reservas abiertas y detalles sobre narrativa, personajes y funciones de la consola.",
-                      "body":  [
-                                   "Silent Hill: Townfall ya tiene fecha para PS5: 24 de septiembre. La noticia es relevante porque convierte uno de los proyectos mas misteriosos de la saga en una pieza concreta del calendario de terror para PlayStation.",
-                                   "La descripcion oficial pone el foco en puzzles narrativos, personajes y un tratamiento mas psicologico que puramente de accion. Esa orientacion encaja con una rama de Silent Hill que suele funcionar mejor cuando juega con la interpretacion, la incomodidad y las decisiones del jugador.",
-                                   "PlayStation Blog tambien senala que las reservas ya estan activas y menciona caracteristicas de PS5, lo que indica que el juego entra en fase de empuje comercial. A partir de ahora, el seguimiento deberia centrarse en gameplay extendido, duracion aproximada y posibles ediciones.",
-                                   "Para la web, Townfall permite reforzar la parte de actualidad PS5 con una noticia de alto interes para fans del horror. No es solo un trailer mas del evento: es una fecha cerrada para una marca con mucha traccion de busqueda."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Silent Hill",
-                                   "Terror",
-                                   "State of Play"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/",
-                      "detectedAt":  "2026-06-03T12:20:00+02:00",
-                      "publishedAt":  "2026-06-02T23:25:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/d86a7dc035f1d019e05b02b9af2c5946bf406659.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial de Silent Hill: Townfall para PS5",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/"
-                                }
-                  },
-                  {
-                      "id":  "tomb-raider-legacy-atlantis-ps5-fecha",
-                      "title":  "Tomb Raider: Legacy of Atlantis fija su lanzamiento en PS5 para febrero de 2027",
-                      "summary":  "Crystal Dynamics y PlayStation han detallado el lanzamiento de Tomb Raider: Legacy of Atlantis, previsto para el 12 de febrero de 2027 en PS5 con varias ediciones y nuevos datos de gameplay.",
-                      "body":  [
-                                   "Tomb Raider: Legacy of Atlantis sale reforzado del radar de PlayStation con una fecha concreta: el 12 de febrero de 2027 en PS5. El anuncio permite colocar la nueva aventura de Lara Croft dentro del calendario de grandes lanzamientos del proximo ano, con suficiente margen para que el juego vuelva a aparecer en proximos eventos.",
-                                   "La informacion publicada por PlayStation Blog no se limita a la fecha. Tambien presenta ediciones de lanzamiento, nuevos detalles de gameplay y el regreso de un personaje conocido, senales de que la comunicacion del juego entra ya en una fase mas comercial y menos teaser.",
-                                   "Para BluePoint, la clave esta en que Tomb Raider vuelve a funcionar como uno de esos nombres third party que pueden dar peso al catalogo de PS5 sin depender solo de los estudios internos de Sony. Es una pieza especialmente interesante para seguir reservas, ediciones y posibles nuevos trailers.",
-                                   "La cobertura debe mantenerse separada de los rumores: aqui hay fecha, plataforma y datos editoriales publicados por PlayStation. Lo que queda por vigilar es hasta que punto el nuevo enfoque jugable consigue diferenciar esta entrega dentro de una saga con mucha historia."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "Tomb Raider",
-                                   "State of Play",
-                                   "Lanzamientos"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/",
-                      "detectedAt":  "2026-06-03T12:20:00+02:00",
-                      "publishedAt":  "2026-06-02T23:30:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/6a39be082193611b90f2843a4e041336c8e8ee90.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial de Tomb Raider: Legacy of Atlantis para PS5",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/"
-                                }
-                  },
-                  {
-                      "id":  "marvel-tokon-magneto-green-goblin-carnage",
-                      "title":  "MARVEL Tokon suma a Magneto, Green Goblin y Carnage a su plantilla de lucha",
-                      "summary":  "Arc System Works y PlayStation han presentado a Magneto, Green Goblin y Carnage para MARVEL Tokon: Fighting Souls dentro del grupo conocido como Knights of Doom.",
-                      "body":  [
-                                   "MARVEL Tokon: Fighting Souls amplio su plantel con tres nombres capaces de mover conversacion por si solos: Magneto, Green Goblin y Carnage. PlayStation Blog los presenta bajo el paraguas de los Knights of Doom, reforzando el tono de amenaza del juego.",
-                                   "La eleccion de personajes es importante para un juego de lucha porque mezcla perfiles muy distintos. Magneto aporta control y presencia, Green Goblin introduce movilidad y caos, y Carnage permite imaginar un estilo mas agresivo y fisico.",
-                                   "El proyecto tiene un valor especial por estar en manos de Arc System Works, un estudio con prestigio dentro del genero. Eso ayuda a que la noticia no se lea solo como una licencia Marvel, sino como una propuesta que puede atraer tanto a fans de comics como a jugadores competitivos.",
-                                   "Para BluePoint, MARVEL Tokon merece seguimiento regular: cada personaje nuevo puede convertirse en pieza propia, con potencial para posts, encuestas y guias de estilo cuando se conozcan mas detalles jugables."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS5",
-                                   "MARVEL Tokon",
-                                   "Lucha",
-                                   "State of Play"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/02/magneto-green-goblin-carnage-announced-for-marvel-tokon-fighting-souls/",
-                      "detectedAt":  "2026-06-03T12:20:00+02:00",
-                      "publishedAt":  "2026-06-02T23:20:00+02:00",
-                      "confidence":  "Confirmado por PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/31a5732aab56e7daa6df29ce6b9ff971d48dad27.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial de MARVEL Tokon: Fighting Souls",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/magneto-green-goblin-carnage-announced-for-marvel-tokon-fighting-souls/"
-                                }
-                  },
-                  {
-                      "id":  "saros-criticas-metacritic-ps5",
-                      "title":  "Saros entra en seguimiento de criticas con una recepcion muy fuerte en Metacritic",
-                      "summary":  "El radar de BluePoint incorpora la pagina de criticas de Saros en Metacritic como indice de seguimiento, con medios como GameSpew, Player 2, PlayStation Universe, VGC, Eurogamer Germany y WellPlayed entre las fuentes a vigilar.",
-                      "body":  [
-                                   "Saros pasa a una nueva fase de seguimiento editorial: ya no basta con mirar la pagina oficial de PlayStation, tambien conviene observar la conversacion critica alrededor del juego. Metacritic funciona aqui como indice para localizar medios que han publicado valoraciones y analisis.",
-                                   "Entre las fuentes detectadas aparecen medios especializados como GameSpew, Loot Level Chill, Player 2, PlayStation Universe, VGC, Eurogamer Germany, WellPlayed, Region Free y GameOver.gr. La lectura correcta no es copiar notas, sino usarlas como senal para revisar argumentos, puntos fuertes y dudas compartidas.",
-                                   "Para BluePoint, esto abre dos lineas de contenido: una pieza de contexto sobre que esta valorando la critica en Saros y otra de seguimiento para fans de Housemarque, especialmente por la comparacion inevitable con Returnal.",
-                                   "La regla editorial sera clara: Metacritic sirve como mapa de fuentes, pero cada dato de review debe contrastarse con el medio original cuando se use para una noticia concreta. Asi evitamos titulares vacios y mantenemos la informacion fiel."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "Saros",
-                                   "Reviews",
-                                   "Metacritic",
-                                   "Housemarque",
-                                   "PS5",
-                                   "Exclusivos"
-                               ],
-                      "source":  "Metacritic / medios especializados",
-                      "url":  "https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5",
-                      "detectedAt":  "2026-06-03T12:20:00+02:00",
-                      "publishedAt":  "2026-06-03T12:20:00+02:00",
-                      "confidence":  "Seguimiento de criticas; usar Metacritic como indice y contrastar con cada medio",
-                      "image":  {
-                                    "url":  "https://gmedia.playstation.com/is/image/SIEPDC/saros-video-hero-mobile-thumb-01-en-23oct25?$1200px$",
-                                    "alt":  "Arte oficial de Saros para PS5",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation",
-                                    "sourceUrl":  "https://www.playstation.com/en-us/games/saros/"
-                                }
-                  },
-                  {
-                      "id":  "ps-plus-state-of-play-junio-catalogo-clasicos",
-                      "title":  "PS Plus gana peso tras el State of Play con nuevas llegadas al catalogo y clasicos",
-                      "summary":  "La cobertura del State of Play deja tambien movimiento para PS Plus, con nuevas incorporaciones al catalogo y al bloque de clasicos que refuerzan el servicio durante junio.",
-                      "body":  [
-                                   "El State of Play no solo dejo anuncios de juegos nuevos: tambien hubo movimiento para PS Plus. Ese punto es importante porque el servicio funciona como una segunda portada para PlayStation, capaz de traer jugadores de vuelta aunque no haya compra de lanzamiento.",
-                                   "La seleccion mencionada durante la cobertura del evento combina catalogo moderno y clasicos, una mezcla que ayuda a sostener tanto PS Plus Extra como Premium. Para los usuarios, el valor esta en tener novedades reconocibles y rescates historicos dentro del mismo mes.",
-                                   "Desde el punto de vista editorial, PS Plus debe tratarse como una seccion recurrente y no como una nota aislada. Cada tanda mensual puede generar guia rapida, recomendacion de que jugar primero y recordatorio de fechas de entrada o salida.",
-                                   "Para BluePoint, la lectura es sencilla: si PlayStation quiere mantener conversacion entre grandes lanzamientos, PS Plus es una de las mejores herramientas. Conviene vigilar cada anuncio oficial y transformarlo en piezas utiles para el lector."
-                               ],
-                      "category":  "PlayStation",
-                      "tags":  [
-                                   "PS Plus",
-                                   "PlayStation Plus",
-                                   "State of Play",
-                                   "PS5"
-                               ],
-                      "source":  "PlayStation Blog",
-                      "url":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
-                      "detectedAt":  "2026-06-03T12:20:00+02:00",
-                      "publishedAt":  "2026-06-02T23:10:00+02:00",
-                      "confidence":  "Resumen de anuncios del State of Play en PlayStation Blog",
-                      "image":  {
-                                    "url":  "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612\u0026crop_strategy=smart",
-                                    "alt":  "Imagen oficial del resumen del State of Play de junio",
-                                    "kind":  "photo",
-                                    "credit":  "PlayStation Blog",
-                                    "sourceUrl":  "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
-                                }
-                  }
-              ]
+    "updatedAt": "2026-06-15T21:10:00+02:00",
+    "items": [
+        {
+            "id": "god-of-war-laufey-primer-semestre-2027-rumor-junio-2026",
+            "title": "God of War Laufey apunta al primer semestre de 2027, pero hoy sigue siendo solo una ventana interna no confirmada",
+            "summary": "Push Square recoge una pista de NateTheHate2 que situa a God of War Laufey en la primera mitad de 2027, aunque sin fecha oficial cerrada por parte de Sony o Santa Monica Studio.",
+            "body": [
+                "El rumor mas util del dia para el radar first party de BluePoint no habla de una filtracion vaga, sino de una posible ventana interna para God of War Laufey. Push Square recoge una publicacion de NateTheHate2, insider que ya habia adelantado la existencia del juego antes de su anuncio oficial, y situa el objetivo en el primer semestre de 2027.",
+                "La parte importante es que el propio mensaje rebaja el tono de certeza. No se presenta como fecha cerrada ni como anuncio inminente, sino como el horizonte que Sony habria manejado en algun momento. Eso obliga a tratar la historia como rumor vigilable, nunca como confirmacion editorial.",
+                "Para BluePoint, la utilidad real esta en el contexto. Si esa ventana termina acercandose a la realidad, Santa Monica Studio y el bloque first party de 2027 empezarian a tomar una forma bastante clara junto a otros proyectos de PlayStation Studios. Si no, la ficha sigue siendo la misma: wishlist abierta, fecha por determinar y seguimiento prudente.",
+                "Fuente: Push Square, a partir de NateTheHate2 en X y la ficha oficial de PlayStation."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Rumores",
+                "PS5",
+                "PlayStation Studios",
+                "Exclusivos"
+            ],
+            "source": "Push Square / NateTheHate2 / PlayStation.com",
+            "url": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027",
+            "detectedAt": "2026-06-15T21:10:00+02:00",
+            "publishedAt": "2026-06-15T00:00:00+02:00",
+            "confidence": "Rumor con contexto: procede de NateTheHate2 y no tiene confirmacion oficial de Sony",
+            "image": {
+                "url": "https://images.pushsquare.com/d85d84829248d/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027-1.900x.jpg",
+                "alt": "Imagen de God of War Laufey para el rumor sobre su posible ventana de lanzamiento en PS5",
+                "kind": "photo",
+                "credit": "Push Square",
+                "sourceUrl": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027"
+            }
+        },
+        {
+            "id": "assassins-creed-shadows-final-update-domains-ps5-junio-2026",
+            "title": "Assassin's Creed Shadows cierra su hoja de ruta en PS5 con Domains y una ultima mision gratuita",
+            "summary": "PlayStation Blog confirma que la actualizacion final de Assassin's Creed Shadows llega el 16 de junio a PS5 con la actividad endgame Domains, una ultima mision de historia y conexiones narrativas con Assassin's Creed Black Flag Resynced.",
+            "body": [
+                "Assassin's Creed Shadows vuelve a entrar en el radar util de PS5 con una actualizacion final bastante mas sustancial de lo que parecia. PlayStation Blog adelanta que el parche se publica el 16 de junio y no se limita a un simple cierre de soporte: incluye una ultima mision para Naoe y Yasuke, una nueva capa endgame llamada Domains y varios ganchos pensados para jugadores que ya exprimieron sus builds.",
+                "La pieza nueva mas interesante es Domains, una actividad con cinco mapas y modificadores rotatorios que obliga a revisar equipo, estilo de combate y personaje. Ubisoft la vende como el examen final de los sistemas RPG de Shadows, con recompensas exclusivas que no se compran ni se consiguen fuera de este modo.",
+                "Para BluePoint, esta noticia funciona muy bien como mezcla de calendario y guia practica. No es solo una nota de parche: da una fecha inmediata para volver a un juego grande de PS5 y abre la puerta a contenidos de servicio rapido sobre que esperar del update y si compensa regresar al endgame.",
+                "Fuente: PlayStation Blog."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Calendario",
+                "Guias",
+                "Analisis"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/15/assassins-creed-shadows-final-update-features-animus-bending-endgame-content-domains/",
+            "detectedAt": "2026-06-15T21:10:00+02:00",
+            "publishedAt": "2026-06-15T00:00:00+02:00",
+            "confidence": "Actualizacion oficial confirmada por PlayStation Blog",
+            "image": {
+                "url": "https://i.ytimg.com/vi_webp/8rrKyVzfZYo/maxresdefault.webp",
+                "alt": "Imagen oficial de Assassin's Creed Shadows para la actualizacion final con Domains en PS5",
+                "kind": "photo",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/assassins-creed-shadows/"
+            }
+        },
+        {
+            "id": "ps5-firmware-26-04-13-40-00-junio-2026",
+            "title": "PS5 recibe el firmware 26.04-13.40.00 con un parche pequeno, pero ya disponible en despliegue gradual",
+            "summary": "Push Square detecta el despliegue del nuevo firmware 26.04-13.40.00 para PS5 y remite a las notas oficiales de PlayStation, que solo hablan de mejoras de rendimiento y estabilidad del sistema.",
+            "body": [
+                "Sony ya esta distribuyendo una nueva actualizacion de sistema para PS5 y, aunque no viene con funciones vistosas, si merece hueco en la cobertura de servicio de BluePoint. Push Square confirma el inicio del despliegue gradual y PlayStation mantiene la rutina oficial para instalarla desde el menu de System Software.",
+                "La version es la 26.04-13.40.00 y el resumen publico de Sony vuelve a ser minimalista: mejora de rendimiento y estabilidad. No hay una caracteristica nueva anunciada ni cambios visibles de interfaz, asi que conviene leerla como un parche de mantenimiento mas que como una gran revision del ecosistema PS5.",
+                "Aun asi, este tipo de actualizaciones siguen siendo utiles para el lector porque ordenan expectativas. Si alguien ve una descarga de mas de un giga en su consola, ya sabe que no se esta perdiendo una funcion escondida, sino una puesta a punto tecnica del sistema.",
+                "Fuente: Push Square y PlayStation Support."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Servicios",
+                "Guias"
+            ],
+            "source": "Push Square / PlayStation Support",
+            "url": "https://www.pushsquare.com/news/2026/06/ps5s-latest-firmware-update-rolling-out-now-heres-what-it-does",
+            "detectedAt": "2026-06-15T21:10:00+02:00",
+            "publishedAt": "2026-06-04T00:00:00+02:00",
+            "confidence": "Push Square enlaza las notas oficiales de PlayStation para un parche ya en despliegue",
+            "image": {
+                "url": "https://images.pushsquare.com/d910f56901c4f/ps5s-latest-firmware-update-rolling-out-now-heres-what-it-does-1.900x.jpg",
+                "alt": "Imagen de PS5 para la noticia del firmware 26.04-13.40.00",
+                "kind": "photo",
+                "credit": "Push Square",
+                "sourceUrl": "https://www.pushsquare.com/news/2026/06/ps5s-latest-firmware-update-rolling-out-now-heres-what-it-does"
+            }
+        },
+        {
+            "id": "destruction-allstars-cierre-servicios-noviembre-2026",
+            "title": "PlayStation fija el cierre total de Destruction AllStars para el 25 de noviembre y mantiene caido su multijugador",
+            "summary": "La pagina oficial de avisos importantes de PlayStation indica que Destruction AllStars ya no vende el juego ni su moneda virtual y apagará todos sus servicios restantes el 25 de noviembre de 2026.",
+            "body": [
+                "PlayStation ha dejado por escrito el final operativo de Destruction AllStars dentro de su pagina oficial de avisos importantes. La clave para BluePoint es muy concreta: el juego y los Destruction Points se retiraron de la venta el 26 de mayo de 2026, y el apagado completo del servicio queda fijado para el 25 de noviembre de 2026 a las 00:00 UTC.",
+                "La nota oficial tambien aclara que el multijugador en PS5 sigue fuera de servicio por problemas tecnicos continuados y ya no esta disponible. Eso convierte la situacion del juego en algo mas serio que una simple retirada comercial: hoy ya no funciona como servicio online activo dentro del ecosistema de PlayStation.",
+                "Lo unico que seguira en pie para quienes ya lo tengan es el acceso a los modos para un jugador hasta la fecha de cierre, y despues Arcade Mode para usuarios que regresen, aunque Sony avisa de que la experiencia puede verse afectada tras la desconexion de servidores. Tambien confirma que la moneda virtual que quede en cuentas actuales solo podra gastarse dentro de esos modos disponibles hasta el apagado.",
+                "Para BluePoint, esta pieza sirve tanto como noticia de servicio como para actualizar calendario y fichas de juegos de Sony en PS5. No mueve hype, pero si resuelve una duda practica para cualquiera que aun conserve el juego en su biblioteca."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Servicios",
+                "PlayStation Studios",
+                "Calendario"
+            ],
+            "source": "PlayStation Support",
+            "url": "https://www.playstation.com/en-us/support/important-notice/",
+            "detectedAt": "2026-06-15T13:30:00+02:00",
+            "publishedAt": "2026-06-15T13:30:00+02:00",
+            "confidence": "Aviso oficial de PlayStation sobre retirada y cierre de servicio",
+            "image": {
+                "url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0418/d2l5anfkYCPcdtYL8lhqhfOX.png",
+                "alt": "Imagen oficial de Destruction AllStars para la noticia de cierre de servicio en PS5",
+                "kind": "graphic",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/destruction-allstars/"
+            }
+        },
+        {
+            "id": "ps-store-mid-year-deals-junio-2026-ps5",
+            "title": "PS Store activa Mid-Year Deals con rebajas potentes para PS5 y una nueva ventana util hasta julio",
+            "summary": "La pagina oficial de Deals de PlayStation Store ya destaca Mid-Year Deals y Push Square resume una seleccion de compras recomendables dentro de una promocion que, segun su seguimiento, se extiende hasta el 1 de julio de 2026.",
+            "body": [
+                "PlayStation Store ya ha levantado su escaparate de Mid-Year Deals y eso le da a BluePoint una pieza clara de servicio para mitad de junio. La pagina oficial de Deals coloca la promocion como bloque principal y deja ver descuentos activos en juegos y ediciones de PS5 dentro del circuito habitual de rebajas digitales de Sony.",
+                "Entre los ejemplos visibles en la tienda aparecen nombres como ARC Raiders, REANIMAL, Mortal Kombat: Legacy Kollection o 7 Days to Die, mientras que Push Square ha publicado una guia paralela con compras recomendadas para no perderse entre miles de precios rebajados. Esa combinacion de fuente oficial mas curacion editorial encaja muy bien con el enfoque de ofertas y guias utiles que necesita BluePoint.",
+                "La lectura importante no es solo que haya descuentos, sino que vuelve a abrirse una ventana de conversion clara para PS5 justo despues de Days of Play. Si el usuario ha terminado de revisar PS Plus o las noticias del State of Play, este es el siguiente clic monetizable natural dentro del ecosistema PlayStation.",
+                "Conviene tratar Mid-Year Deals como radar vivo y no como una nota de un solo dia. Mientras la promocion siga visible, BluePoint puede extraer recomendaciones, picks por genero y comparativas de compra rapida sin salirse del foco PlayStation."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Ofertas",
+                "PS Store",
+                "PS5",
+                "Guias"
+            ],
+            "source": "PlayStation Store / Push Square",
+            "url": "https://store.playstation.com/pages/deals",
+            "detectedAt": "2026-06-15T13:30:00+02:00",
+            "publishedAt": "2026-06-10T12:30:00+02:00",
+            "confidence": "Promocion oficial visible en PS Store con contexto editorial de Push Square",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+                "alt": "Imagen editorial de un mando DualSense para la promocion Mid-Year Deals de PS Store",
+                "kind": "photo",
+                "credit": "Imagen editorial",
+                "sourceUrl": "https://store.playstation.com/pages/deals"
+            }
+        },
+        {
+            "id": "guia-ps5-semana-15-21-junio-2026-ps-plus-elliot-ufc6",
+            "title": "La semana de PS5 del 15 al 21 de junio se ordena entre PS Plus, UFC 6 y The Adventures of Elliot",
+            "summary": "Push Square y la pagina oficial This Month on PlayStation colocan a Final Fantasy XVI en PS Plus el 16 de junio y a The Adventures of Elliot junto a EA Sports UFC 6 como los movimientos mas visibles de la semana en PS5.",
+            "body": [
+                "La agenda inmediata de PlayStation ya se puede leer con bastante claridad para la semana del 15 al 21 de junio. Push Square ha resumido los lanzamientos y entradas de servicio mas visibles de estos dias, mientras que la pagina oficial This Month on PlayStation refuerza parte del mismo calendario con sus picks editoriales del mes.",
+                "El punto mas fuerte llega el 16 de junio con la activacion de Final Fantasy XVI en PS Plus Extra y Premium en mercados como Espana. A partir de ahi, el foco de estrenos se mueve hacia The Adventures of Elliot: The Millennium Tales el 18 de junio y EA Sports UFC 6 el 19, dos lanzamientos muy distintos pero con recorrido evidente para recomendaciones y guias rapidas.",
+                "La ventaja de esta pieza es que no depende de un gran showcase ni de un rumor: sirve para ordenar la semana real del usuario de PS5. Tambien ayuda a separar que merece clic por novedad de compra y que entra por valor de suscripcion, una distincion importante para el trafico util y para el radar de PS Plus.",
+                "Para BluePoint, esta es la clase de guia corta que complementa bien a las noticias duras. No inventa calendario, lo pone en limpio y lo vuelve accionable para quien quiera jugar algo nuevo en los proximos dias."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Guias",
+                "Calendario",
+                "PS5",
+                "PS Plus"
+            ],
+            "source": "Push Square / PlayStation.com",
+            "url": "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june",
+            "detectedAt": "2026-06-15T13:30:00+02:00",
+            "publishedAt": "2026-06-13T12:00:00+02:00",
+            "confidence": "Guia editorial apoyada por el calendario oficial This Month on PlayStation",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&w=1200&q=82",
+                "alt": "Imagen editorial de un mando para la guia semanal de PS5 y PS Plus de junio de 2026",
+                "kind": "photo",
+                "credit": "Imagen editorial",
+                "sourceUrl": "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june"
+            }
+        },
+        {
+            "id": "tomb-raider-legacy-of-atlantis-hands-on-junio-2026",
+            "title": "Tomb Raider: Legacy of Atlantis deja buenas sensaciones en su primer hands-on oficial para PS5",
+            "summary": "PlayStation Blog publica un avance practico del nuevo Tomb Raider y destaca un equilibrio entre exploracion clasica, puzles y ajustes modernos antes de su lanzamiento en PS5 el 12 de febrero de 2027.",
+            "body": [
+                "PlayStation ha reforzado el seguimiento de Tomb Raider: Legacy of Atlantis con un hands-on oficial publicado tras Summer Game Fest 2026. El avance no cambia la fecha ya conocida del 12 de febrero de 2027, pero si aporta algo mas util para BluePoint: contexto real sobre como se esta jugando en PS5.",
+                "Segun el texto de PlayStation Blog, la demo recorrida se centra en Lost Valley, en Peru, y pone el foco en exploracion, rutas secundarias y una nueva version del puzle de engranajes de la cascada. La lectura importante es que Crystal Dynamics y Flying Wild Hog quieren recuperar el sabor clasico de Lara Croft sin renunciar a ayudas opcionales y ajustes separados para combate y puzles.",
+                "Eso convierte a Legacy of Atlantis en un juego que no solo vive de la nostalgia o del nombre. El discurso oficial intenta vender una aventura mas abierta a distintos perfiles de jugador, algo que puede ayudar a que el regreso funcione mejor entre veteranos y publico nuevo de PS5.",
+                "Para BluePoint, esta pieza sirve para mantener vivo el seguimiento del juego sin caer en un simple recordatorio de fecha. Hay material para noticia, calendario y futuras guias si PlayStation sigue soltando nuevos avances practicos durante verano."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Tomb Raider",
+                "Analisis",
+                "Calendario"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/",
+            "detectedAt": "2026-06-12T12:15:00+02:00",
+            "publishedAt": "2026-06-11T00:00:00+02:00",
+            "confidence": "Avance oficial publicado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2028/06/844c12577f9b2b130f1a25b68c1174c06636bc5a-scaled.jpg",
+                "alt": "Imagen oficial del hands-on de Tomb Raider: Legacy of Atlantis para PS5",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/11/tomb-raider-legacy-of-atlantis-hands-on-report/"
+            }
+        },
+        {
+            "id": "ps-plus-catalogo-junio-2026-final-fantasy-xvi-sonic-shadow",
+            "title": "PS Plus refuerza junio con Final Fantasy XVI, Sonic X Shadow Generations y mas catalogo para PS5",
+            "summary": "PlayStation Blog confirma la tanda de junio para PS Plus Extra y Premium, con Final Fantasy XVI disponible globalmente el 16 de junio y nuevas fechas escalonadas para Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure y otros juegos.",
+            "body": [
+                "PlayStation ya ha detallado el Game Catalog de junio para PS Plus Extra y Premium, y esta vez la pieza fuerte es muy clara: Final Fantasy XVI entra en el servicio el 16 de junio a nivel global. Es una incorporacion con peso real para PS5 porque no se trata solo de volumen, sino de una licencia grande que puede reactivar suscripciones y busquedas.",
+                "La lista oficial tambien mete Sonic X Shadow Generations, Kingdom Come: Deliverance, Life is Strange: Double Exposure, Farming Simulator 25, Blades of Fire y Black Desert, mientras que Premium suma Gitaroo Man. Sony ademas esta probando un despliegue por fechas en algunos mercados, con el grueso del catalogo completo disponible el 16 de junio en territorios como Espana.",
+                "Para BluePoint, la noticia no debe quedarse en una enumeracion. Hay varios angulos utiles: que juego probar primero si juegas en PS5, cuales son los nombres con mas tiron comercial y que entradas merecen hueco en calendario para no perder el pico de interes del dia 16 y del dia 23.",
+                "Tambien es una actualizacion importante para la capa de servicio de la web. PS Plus sigue siendo una de las mejores puertas de entrada para contenido recurrente, guias rapidas y posts de X con fecha clara de utilidad."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS Plus",
+                "PS5",
+                "Servicios",
+                "Calendario"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/",
+            "detectedAt": "2026-06-12T12:15:00+02:00",
+            "publishedAt": "2026-06-10T00:00:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/17e388f35e19282ef852a9221ffd1b75764eb79d.jpg",
+                "alt": "Imagen oficial del catalogo de PS Plus de junio de 2026",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/10/playstation-plus-game-catalog-for-june-final-fantasy-xvi-sonic-x-shadow-generations-kingdom-come-deliverance-and-more/"
+            }
+        },
+        {
+            "id": "gran-turismo-7-update-1-70-hypercars-le-mans",
+            "title": "Gran Turismo 7 recibe la actualizacion 1.70 con hypercars de Le Mans y nuevos eventos",
+            "summary": "PlayStation Blog confirma la actualizacion gratuita 1.70 de Gran Turismo 7 con Ferrari 499P, Porsche 963, BMW M Hybrid V8, Peugeot 9X8, Porsche 911 Turbo S Safety Car, un nuevo menu y cinco eventos adicionales en World Circuits.",
+            "body": [
+                "Gran Turismo 7 vuelve a entrar en el radar de actualidad de PlayStation con la actualizacion gratuita 1.70. Sony la ha ligado al arranque de las 24 Horas de Le Mans y la ha planteado como una puesta al dia especialmente atractiva para jugadores de PS5 que siguen el juego como servicio activo.",
+                "La novedad central es la llegada de varios hypercars modernos de resistencia: Ferrari 499P, Porsche 963, BMW M Hybrid V8 y Peugeot 9X8, junto al Porsche 911 Turbo S Safety Car. A eso se suman un nuevo menu y cinco pruebas extra de World Circuits, incluido el circuito de Le Mans.",
+                "La lectura util para BluePoint es que Gran Turismo 7 sigue generando noticias propias sin necesidad de una expansion de pago. Polyphony mantiene vivo uno de los grandes catalogos first party de Sony con contenido recurrente y eso encaja muy bien en la mezcla de servicio, calendario y guias practicas.",
+                "No es una nota menor: cuando PlayStation actualiza GT7 con contenido reconocible y gratuito, el juego recupera traccion de busqueda. Conviene tratarlo como una pieza viva del ecosistema PS5 y no como un exclusivo ya archivado."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Gran Turismo 7",
+                "PlayStation Studios",
+                "Calendario"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/",
+            "detectedAt": "2026-06-12T12:15:00+02:00",
+            "publishedAt": "2026-06-10T00:00:00+02:00",
+            "confidence": "Actualizacion oficial confirmada por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2028/06/c2d30e71a81fe0269fe38091d0520ca2d64d2aad.jpg",
+                "alt": "Imagen oficial de la actualizacion 1.70 de Gran Turismo 7",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/10/gran-turismo-7-free-update-1-70-choose-your-le-mans-hypercar/"
+            }
+        },
+        {
+            "id": "summer-game-fest-2026-hands-on-11-juegos-ps5",
+            "title": "Summer Game Fest deja un segundo bloque util para PS5 con hands-on y detalles extra de 11 juegos",
+            "summary": "PlayStation Blog amplia su cobertura de Summer Game Fest con impresiones y detalles de 11 juegos de PS5, entre ellos Control Resonant, Onimusha: Way of the Sword, Alien: Isolation 2 y gen Atlas.",
+            "body": [
+                "PlayStation no se quedo solo con el resumen de anuncios de Summer Game Fest. Un segundo articulo oficial publicado en PlayStation Blog amplia el valor editorial del evento con impresiones y detalles concretos de once juegos vistos o probados durante SGF Play Days.",
+                "La pieza ayuda a dar cuerpo a varios nombres que ya estaban en el calendario, como Control Resonant y Onimusha: Way of the Sword, y tambien a separar mejor que proyectos merecen seguimiento intenso aunque todavia no tengan fecha cerrada. En ese grupo entran ejemplos como Alien: Isolation 2 o gen Atlas.",
+                "Para BluePoint, el articulo es especialmente util porque baja el ruido del evento a informacion mas accionable. No es solo una lista de trailers: hay sensaciones de juego, tono, expectativas y foco editorial para decidir que titulos pueden sostener cobertura propia en las proximas semanas.",
+                "Tambien refuerza una idea importante para la marca PlayStation en junio: Sony esta intentando convertir cada bloque de anuncios en una conversacion mas larga, con calendario primero y contexto practico despues. Ese segundo paso suele rendir mejor que una noticia generica de showcase."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Analisis",
+                "Calendario",
+                "Summer Game Fest"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/",
+            "detectedAt": "2026-06-12T12:15:00+02:00",
+            "publishedAt": "2026-06-08T00:00:00+02:00",
+            "confidence": "Cobertura oficial ampliada por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/affaee4dedbc2a1a78370990dd928142e0f92123.jpg",
+                "alt": "Imagen oficial del hands-on de Summer Game Fest 2026 con juegos de PS5",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/08/summer-game-fest-2026-hands-on-and-more-details-on-11-upcoming-ps5-games/"
+            }
+        },
+        {
+            "id": "marvel-wolverine-state-of-play-gameplay-septiembre-2026",
+            "title": "Marvel's Wolverine se coloca como gran ancla first party de PS5 tras el State of Play",
+            "summary": "PlayStation Blog y la cobertura posterior del State of Play destacan nuevo gameplay, detalles de historia y lanzamiento de Marvel's Wolverine para el 15 de septiembre de 2026 en PS5.",
+            "body": [
+                "Marvel's Wolverine sale del ultimo State of Play como la pieza mas importante del calendario first party inmediato de PlayStation. La presentacion dejo nuevo gameplay, detalles de historia y una fecha clave para el radar: 15 de septiembre de 2026 en PS5.",
+                "La lectura editorial no esta solo en la fecha. Insomniac vuelve a cargar con el papel de estudio que sostiene grandes momentos de marca para PlayStation, esta vez con un juego de accion centrado en combate fisico, violencia directa y una identidad mas dura que Spider-Man.",
+                "Para BluePoint, Wolverine debe funcionar como hub recurrente: trailers, personajes, reservas, ediciones, posibles previews y comparativas con otros exclusivos de PS5. Es una noticia confirmada, no un rumor, y por eso debe ocupar portada.",
+                "La oportunidad de trafico esta en seguir cada nuevo material oficial sin dispersar la cobertura. Cada pieza que Sony publique hasta septiembre puede alimentar noticia, post de X, newsletter y calendario."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Marvel's Wolverine",
+                "Insomniac",
+                "PS5",
+                "Exclusivos",
+                "State of Play"
+            ],
+            "source": "PlayStation Blog / GamesRadar+",
+            "url": "https://blog.latam.playstation.com/2026/06/02/marvels-wolverine-nuevos-detalles-de-la-jugabilidad-y-de-la-historia-anunciados-en-state-of-play/",
+            "detectedAt": "2026-06-05T00:35:00+02:00",
+            "publishedAt": "2026-06-05T00:20:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog tras State of Play",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial del State of Play con Marvel's Wolverine",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            },
+            "pinned": true
+        },
+        {
+            "id": "state-of-play-junio-2026-lineup-riesgo-estetico-ps5",
+            "title": "El State of Play refuerza la idea de una PS5 con catalogo mas arriesgado y reconocible",
+            "summary": "La cobertura posterior al evento lee el State of Play como una respuesta a las dudas sobre el calendario de PS5: Wolverine, God of War Laufey, Silent Hill, Tomb Raider, Kemuri y otros nombres dibujan una linea mas variada.",
+            "body": [
+                "El State of Play de junio no solo fue una lista de trailers. La lectura de fondo es que PlayStation intenta recuperar pulso con una mezcla de grandes marcas, terror, accion estilizada, regresos y nuevas IP con identidad visual fuerte.",
+                "Creative Bloq resume bien la sensacion: frente al ruido sobre PS6 y las dudas sobre el calendario, Sony enseno una PS5 que todavia tiene recorrido. Nombres como Marvel's Wolverine, God of War Laufey, Kemuri, Silent Hill: Townfall y Tomb Raider apuntan a una estrategia mas variada.",
+                "Para BluePoint, esa lectura ayuda a ordenar la cobertura. Hay que separar los anuncios confirmados, los juegos con fecha y los proyectos que solo necesitan seguimiento porque aun no tienen ventana clara.",
+                "La prioridad editorial pasa a ser convertir el evento en piezas utiles: calendario, trailers oficiales, fichas de juego, posts para X y rumorometro para lo que quedo fuera."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "State of Play",
+                "PS5",
+                "PlayStation Studios",
+                "Marvel's Wolverine",
+                "Silent Hill"
+            ],
+            "source": "PlayStation Blog / Creative Bloq",
+            "url": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
+            "detectedAt": "2026-06-05T00:35:00+02:00",
+            "publishedAt": "2026-06-05T00:15:00+02:00",
+            "confidence": "Resumen oficial y lectura editorial externa",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial del resumen de State of Play de junio de 2026",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            }
+        },
+        {
+            "id": "summer-game-fest-2026-16-juegos-ps5-playstation-blog",
+            "title": "Summer Game Fest deja otro empujon al calendario de PS5 con fechas, nuevas IP y un extra para PS Plus",
+            "summary": "PlayStation Blog resume 16 anuncios de Summer Game Fest para PS5 y deja varias claves utiles para BluePoint: Assassin's Creed Black Flag Resynced el 9 de julio, RuneScape: Dragonwilds el 15 de septiembre con llegada day one a PS Plus Extra/Premium, y nuevas ventanas para Control Resonant, Star Wars: Galactic Racer y mas.",
+            "body": [
+                "PlayStation ha usado su repaso oficial de Summer Game Fest 2026 para ordenar parte del ruido posterior al evento y convertirlo en fechas concretas para usuarios de PS5. El resumen de PlayStation Blog no se limita a enumerar trailers: sirve para fijar varios hitos del calendario que BluePoint debe seguir de cerca durante junio y verano.",
+                "Entre los movimientos mas claros estan Assassin's Creed Black Flag Resynced para el 9 de julio, Control Resonant para el 24 de septiembre, The Blood of Dawnwalker para el 3 de septiembre y Star Wars: Galactic Racer para el 6 de octubre. Tambien aparece RuneScape: Dragonwilds con fecha del 15 de septiembre y un detalle de servicio especialmente util: llegara directamente a PS Plus Extra y Premium.",
+                "La pieza tambien abre radar para proyectos sin fecha cerrada pero con peso propio en PlayStation, como gen Atlas del estudio genDesign, Guild Wars 3 en su primer salto a consolas domesticas, Crossfire de That's No Moon o Resident Evil Veronica para 2027. No todo entra en la misma prioridad editorial, pero si ayuda a separar lanzamientos cercanos de anuncios que solo necesitan vigilancia.",
+                "Para BluePoint, la lectura util es doble. Por un lado, hay material para reforzar calendario y fichas de juegos. Por otro, PS Plus gana una bala extra con Dragonwilds, un angulo que mezcla actualidad de lanzamientos con servicio y puede rendir mejor que una noticia generica de evento."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Calendario",
+                "PS Plus",
+                "Summer Game Fest",
+                "Control Resonant",
+                "RuneScape Dragonwilds"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/",
+            "detectedAt": "2026-06-07T09:20:00+02:00",
+            "publishedAt": "2026-06-05T00:00:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/e73c791cbc8ca83b7612cbbb0b98efa371029277.jpg",
+                "alt": "Imagen oficial del resumen de Summer Game Fest 2026 con juegos de PS5",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/05/summer-game-fest-2026-highlights-16-games-coming-to-ps5/"
+            }
+        },
+        {
+            "id": "ps-plus-junio-2026-grounded-darktide-nickelodeon-live",
+            "title": "PS Plus de junio ya esta activo con Grounded, Darktide y Nickelodeon All-Star Brawl 2",
+            "summary": "Los juegos mensuales de PlayStation Plus para junio estan disponibles del 2 de junio al 6 de julio, con EA Sports FC 26 extendido hasta el 16 de junio.",
+            "body": [
+                "La seleccion mensual de PlayStation Plus para junio ya esta activa. PlayStation Blog confirma Grounded Fully Yoked Edition, Nickelodeon All-Star Brawl 2 y Warhammer 40,000: Darktide como los tres juegos principales disponibles del 2 de junio al 6 de julio.",
+                "La tanda tiene una lectura clara: mucho componente multijugador. Grounded aporta supervivencia cooperativa, Darktide lleva accion por escuadras al universo Warhammer 40K y Nickelodeon All-Star Brawl 2 cubre la parte de lucha arcade.",
+                "Ademas, EA Sports FC 26 se mantiene como juego mensual hasta el 16 de junio, un detalle importante para recordatorios de X y newsletter porque tiene una fecha de salida distinta al resto.",
+                "Para la web, PS Plus necesita seguimiento recurrente: que jugar primero, que juego encaja con cada perfil y cuando reclamar cada titulo antes de que rote la seleccion."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS Plus",
+                "PlayStation Plus",
+                "Grounded",
+                "Darktide",
+                "Nickelodeon",
+                "Servicios"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/",
+            "detectedAt": "2026-06-05T00:35:00+02:00",
+            "publishedAt": "2026-06-05T00:10:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/05/7ceda89d7b005abcfaafbf018adca62bd6beb679-scaled.jpg?crop_strategy=smart&resize=1088%2C612",
+                "alt": "Imagen oficial de PS Plus junio 2026",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/05/26/playstation-plus-monthly-games-for-june-grounded-fully-yoked-edition-nickelodeon-all-star-brawl-2-warhammer-40000-darktide/"
+            }
+        },
+        {
+            "id": "xbox-pc-state-of-play-junio-2026-ps5-multiplataforma",
+            "title": "El State of Play tambien deja una lectura multiplataforma importante para PS5",
+            "summary": "Windows Central destaca que varios juegos vistos en el evento de Sony tambien llegaran a Xbox o PC, pero para BluePoint la clave es como refuerzan el calendario de PS5.",
+            "body": [
+                "El State of Play tuvo mucho peso PlayStation, pero tambien dejo una lectura de industria: varios juegos mostrados durante el evento llegaran a Xbox, PC o Game Pass ademas de PS5. Windows Central lo subraya al repasar los anuncios que no quedaron eclipsados por Wolverine.",
+                "Para BluePoint, esa informacion no resta valor a PS5. Al contrario: ayuda a distinguir que juegos funcionan como exclusivos de marca, cuales son acuerdos de presencia fuerte en PlayStation y cuales son piezas multiplataforma que igualmente alimentan el calendario de la consola.",
+                "Onimusha: Way of the Sword, Dune Awakening, No Rest for the Wicked y otros nombres pueden mover busquedas aunque no sean exclusivos. La clave editorial es no venderlos como first party y situarlos bien en calendario.",
+                "Esta lectura tambien sirve para posts de X: PlayStation no vive solo de exclusivos puros, sino de ser una de las plataformas donde se concentra la conversacion de grandes lanzamientos."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "State of Play",
+                "Multiplataforma",
+                "Calendario",
+                "Industria"
+            ],
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/gaming/every-xbox-and-pc-game-at-sony-june-2026-state-of-play",
+            "detectedAt": "2026-06-05T00:35:00+02:00",
+            "publishedAt": "2026-06-05T00:05:00+02:00",
+            "confidence": "Lectura editorial basada en cobertura especializada",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial del State of Play de junio",
+                "kind": "graphic",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            }
+        },
+        {
+            "id": "rumor-break-in-fairgames-haven-radar-junio-2026",
+            "title": "Break In y Fairgames entran en el radar de rumores de PlayStation Studios",
+            "summary": "El rumor sobre Break In como posible rebranding o movimiento conectado con Fairgames merece seguimiento, pero no debe tratarse como confirmacion de Sony ni de Haven.",
+            "body": [
+                "Break In vuelve a aparecer en el radar de rumores de PlayStation por su posible relacion con Fairgames y Haven. La lectura correcta es prudente: una marca, nombre o pista comercial no equivale a anuncio oficial.",
+                "El interes existe porque Fairgames es una de las carpetas mas delicadas de PlayStation Studios. Si Sony decide cambiar nombre, enfoque o comunicacion, podria ser una senal importante sobre como quiere reposicionar el proyecto.",
+                "Para BluePoint, este tipo de rumor debe vivir en el rumorometro y no en portada como confirmacion. Conviene seguir a insiders y medios, pero separando fuente, contexto y probabilidad.",
+                "La conclusion editorial es clara: Break In merece vigilancia, no titular rotundo. Hasta que Sony o Haven hablen, es una pista de seguimiento."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Rumores",
+                "Fairgames",
+                "Break In",
+                "Haven",
+                "PlayStation Studios"
+            ],
+            "source": "Radar BluePoint / Toms Guide",
+            "url": "https://www.tomsguide.com/news/live/ps5-state-of-play-june-2026-live-updates",
+            "detectedAt": "2026-06-05T00:35:00+02:00",
+            "publishedAt": "2026-06-05T00:00:00+02:00",
+            "confidence": "Rumor sin confirmacion oficial; seguimiento prudente",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+                "alt": "Mando DualSense para radar de rumores PlayStation",
+                "kind": "photo",
+                "credit": "Imagen editorial",
+                "sourceUrl": "https://unsplash.com/"
+            }
+        },
+        {
+            "id": "ps-store-mayo-2026-top-descargas-007-first-light",
+            "title": "007 First Light domina las descargas de PS5 en mayo en PS Store",
+            "summary": "PlayStation Blog publica el ranking de mayo de PS Store: 007 First Light lidera tanto en Estados Unidos/Canada como en Europa, mientras I Am Cat encabeza PS VR2.",
+            "body": [
+                "El ranking de descargas de mayo en PlayStation Store deja una senal clara: 007 First Light ha convertido su impulso comercial en liderato digital. Segun PlayStation Blog, el juego aparece en el primer puesto de PS5 tanto en Estados Unidos/Canada como en Europa, por delante de otros nombres de alto reconocimiento.",
+                "La lista tambien muestra una fotografia interesante del catalogo actual. En PS5 conviven novedades, juegos recurrentes y titulos con recorrido largo como Grand Theft Auto V, Minecraft, Call of Duty: Black Ops 7, Saros, Crimson Desert, Sea of Thieves o Forza Horizon 5, lo que confirma que la tienda no se mueve solo por estrenos recientes.",
+                "Para BluePoint, este tipo de ranking es util porque ayuda a separar ruido de traccion real. Un juego puede protagonizar conversacion durante dias, pero aparecer arriba en descargas indica compra o interes directo del usuario, una metrica especialmente valiosa para decidir que juegos seguir con mas atencion.",
+                "El dato de PS VR2 tambien merece vigilancia: I Am Cat lidera el ranking del visor, una posicion llamativa porque senala que las propuestas de realidad virtual con concepto claro pueden encontrar espacio incluso fuera de las grandes licencias."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS Store",
+                "PS5",
+                "007 First Light",
+                "Top descargas",
+                "Saros"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/",
+            "detectedAt": "2026-06-04T12:40:00+02:00",
+            "publishedAt": "2026-06-03T18:00:00+02:00",
+            "confidence": "Ranking oficial de PlayStation Blog",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
+                "alt": "Mando DualSense sobre una superficie iluminada para noticia de PS Store",
+                "kind": "photo",
+                "credit": "Imagen editorial",
+                "sourceUrl": "https://blog.playstation.com/2026/06/03/playstation-store-may-2026s-top-downloads/"
+            }
+        },
+        {
+            "id": "days-of-play-2026-ofertas-tramo-final",
+            "title": "Days of Play encara su tramo final con descuentos en PS Plus, PS VR2 y accesorios",
+            "summary": "La promocion oficial de PlayStation sigue activa hasta el 10 de junio con ofertas en juegos, accesorios, PS Plus y ventajas adicionales para miembros del servicio.",
+            "body": [
+                "Days of Play 2026 entra en sus dias mas importantes para cualquier radar de ofertas. PlayStation Blog recuerda que la campana comenzo el 27 de mayo y se mantiene activa hasta el 10 de junio, con promociones repartidas entre PlayStation Store, PlayStation Direct y comercios participantes.",
+                "La parte mas monetizable para BluePoint esta en hardware y accesorios: PlayStation senala descuentos en PS VR2, Pulse Explore, Pulse Elite, DualSense Edge, Access Controller y mandos DualSense. Ademas, menciona rebajas en juegos de PS5 como Ghost of Yotei, Helldivers 2, Death Stranding 2 y The Last of Us Part II Remastered.",
+                "PS Plus tambien queda en el centro de la campana. Los usuarios de paises participantes pueden encontrar descuentos de hasta el 33% al unirse o al actualizar a planes superiores, una oportunidad especialmente buena para crear contenido de guia: que plan elegir, cuando compensa Premium y que juegos justifican la subida.",
+                "La lectura editorial es sencilla: Days of Play no debe vivir solo como noticia puntual, sino como una seccion temporal de compra inteligente. Hasta el 10 de junio conviene empujar el radar de ofertas y enlazar noticias, guias y comparativas relacionadas."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Days of Play",
+                "Ofertas",
+                "PS Plus",
+                "PS VR2",
+                "DualSense"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/",
+            "detectedAt": "2026-06-04T12:40:00+02:00",
+            "publishedAt": "2026-06-04T12:40:00+02:00",
+            "confidence": "Promocion oficial de PlayStation",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?auto=format&fit=crop&w=1200&q=82",
+                "alt": "Mando de videojuego iluminado para radar de ofertas PlayStation",
+                "kind": "photo",
+                "credit": "Imagen editorial",
+                "sourceUrl": "https://blog.playstation.com/2026/05/26/days-of-play-2026-begins-may-27/"
+            }
+        },
+        {
+            "id": "state-of-play-junio-2026-calendario-ps5-confirmado",
+            "title": "El State of Play deja un calendario PS5 cargado para septiembre y octubre",
+            "summary": "El resumen oficial de PlayStation Blog y la cobertura especializada consolidan varias fechas: Control Resonant y Silent Hill: Townfall el 24 de septiembre, Onimusha el 25 y Ace Combat 8 el 2 de octubre.",
+            "body": [
+                "La resaca del State of Play ya permite ordenar mejor el calendario de PS5. PlayStation Blog reunio los anuncios y trailers del evento, y la lectura principal es que septiembre y octubre pasan a ser meses especialmente densos para el usuario de PlayStation.",
+                "Entre las fechas ya fijadas destacan Control Resonant y Silent Hill: Townfall para el 24 de septiembre, Onimusha: Way of the Sword para el 25 de septiembre y Ace Combat 8: Wings of Theve para el 2 de octubre. A eso se suman movimientos como Dune: Awakening, No Rest for the Wicked, Phantom Blade Zero y otros anuncios que amplian la agenda.",
+                "El valor para BluePoint esta en convertir esa lista en seguimiento vivo. No basta con publicar una noticia de evento: cada fecha debe alimentar calendario, trailers, posts en X, recordatorios de reserva y posibles guias cuando se acerque el lanzamiento.",
+                "La conclusion es clara: PlayStation ha usado el State of Play para llenar huecos del segundo semestre. El radar debe revisar cambios de fecha y nuevos materiales de cada juego, porque cualquier trailer adicional puede reactivar busquedas y conversacion."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "State of Play",
+                "PS5",
+                "Calendario",
+                "Silent Hill",
+                "Onimusha",
+                "Ace Combat"
+            ],
+            "source": "PlayStation Blog / PlayStation LifeStyle",
+            "url": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
+            "detectedAt": "2026-06-04T12:40:00+02:00",
+            "publishedAt": "2026-06-04T12:30:00+02:00",
+            "confidence": "Fechas confirmadas por fuentes oficiales y seguimiento editorial",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial del resumen de State of Play de junio de 2026",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            }
+        },
+        {
+            "id": "silent-hill-townfall-ps5-septiembre",
+            "title": "Silent Hill: Townfall llegara a PS5 el 24 de septiembre con puzzles narrativos y terror psicologico",
+            "summary": "PlayStation Blog confirma que Silent Hill: Townfall se lanzara el 24 de septiembre en PS5, con reservas abiertas y detalles sobre narrativa, personajes y funciones de la consola.",
+            "body": [
+                "Silent Hill: Townfall ya tiene fecha para PS5: 24 de septiembre. La noticia es relevante porque convierte uno de los proyectos mas misteriosos de la saga en una pieza concreta del calendario de terror para PlayStation.",
+                "La descripcion oficial pone el foco en puzzles narrativos, personajes y un tratamiento mas psicologico que puramente de accion. Esa orientacion encaja con una rama de Silent Hill que suele funcionar mejor cuando juega con la interpretacion, la incomodidad y las decisiones del jugador.",
+                "PlayStation Blog tambien senala que las reservas ya estan activas y menciona caracteristicas de PS5, lo que indica que el juego entra en fase de empuje comercial. A partir de ahora, el seguimiento deberia centrarse en gameplay extendido, duracion aproximada y posibles ediciones.",
+                "Para la web, Townfall permite reforzar la parte de actualidad PS5 con una noticia de alto interes para fans del horror. No es solo un trailer mas del evento: es una fecha cerrada para una marca con mucha traccion de busqueda."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Silent Hill",
+                "Terror",
+                "State of Play"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/",
+            "detectedAt": "2026-06-03T12:20:00+02:00",
+            "publishedAt": "2026-06-02T23:25:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/d86a7dc035f1d019e05b02b9af2c5946bf406659.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial de Silent Hill: Townfall para PS5",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/silent-hill-townfall-launches-september-24-on-ps5/"
+            }
+        },
+        {
+            "id": "tomb-raider-legacy-atlantis-ps5-fecha",
+            "title": "Tomb Raider: Legacy of Atlantis fija su lanzamiento en PS5 para febrero de 2027",
+            "summary": "Crystal Dynamics y PlayStation han detallado el lanzamiento de Tomb Raider: Legacy of Atlantis, previsto para el 12 de febrero de 2027 en PS5 con varias ediciones y nuevos datos de gameplay.",
+            "body": [
+                "Tomb Raider: Legacy of Atlantis sale reforzado del radar de PlayStation con una fecha concreta: el 12 de febrero de 2027 en PS5. El anuncio permite colocar la nueva aventura de Lara Croft dentro del calendario de grandes lanzamientos del proximo ano, con suficiente margen para que el juego vuelva a aparecer en proximos eventos.",
+                "La informacion publicada por PlayStation Blog no se limita a la fecha. Tambien presenta ediciones de lanzamiento, nuevos detalles de gameplay y el regreso de un personaje conocido, senales de que la comunicacion del juego entra ya en una fase mas comercial y menos teaser.",
+                "Para BluePoint, la clave esta en que Tomb Raider vuelve a funcionar como uno de esos nombres third party que pueden dar peso al catalogo de PS5 sin depender solo de los estudios internos de Sony. Es una pieza especialmente interesante para seguir reservas, ediciones y posibles nuevos trailers.",
+                "La cobertura debe mantenerse separada de los rumores: aqui hay fecha, plataforma y datos editoriales publicados por PlayStation. Lo que queda por vigilar es hasta que punto el nuevo enfoque jugable consigue diferenciar esta entrega dentro de una saga con mucha historia."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Tomb Raider",
+                "State of Play",
+                "Lanzamientos"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/",
+            "detectedAt": "2026-06-03T12:20:00+02:00",
+            "publishedAt": "2026-06-02T23:30:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/6a39be082193611b90f2843a4e041336c8e8ee90.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial de Tomb Raider: Legacy of Atlantis para PS5",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/"
+            }
+        },
+        {
+            "id": "marvel-tokon-magneto-green-goblin-carnage",
+            "title": "MARVEL Tokon suma a Magneto, Green Goblin y Carnage a su plantilla de lucha",
+            "summary": "Arc System Works y PlayStation han presentado a Magneto, Green Goblin y Carnage para MARVEL Tokon: Fighting Souls dentro del grupo conocido como Knights of Doom.",
+            "body": [
+                "MARVEL Tokon: Fighting Souls amplio su plantel con tres nombres capaces de mover conversacion por si solos: Magneto, Green Goblin y Carnage. PlayStation Blog los presenta bajo el paraguas de los Knights of Doom, reforzando el tono de amenaza del juego.",
+                "La eleccion de personajes es importante para un juego de lucha porque mezcla perfiles muy distintos. Magneto aporta control y presencia, Green Goblin introduce movilidad y caos, y Carnage permite imaginar un estilo mas agresivo y fisico.",
+                "El proyecto tiene un valor especial por estar en manos de Arc System Works, un estudio con prestigio dentro del genero. Eso ayuda a que la noticia no se lea solo como una licencia Marvel, sino como una propuesta que puede atraer tanto a fans de comics como a jugadores competitivos.",
+                "Para BluePoint, MARVEL Tokon merece seguimiento regular: cada personaje nuevo puede convertirse en pieza propia, con potencial para posts, encuestas y guias de estilo cuando se conozcan mas detalles jugables."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "MARVEL Tokon",
+                "Lucha",
+                "State of Play"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/02/magneto-green-goblin-carnage-announced-for-marvel-tokon-fighting-souls/",
+            "detectedAt": "2026-06-03T12:20:00+02:00",
+            "publishedAt": "2026-06-02T23:20:00+02:00",
+            "confidence": "Confirmado por PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/31a5732aab56e7daa6df29ce6b9ff971d48dad27.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial de MARVEL Tokon: Fighting Souls",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/magneto-green-goblin-carnage-announced-for-marvel-tokon-fighting-souls/"
+            }
+        },
+        {
+            "id": "saros-criticas-metacritic-ps5",
+            "title": "Saros entra en seguimiento de criticas con una recepcion muy fuerte en Metacritic",
+            "summary": "El radar de BluePoint incorpora la pagina de criticas de Saros en Metacritic como indice de seguimiento, con medios como GameSpew, Player 2, PlayStation Universe, VGC, Eurogamer Germany y WellPlayed entre las fuentes a vigilar.",
+            "body": [
+                "Saros pasa a una nueva fase de seguimiento editorial: ya no basta con mirar la pagina oficial de PlayStation, tambien conviene observar la conversacion critica alrededor del juego. Metacritic funciona aqui como indice para localizar medios que han publicado valoraciones y analisis.",
+                "Entre las fuentes detectadas aparecen medios especializados como GameSpew, Loot Level Chill, Player 2, PlayStation Universe, VGC, Eurogamer Germany, WellPlayed, Region Free y GameOver.gr. La lectura correcta no es copiar notas, sino usarlas como senal para revisar argumentos, puntos fuertes y dudas compartidas.",
+                "Para BluePoint, esto abre dos lineas de contenido: una pieza de contexto sobre que esta valorando la critica en Saros y otra de seguimiento para fans de Housemarque, especialmente por la comparacion inevitable con Returnal.",
+                "La regla editorial sera clara: Metacritic sirve como mapa de fuentes, pero cada dato de review debe contrastarse con el medio original cuando se use para una noticia concreta. Asi evitamos titulares vacios y mantenemos la informacion fiel."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "Saros",
+                "Reviews",
+                "Metacritic",
+                "Housemarque",
+                "PS5",
+                "Exclusivos"
+            ],
+            "source": "Metacritic / medios especializados",
+            "url": "https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5",
+            "detectedAt": "2026-06-03T12:20:00+02:00",
+            "publishedAt": "2026-06-03T12:20:00+02:00",
+            "confidence": "Seguimiento de criticas; usar Metacritic como indice y contrastar con cada medio",
+            "image": {
+                "url": "https://gmedia.playstation.com/is/image/SIEPDC/saros-video-hero-mobile-thumb-01-en-23oct25?$1200px$",
+                "alt": "Arte oficial de Saros para PS5",
+                "kind": "photo",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/saros/"
+            }
+        },
+        {
+            "id": "ps-plus-state-of-play-junio-catalogo-clasicos",
+            "title": "PS Plus gana peso tras el State of Play con nuevas llegadas al catalogo y clasicos",
+            "summary": "La cobertura del State of Play deja tambien movimiento para PS Plus, con nuevas incorporaciones al catalogo y al bloque de clasicos que refuerzan el servicio durante junio.",
+            "body": [
+                "El State of Play no solo dejo anuncios de juegos nuevos: tambien hubo movimiento para PS Plus. Ese punto es importante porque el servicio funciona como una segunda portada para PlayStation, capaz de traer jugadores de vuelta aunque no haya compra de lanzamiento.",
+                "La seleccion mencionada durante la cobertura del evento combina catalogo moderno y clasicos, una mezcla que ayuda a sostener tanto PS Plus Extra como Premium. Para los usuarios, el valor esta en tener novedades reconocibles y rescates historicos dentro del mismo mes.",
+                "Desde el punto de vista editorial, PS Plus debe tratarse como una seccion recurrente y no como una nota aislada. Cada tanda mensual puede generar guia rapida, recomendacion de que jugar primero y recordatorio de fechas de entrada o salida.",
+                "Para BluePoint, la lectura es sencilla: si PlayStation quiere mantener conversacion entre grandes lanzamientos, PS Plus es una de las mejores herramientas. Conviene vigilar cada anuncio oficial y transformarlo en piezas utiles para el lector."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS Plus",
+                "PlayStation Plus",
+                "State of Play",
+                "PS5"
+            ],
+            "source": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
+            "detectedAt": "2026-06-03T12:20:00+02:00",
+            "publishedAt": "2026-06-02T23:10:00+02:00",
+            "confidence": "Resumen de anuncios del State of Play en PlayStation Blog",
+            "image": {
+                "url": "https://blog.playstation.com/tachyon/2026/06/35782cc3ce6947f374ee128c62052a655a8cdb64-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+                "alt": "Imagen oficial del resumen del State of Play de junio",
+                "kind": "photo",
+                "credit": "PlayStation Blog",
+                "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            }
+        }
+    ]
 }
