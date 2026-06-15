@@ -1,153 +1,273 @@
 {
-  "updatedAt": "2026-06-03T00:00:00+02:00",
-  "focus": "PlayStation, PS5, PlayStation Studios, PS Plus, State of Play, exclusivos, rumores y guias",
-  "rules": [
-    "Usar fuentes oficiales para confirmaciones: PlayStation Blog, PlayStation.com, Sony Interactive Entertainment y canales oficiales.",
-    "Usar medios especializados para contexto, analisis y seguimiento editorial.",
-    "Usar insiders solo para rumores claramente marcados como rumor o filtracion.",
-    "Para criticas y notas, usar Metacritic como indice de descubrimiento y enlazar tambien al medio que publica la review cuando sea posible."
-  ],
-  "official": [
-    {
-      "name": "PlayStation Blog",
-      "url": "https://blog.playstation.com/",
-      "useFor": ["confirmaciones", "State of Play", "PS Plus", "trailer oficial"]
-    },
-    {
-      "name": "PlayStation.com",
-      "url": "https://www.playstation.com/",
-      "useFor": ["paginas oficiales de juegos", "lanzamientos", "caracteristicas PS5"]
-    },
-    {
-      "name": "Sony Interactive Entertainment",
-      "url": "https://sonyinteractive.com/",
-      "useFor": ["comunicados corporativos", "PlayStation Studios", "estrategia"]
-    },
-    {
-      "name": "PlayStation Studios",
-      "url": "https://www.playstation.com/en-us/corporate/playstation-studios/",
-      "useFor": ["estudios first party", "exclusivos"]
-    }
-  ],
-  "playstationNews": [
-    {
-      "name": "Push Square",
-      "url": "https://www.pushsquare.com/",
-      "useFor": ["noticias PS5", "reviews", "PS Plus", "rumores prudentes"]
-    },
-    {
-      "name": "PlayStation Universe",
-      "url": "https://www.psu.com/",
-      "useFor": ["noticias PS5", "reviews", "guias", "exclusivos"]
-    },
-    {
-      "name": "VGC",
-      "url": "https://www.videogameschronicle.com/",
-      "useFor": ["industria", "exclusivos", "rumores con verificacion"]
-    },
-    {
-      "name": "Gematsu",
-      "url": "https://www.gematsu.com/",
-      "useFor": ["anuncios", "trailer", "fechas", "juegos japoneses"]
-    },
-    {
-      "name": "Kotaku",
-      "url": "https://kotaku.com/",
-      "useFor": ["noticias", "contexto editorial", "industria"]
-    },
-    {
-      "name": "MeriStation",
-      "url": "https://as.com/meristation/",
-      "useFor": ["noticias en espanol", "rumores", "guias", "reviews"]
-    },
-    {
-      "name": "LevelUp",
-      "url": "https://www.levelup.com/",
-      "useFor": ["noticias en espanol", "PlayStation", "industria"]
-    }
-  ],
-  "sonyPublishedGamesRadar": [
-    {
-      "name": "Metacritic - Sony Interactive Entertainment",
-      "url": "https://www.metacritic.com/company/sony-interactive-entertainment/",
-      "useFor": ["juegos publicados por Sony", "metascore", "ano de lanzamiento", "catalogo PS5"],
-      "priority": "alta"
-    },
-    {
-      "name": "Metacritic - PlayStation Studios",
-      "url": "https://www.metacritic.com/company/playstation-studios/",
-      "useFor": ["juegos first party", "metascore", "reviews", "PlayStation Studios"],
-      "priority": "alta"
-    }
-  ],
-  "sarosReviewRadar": [
-    {
-      "name": "Metacritic - Saros critic reviews PS5",
-      "url": "https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5",
-      "useFor": ["indice de reviews", "seguimiento de nota media", "descubrir medios que han calificado Saros"],
-      "priority": "alta"
-    },
-    {
-      "name": "GameSpew",
-      "url": "https://www.gamespew.com/",
-      "useFor": ["review de Saros", "analisis de accion PS5"],
-      "priority": "alta"
-    },
-    {
-      "name": "Loot Level Chill",
-      "url": "https://lootlevelchill.com/",
-      "useFor": ["review de Saros", "contexto de critica"],
-      "priority": "alta"
-    },
-    {
-      "name": "Player 2",
-      "url": "https://www.player2.net.au/",
-      "useFor": ["review de Saros", "analisis externo"],
-      "priority": "alta"
-    },
-    {
-      "name": "PlayStation Universe",
-      "url": "https://www.psu.com/",
-      "useFor": ["review de Saros", "seguimiento PlayStation"],
-      "priority": "alta"
-    },
-    {
-      "name": "VGC",
-      "url": "https://www.videogameschronicle.com/",
-      "useFor": ["review de Saros", "contexto de industria"],
-      "priority": "media"
-    },
-    {
-      "name": "WellPlayed",
-      "url": "https://www.well-played.com.au/",
-      "useFor": ["review de Saros", "opinion critica"],
-      "priority": "media"
-    },
-    {
-      "name": "Eurogamer Germany",
-      "url": "https://www.eurogamer.de/",
-      "useFor": ["review de Saros", "perspectiva europea"],
-      "priority": "media"
-    },
-    {
-      "name": "Region Free",
-      "url": "https://regionfree.com/",
-      "useFor": ["review de Saros", "analisis complementario"],
-      "priority": "media"
-    },
-    {
-      "name": "GameOver.gr",
-      "url": "https://www.gameover.gr/",
-      "useFor": ["review de Saros", "perspectiva europea"],
-      "priority": "media"
-    }
-  ],
-  "rumorSources": [
-    {
-      "name": "eSnicho en X",
-      "url": "https://x.com/eSnicho",
-      "useFor": ["rumores", "filtraciones", "pistas"],
-      "rule": "No presentar como confirmacion; contrastar con fuentes oficiales o medios reconocidos."
-    }
-  ]
+    "updatedAt":  "2026-06-15T13:30:00+02:00",
+    "focus":  "PlayStation, PS5, PlayStation Studios, PS Plus, State of Play, exclusivos, rumores y guias",
+    "rules":  [
+                  "Usar fuentes oficiales para confirmaciones: PlayStation Blog, PlayStation.com, Sony Interactive Entertainment y canales oficiales.",
+                  "Usar medios especializados para contexto, analisis y seguimiento editorial.",
+                  "Usar insiders solo para rumores claramente marcados como rumor o filtracion.",
+                  "Para criticas y notas, usar Metacritic como indice de descubrimiento y enlazar tambien al medio que publica la review cuando sea posible."
+              ],
+    "official":  [
+                     {
+                         "name":  "PlayStation Blog",
+                         "url":  "https://blog.playstation.com/",
+                         "useFor":  [
+                                        "confirmaciones",
+                                        "State of Play",
+                                        "PS Plus",
+                                        "trailer oficial"
+                                    ]
+                     },
+                     {
+                         "name":  "PlayStation.com",
+                         "url":  "https://www.playstation.com/",
+                         "useFor":  [
+                                        "paginas oficiales de juegos",
+                                        "lanzamientos",
+                                        "caracteristicas PS5"
+                                    ]
+                     },
+                     {
+                         "name":  "Sony Interactive Entertainment",
+                         "url":  "https://sonyinteractive.com/",
+                         "useFor":  [
+                                        "comunicados corporativos",
+                                        "PlayStation Studios",
+                                        "estrategia"
+                                    ]
+                     },
+                     {
+                         "name":  "PlayStation Studios",
+                         "url":  "https://www.playstation.com/en-us/corporate/playstation-studios/",
+                         "useFor":  [
+                                        "estudios first party",
+                                        "exclusivos"
+                                    ]
+                     },
+                     {
+                         "name":  "PlayStation Support - Important Notices",
+                         "url":  "https://www.playstation.com/en-us/support/important-notice/",
+                         "useFor":  [
+                                        "cambios de servicio",
+                                        "cierres",
+                                        "avisos oficiales de productos y juegos"
+                                    ]
+                     },
+                     {
+                         "name":  "PlayStation Store Deals",
+                         "url":  "https://store.playstation.com/pages/deals",
+                         "useFor":  [
+                                        "ofertas oficiales",
+                                        "promociones PS Store",
+                                        "seguimiento de rebajas digitales"
+                                    ]
+                     },
+                     {
+                         "name":  "This Month on PlayStation",
+                         "url":  "https://www.playstation.com/en-us/editorial/this-month-on-playstation/",
+                         "useFor":  [
+                                        "calendario mensual",
+                                        "lanzamientos proximos",
+                                        "guias oficiales del mes"
+                                    ]
+                     }
+                 ],
+    "playstationNews":  [
+                            {
+                                "name":  "Push Square",
+                                "url":  "https://www.pushsquare.com/",
+                                "useFor":  [
+                                               "noticias PS5",
+                                               "reviews",
+                                               "PS Plus",
+                                               "rumores prudentes"
+                                           ]
+                            },
+                            {
+                                "name":  "PlayStation Universe",
+                                "url":  "https://www.psu.com/",
+                                "useFor":  [
+                                               "noticias PS5",
+                                               "reviews",
+                                               "guias",
+                                               "exclusivos"
+                                           ]
+                            },
+                            {
+                                "name":  "VGC",
+                                "url":  "https://www.videogameschronicle.com/",
+                                "useFor":  [
+                                               "industria",
+                                               "exclusivos",
+                                               "rumores con verificacion"
+                                           ]
+                            },
+                            {
+                                "name":  "Gematsu",
+                                "url":  "https://www.gematsu.com/",
+                                "useFor":  [
+                                               "anuncios",
+                                               "trailer",
+                                               "fechas",
+                                               "juegos japoneses"
+                                           ]
+                            },
+                            {
+                                "name":  "Kotaku",
+                                "url":  "https://kotaku.com/",
+                                "useFor":  [
+                                               "noticias",
+                                               "contexto editorial",
+                                               "industria"
+                                           ]
+                            },
+                            {
+                                "name":  "MeriStation",
+                                "url":  "https://as.com/meristation/",
+                                "useFor":  [
+                                               "noticias en espanol",
+                                               "rumores",
+                                               "guias",
+                                               "reviews"
+                                           ]
+                            },
+                            {
+                                "name":  "LevelUp",
+                                "url":  "https://www.levelup.com/",
+                                "useFor":  [
+                                               "noticias en espanol",
+                                               "PlayStation",
+                                               "industria"
+                                           ]
+                            }
+                        ],
+    "sonyPublishedGamesRadar":  [
+                                    {
+                                        "name":  "Metacritic - Sony Interactive Entertainment",
+                                        "url":  "https://www.metacritic.com/company/sony-interactive-entertainment/",
+                                        "useFor":  [
+                                                       "juegos publicados por Sony",
+                                                       "metascore",
+                                                       "ano de lanzamiento",
+                                                       "catalogo PS5"
+                                                   ],
+                                        "priority":  "alta"
+                                    },
+                                    {
+                                        "name":  "Metacritic - PlayStation Studios",
+                                        "url":  "https://www.metacritic.com/company/playstation-studios/",
+                                        "useFor":  [
+                                                       "juegos first party",
+                                                       "metascore",
+                                                       "reviews",
+                                                       "PlayStation Studios"
+                                                   ],
+                                        "priority":  "alta"
+                                    }
+                                ],
+    "sarosReviewRadar":  [
+                             {
+                                 "name":  "Metacritic - Saros critic reviews PS5",
+                                 "url":  "https://www.metacritic.com/game/saros/critic-reviews/?platform=playstation-5",
+                                 "useFor":  [
+                                                "indice de reviews",
+                                                "seguimiento de nota media",
+                                                "descubrir medios que han calificado Saros"
+                                            ],
+                                 "priority":  "alta"
+                             },
+                             {
+                                 "name":  "GameSpew",
+                                 "url":  "https://www.gamespew.com/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "analisis de accion PS5"
+                                            ],
+                                 "priority":  "alta"
+                             },
+                             {
+                                 "name":  "Loot Level Chill",
+                                 "url":  "https://lootlevelchill.com/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "contexto de critica"
+                                            ],
+                                 "priority":  "alta"
+                             },
+                             {
+                                 "name":  "Player 2",
+                                 "url":  "https://www.player2.net.au/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "analisis externo"
+                                            ],
+                                 "priority":  "alta"
+                             },
+                             {
+                                 "name":  "PlayStation Universe",
+                                 "url":  "https://www.psu.com/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "seguimiento PlayStation"
+                                            ],
+                                 "priority":  "alta"
+                             },
+                             {
+                                 "name":  "VGC",
+                                 "url":  "https://www.videogameschronicle.com/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "contexto de industria"
+                                            ],
+                                 "priority":  "media"
+                             },
+                             {
+                                 "name":  "WellPlayed",
+                                 "url":  "https://www.well-played.com.au/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "opinion critica"
+                                            ],
+                                 "priority":  "media"
+                             },
+                             {
+                                 "name":  "Eurogamer Germany",
+                                 "url":  "https://www.eurogamer.de/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "perspectiva europea"
+                                            ],
+                                 "priority":  "media"
+                             },
+                             {
+                                 "name":  "Region Free",
+                                 "url":  "https://regionfree.com/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "analisis complementario"
+                                            ],
+                                 "priority":  "media"
+                             },
+                             {
+                                 "name":  "GameOver.gr",
+                                 "url":  "https://www.gameover.gr/",
+                                 "useFor":  [
+                                                "review de Saros",
+                                                "perspectiva europea"
+                                            ],
+                                 "priority":  "media"
+                             }
+                         ],
+    "rumorSources":  [
+                         {
+                             "name":  "eSnicho en X",
+                             "url":  "https://x.com/eSnicho",
+                             "useFor":  [
+                                            "rumores",
+                                            "filtraciones",
+                                            "pistas"
+                                        ],
+                             "rule":  "No presentar como confirmacion; contrastar con fuentes oficiales o medios reconocidos."
+                         }
+                     ]
 }

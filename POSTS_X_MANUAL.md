@@ -1,10 +1,46 @@
 # Posts manuales para X - BluePoint
 
-Generado: 2026-06-12T09:48:17.953Z
+Generado: 2026-06-15T08:15:48.152Z
 
 Copia cada bloque de texto en X. Los hashtags y enlaces ya van incluidos dentro del post.
 
-## 1. tomb-raider-legacy-of-atlantis-hands-on-junio-2026
+## 1. destruction-allstars-cierre-servicios-noviembre-2026
+
+
+Tipo: Servicio oficial
+Notas de fuente: Aviso oficial detectado el 2026-06-15; pendiente de credenciales para publicar.
+
+PlayStation fija el cierre total de Destruction AllStars para el 25 de noviembre. #PixelPopcorn #PlayStation #PS5 #Servicios
+
+Caracteres: 124
+Imagen sugerida: Imagen oficial de Destruction AllStars para la noticia de cierre de servicio en PS5
+Credito imagen: PlayStation
+
+## 2. ps-store-mid-year-deals-junio-2026-ps5
+
+
+Tipo: Ofertas / guia
+Notas de fuente: Promocion oficial confirmada y curada el 2026-06-15; pendiente de credenciales para publicar.
+
+PS Store activa Mid-Year Deals con rebajas potentes para PS5 y un radar claro hasta julio. #PixelPopcorn #PlayStation #PSStore #Ofertas
+
+Caracteres: 135
+Imagen sugerida: Imagen editorial de un mando DualSense para la promocion Mid-Year Deals de PS Store
+Credito imagen: Imagen editorial
+
+## 3. guia-ps5-semana-15-21-junio-2026-ps-plus-elliot-ufc6
+
+
+Tipo: Guia / calendario
+Notas de fuente: Guia semanal detectada el 2026-06-15; pendiente de credenciales para publicar.
+
+La semana de PS5 se ordena con Final Fantasy XVI en PS Plus, UFC 6 y The Adventures of Elliot. #PixelPopcorn #PlayStation #PSPlus #PS5
+
+Caracteres: 134
+Imagen sugerida: Imagen editorial de un mando para la guia semanal de PS5 y PS Plus de junio de 2026
+Credito imagen: Imagen editorial
+
+## 4. tomb-raider-legacy-of-atlantis-hands-on-junio-2026
 
 
 Tipo: Analisis / avance
@@ -16,7 +52,7 @@ Caracteres: 147
 Imagen sugerida: Imagen oficial del hands-on de Tomb Raider: Legacy of Atlantis para PS5
 Credito imagen: PlayStation Blog
 
-## 2. ps-plus-catalogo-junio-2026-final-fantasy-xvi-sonic-shadow
+## 5. ps-plus-catalogo-junio-2026-final-fantasy-xvi-sonic-shadow
 
 
 Tipo: Noticia confirmada
@@ -28,7 +64,7 @@ Caracteres: 145
 Imagen sugerida: Imagen oficial del catalogo de PS Plus de junio de 2026
 Credito imagen: PlayStation Blog
 
-## 3. gran-turismo-7-update-1-70-hypercars-le-mans
+## 6. gran-turismo-7-update-1-70-hypercars-le-mans
 
 
 Tipo: Noticia confirmada
@@ -40,7 +76,7 @@ Caracteres: 140
 Imagen sugerida: Imagen oficial de la actualizacion 1.70 de Gran Turismo 7
 Credito imagen: PlayStation Blog
 
-## 4. summer-game-fest-2026-hands-on-11-juegos-ps5
+## 7. summer-game-fest-2026-hands-on-11-juegos-ps5
 
 
 Tipo: Analisis / avance
@@ -52,7 +88,7 @@ Caracteres: 153
 Imagen sugerida: Imagen oficial del hands-on de Summer Game Fest 2026 con juegos de PS5
 Credito imagen: PlayStation Blog
 
-## 5. marvel-wolverine-state-of-play-gameplay-septiembre-2026
+## 8. marvel-wolverine-state-of-play-gameplay-septiembre-2026
 
 
 Tipo: Noticia confirmada
@@ -64,7 +100,7 @@ Caracteres: 144
 Imagen sugerida: Imagen oficial del State of Play con Marvel's Wolverine
 Credito imagen: PlayStation Blog
 
-## 6. state-of-play-junio-2026-lineup-riesgo-estetico-ps5
+## 9. state-of-play-junio-2026-lineup-riesgo-estetico-ps5
 
 
 Tipo: Noticia confirmada
@@ -76,7 +112,7 @@ Caracteres: 147
 Imagen sugerida: Imagen oficial del resumen de State of Play de junio de 2026
 Credito imagen: PlayStation Blog
 
-## 7. summer-game-fest-2026-16-juegos-ps5-playstation-blog
+## 10. summer-game-fest-2026-16-juegos-ps5-playstation-blog
 
 Slot sugerido: Dia 1 - 11:00
 Tipo: Noticia confirmada
@@ -88,7 +124,7 @@ Caracteres: 131
 Imagen sugerida: Imagen oficial del resumen de Summer Game Fest 2026 con juegos de PS5
 Credito imagen: PlayStation Blog
 
-## 8. ps-plus-junio-2026-grounded-darktide-nickelodeon-live
+## 11. ps-plus-junio-2026-grounded-darktide-nickelodeon-live
 
 
 Tipo: Noticia confirmada
@@ -100,7 +136,7 @@ Caracteres: 136
 Imagen sugerida: Imagen oficial de PS Plus junio 2026
 Credito imagen: PlayStation Blog
 
-## 9. xbox-pc-state-of-play-junio-2026-ps5-multiplataforma
+## 12. xbox-pc-state-of-play-junio-2026-ps5-multiplataforma
 
 
 Tipo: Noticia confirmada
@@ -112,7 +148,7 @@ Caracteres: 135
 Imagen sugerida: Imagen oficial del State of Play de junio
 Credito imagen: PlayStation Blog
 
-## 10. rumor-break-in-fairgames-haven-radar-junio-2026
+## 13. rumor-break-in-fairgames-haven-radar-junio-2026
 
 
 Tipo: Rumor / seguimiento
@@ -124,7 +160,7 @@ Caracteres: 123
 Imagen sugerida: Mando DualSense para radar de rumores PlayStation
 Credito imagen: Imagen editorial
 
-## 11. ps-store-mayo-2026-top-descargas-007-first-light
+## 14. ps-store-mayo-2026-top-descargas-007-first-light
 
 
 Tipo: Noticia confirmada
@@ -136,7 +172,7 @@ Caracteres: 113
 Imagen sugerida: Mando DualSense sobre una superficie iluminada para noticia de PS Store
 Credito imagen: Imagen editorial
 
-## 12. days-of-play-2026-ofertas-tramo-final
+## 15. days-of-play-2026-ofertas-tramo-final
 
 
 Tipo: Noticia confirmada
@@ -148,7 +184,7 @@ Caracteres: 134
 Imagen sugerida: Mando de videojuego iluminado para radar de ofertas PlayStation
 Credito imagen: Imagen editorial
 
-## 13. state-of-play-junio-2026-calendario-ps5-confirmado
+## 16. state-of-play-junio-2026-calendario-ps5-confirmado
 
 
 Tipo: Noticia confirmada
@@ -160,7 +196,7 @@ Caracteres: 126
 Imagen sugerida: Imagen oficial del resumen de State of Play de junio de 2026
 Credito imagen: PlayStation Blog
 
-## 14. silent-hill-townfall-ps5-septiembre
+## 17. silent-hill-townfall-ps5-septiembre
 
 
 Tipo: Noticia confirmada
@@ -172,7 +208,7 @@ Caracteres: 152
 Imagen sugerida: Imagen oficial de Silent Hill: Townfall para PS5
 Credito imagen: PlayStation Blog
 
-## 15. tomb-raider-legacy-atlantis-ps5-fecha
+## 18. tomb-raider-legacy-atlantis-ps5-fecha
 
 
 Tipo: Noticia confirmada
@@ -184,7 +220,7 @@ Caracteres: 132
 Imagen sugerida: Imagen oficial de Tomb Raider: Legacy of Atlantis para PS5
 Credito imagen: PlayStation Blog
 
-## 16. marvel-tokon-magneto-green-goblin-carnage
+## 19. marvel-tokon-magneto-green-goblin-carnage
 
 
 Tipo: Noticia confirmada
@@ -196,7 +232,7 @@ Caracteres: 129
 Imagen sugerida: Imagen oficial de MARVEL Tokon: Fighting Souls
 Credito imagen: PlayStation Blog
 
-## 17. saros-criticas-metacritic-ps5
+## 20. saros-criticas-metacritic-ps5
 
 
 Tipo: Seguimiento de criticas
@@ -208,7 +244,7 @@ Caracteres: 129
 Imagen sugerida: Arte oficial de Saros para PS5
 Credito imagen: PlayStation
 
-## 18. ps-plus-state-of-play-junio-catalogo-clasicos
+## 21. ps-plus-state-of-play-junio-catalogo-clasicos
 
 
 Tipo: Noticia confirmada
