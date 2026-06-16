@@ -1,14 +1,14 @@
 # Posts manuales para X - BluePoint
 
-Generado: 2026-06-16T13:08:45.252Z
+Generado: 2026-06-16T19:07:42.565Z
 
 Copia cada bloque de texto en X. Los hashtags y enlaces ya van incluidos dentro del post.
 
 ## 1. ps-plus-junio-2026-ya-activo-final-fantasy-xvi-gitaroo-man
 
-
+Slot sugerido: 1
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Plus activa hoy Final Fantasy XVI y Gitaroo Man mientras Sony escalona el resto del catalogo en tres mercados #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -20,7 +20,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Plus Extra marca 12 salidas para julio y deja una nueva lista de prioridad para PS5 #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -32,7 +32,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Servicio oficial
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PlayStation fija el cierre total de Destruction AllStars para el 25 de noviembre y mantiene caido su multijugador #PixelPopcorn #PlayStation #Destruction #Videojuegos
 
@@ -40,23 +40,11 @@ Caracteres: 166
 Imagen sugerida: Imagen oficial de Destruction AllStars para la noticia de cierre de servicio en PS5
 Credito imagen: PlayStation
 
-## 4. god-of-war-laufey-primer-semestre-2027-rumor-junio-2026
+## 4. assassins-creed-shadows-final-update-domains-ps5-junio-2026
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
-
-God of War Laufey apunta al primer semestre de 2027, pero hoy sigue siendo solo una ventana interna no confirmada #PixelPopcorn #PlayStation #Rumores #Videojuegos
-
-Caracteres: 162
-Imagen sugerida: Imagen de God of War Laufey para el rumor sobre su posible ventana de lanzamiento en PS5
-Credito imagen: Push Square
-
-## 5. assassins-creed-shadows-final-update-domains-ps5-junio-2026
-
-
-Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Assassin's Creed Shadows cierra su hoja de ruta en PS5 con Domains y una ultima mision gratuita #PixelPopcorn #PlayStation #Assassins #Videojuegos
 
@@ -64,11 +52,23 @@ Caracteres: 146
 Imagen sugerida: Imagen oficial de Assassin's Creed Shadows para la actualizacion final con Domains en PS5
 Credito imagen: PlayStation
 
+## 5. god-of-war-laufey-primer-semestre-2027-rumor-junio-2026
+
+
+Tipo: Noticia confirmada
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
+
+God of War Laufey apunta al primer semestre de 2027, pero hoy sigue siendo solo una ventana interna no confirmada #PixelPopcorn #PlayStation #Rumores #Videojuegos
+
+Caracteres: 162
+Imagen sugerida: Imagen de God of War Laufey para el rumor sobre su posible ventana de lanzamiento en PS5
+Credito imagen: Push Square
+
 ## 6. guia-ps5-semana-15-21-junio-2026-ps-plus-elliot-ufc6
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 La semana de PS5 del 15 al 21 de junio se ordena entre PS Plus, UFC 6 y The Adventures of Elliot #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -80,7 +80,7 @@ Credito imagen: Imagen editorial
 
 
 Tipo: Analisis / avance
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Tomb Raider: Legacy of Atlantis deja buenas sensaciones en su primer hands-on oficial para PS5 #PixelPopcorn #PlayStation #TombRaider #Videojuegos
 
@@ -92,7 +92,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Ofertas / guia
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Store activa Mid-Year Deals con rebajas potentes para PS5 y una nueva ventana util hasta julio #PixelPopcorn #PlayStation #PSStore #Videojuegos
 
@@ -104,7 +104,7 @@ Credito imagen: Imagen editorial
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Plus refuerza junio con Final Fantasy XVI, Sonic X Shadow Generations y mas catalogo para PS5 #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -116,7 +116,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Gran Turismo 7 recibe la actualizacion 1.70 con hypercars de Le Mans y nuevos eventos #PixelPopcorn #PlayStation #GranTurismo7 #Videojuegos
 
@@ -128,7 +128,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Destiny 2: Legacy Collection ya se puede descargar en PS Plus Extra y refuerza el tramo util de junio #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -140,7 +140,7 @@ Credito imagen: PlayStation
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 El calendario de PS5 para otono de 2026 se esta apretando y GTA 6 condiciona ya los movimientos del sector #PixelPopcorn #PlayStation #GTA6 #Videojuegos
 
@@ -152,7 +152,7 @@ Credito imagen: Push Square
 
 
 Tipo: Analisis / avance
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Summer Game Fest deja un segundo bloque util para PS5 con hands-on y detalles extra de 11 juegos #PixelPopcorn #PlayStation #SummerGameFest #Videojuegos
 
@@ -164,7 +164,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Marvel's Wolverine se coloca como gran ancla first party de PS5 tras el State of Play #PixelPopcorn #PlayStation #MarvelSWolverine #Videojuegos
 
@@ -176,7 +176,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 El State of Play refuerza la idea de una PS5 con catalogo mas arriesgado y reconocible #PixelPopcorn #PlayStation #MarvelSWolverine #Videojuegos
 
@@ -188,7 +188,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Plus de junio ya esta activo con Grounded, Darktide y Nickelodeon All-Star Brawl 2 #PixelPopcorn #PlayStation #PSPlus #Gaming
 
@@ -200,7 +200,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 El State of Play tambien deja una lectura multiplataforma importante para PS5 #PixelPopcorn #PlayStation #State #Videojuegos
 
@@ -212,7 +212,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Summer Game Fest deja otro empujon al calendario de PS5 con fechas, nuevas IP y un extra para PS Plus #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
@@ -224,7 +224,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Rumor
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Break In y Fairgames entran en el radar de rumores de PlayStation Studios #PixelPopcorn #PlayStation #Rumores #Gaming
 
@@ -236,7 +236,7 @@ Credito imagen: Imagen editorial
 
 
 Tipo: Ofertas / guia
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Days of Play encara su tramo final con descuentos en PS Plus, PS VR2 y accesorios #PixelPopcorn #PlayStation #DaysOfPlay #Gaming
 
@@ -248,7 +248,7 @@ Credito imagen: Imagen editorial
 
 
 Tipo: Guia / calendario
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 El State of Play deja un calendario PS5 cargado para septiembre y octubre #PixelPopcorn #PlayStation #SilentHill #Videojuegos
 
@@ -260,7 +260,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS5 recibe el firmware 26.04-13.40.00 con un parche pequeno, pero ya disponible en despliegue gradual #PixelPopcorn #PlayStation #0413 #Videojuegos
 
@@ -272,7 +272,7 @@ Credito imagen: Push Square
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 007 First Light domina las descargas de PS5 en mayo en PS Store #PixelPopcorn #PlayStation #PSStore #Videojuegos
 
@@ -284,7 +284,7 @@ Credito imagen: Imagen editorial
 
 
 Tipo: Seguimiento de criticas
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Saros entra en seguimiento de criticas con una recepcion muy fuerte en Metacritic #PixelPopcorn #PlayStation #Saros #Videojuegos
 
@@ -296,7 +296,7 @@ Credito imagen: PlayStation
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Tomb Raider: Legacy of Atlantis fija su lanzamiento en PS5 para febrero de 2027 #PixelPopcorn #PlayStation #TombRaider #Videojuegos
 
@@ -308,7 +308,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 Silent Hill: Townfall llegara a PS5 el 24 de septiembre con puzzles narrativos y terror psicologico #PixelPopcorn #PlayStation #SilentHill #Videojuegos
 
@@ -320,7 +320,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Noticia confirmada
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 MARVEL Tokon suma a Magneto, Green Goblin y Carnage a su plantilla de lucha #PixelPopcorn #PlayStation #MARVELTokon #Videojuegos
 
@@ -332,7 +332,7 @@ Credito imagen: PlayStation Blog
 
 
 Tipo: Servicio oficial
-Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T13:08:40.694Z.
+Notas de fuente: Texto listo para publicar; falta X_USER_ACCESS_TOKEN. Ultima revision: 2026-06-16T18:54:37.9976296Z.
 
 PS Plus gana peso tras el State of Play con nuevas llegadas al catalogo y clasicos #PixelPopcorn #PlayStation #PSPlus #Videojuegos
 
