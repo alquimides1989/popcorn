@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-06-15T21:10:00+02:00",
+    "updatedAt": "2026-06-16T10:45:00+02:00",
     "calendar": [
         {
             "date": "2026-06-16",
@@ -17,6 +17,15 @@
             "summary": "La tanda de junio del Game Catalog queda plenamente activa en Espana con Final Fantasy XVI y Gitaroo Man como ganchos principales.",
             "type": "PS Plus",
             "priority": "alta",
+            "source": "PlayStation Blog"
+        },
+        {
+            "date": "2026-06-16",
+            "label": "16 JUN",
+            "title": "Expira la extension de EA Sports FC 26 en los juegos mensuales de PS Plus",
+            "summary": "Days of Play mantuvo EA Sports FC 26 como Monthly Game ampliado hasta hoy, asi que conviene reclamarlo antes de que salga del bloque de junio.",
+            "type": "PS Plus",
+            "priority": "media",
             "source": "PlayStation Blog"
         },
         {
@@ -561,12 +570,12 @@
     "deals": [
         {
             "title": "PS Store - Mid-Year Deals",
-            "summary": "La promocion ya esta destacada en la pagina oficial de Deals y abre una ventana util para picks de compra en PS5 hasta comienzos de julio.",
+            "summary": "La promocion sigue destacada en la pagina oficial de Deals hasta el 1 de julio y Push Square ya ha dejado una guia con compras recomendables para PS5.",
             "cta": "Abrir Mid-Year Deals",
             "url": "https://store.playstation.com/pages/deals",
             "type": "Juegos digitales",
             "priority": "Alta",
-            "angle": "Conviene tratarla como radar vivo de ofertas y guia corta, no solo como una nota puntual de rebajas."
+            "angle": "Conviene tratarla como radar vivo de ofertas y guia practica, con picks editoriales que ayuden a separar gangas reales del ruido."
         },
         {
             "title": "FlexStrike wireless fight stick",
@@ -588,12 +597,12 @@
         },
         {
             "title": "PlayStation Plus",
-            "summary": "Radar de altas, salidas y promociones de Essential, Extra y Premium, con Final Fantasy XVI ya marcado como gancho principal de junio.",
+            "summary": "Radar de altas, salidas y promociones de Essential, Extra y Premium, ahora con Final Fantasy XVI y Destiny 2: Legacy Collection como ganchos mas claros del mes.",
             "cta": "Ver PS Plus",
             "url": "https://www.playstation.com/ps-plus/",
             "type": "Suscripcion",
             "priority": "Alta",
-            "angle": "Contenido recurrente mensual con alta intencion de busqueda y excelente encaje en guia rapida."
+            "angle": "Contenido recurrente mensual con alta intencion de busqueda y muy buen encaje para guias de acceso rapido y recomendaciones por valor."
         },
         {
             "title": "SSD compatibles PS5",
@@ -894,6 +903,27 @@
             "tags": [
                 "Guerrilla",
                 "Horizon",
+                "PS5"
+            ]
+        },
+        {
+            "title": "UNCHARTED: Legacy of Thieves Collection",
+            "year": 2022,
+            "studio": "Naughty Dog / Iron Galaxy",
+            "metascore": "87",
+            "status": "Remaster PS5",
+            "summary": "Coleccion remasterizada con Uncharted 4 y The Lost Legacy, reforzada por mejoras visuales, carga rapida y funciones del DualSense.",
+            "url": "https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/",
+            "scoreSource": "Metacritic",
+            "image": {
+                "url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
+                "alt": "Imagen oficial de UNCHARTED: Legacy of Thieves Collection",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/"
+            },
+            "tags": [
+                "Naughty Dog",
+                "Uncharted",
                 "PS5"
             ]
         },
@@ -1219,13 +1249,13 @@
             "metascore": "78",
             "status": "Remaster PS5",
             "summary": "Revision para PS5 del mundo abierto de Bend Studio.",
-            "url": "https://www.metacritic.com/game/days-gone-remastered/",
+            "url": "https://www.playstation.com/en-us/games/days-gone/",
             "scoreSource": "Metacritic",
             "image": {
-                "url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=1200&q=82",
-                "alt": "Imagen oficial o relacionada de Days Gone Remastered",
-                "credit": "Imagen editorial",
-                "sourceUrl": "https://www.metacritic.com/game/days-gone-remastered/"
+                "url": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1302/5453188f455facc3bee8fc154b46786dd89ef4d5a938f33b.png",
+                "alt": "Imagen oficial de Days Gone Remastered",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/days-gone/"
             },
             "tags": [
                 "Bend Studio",

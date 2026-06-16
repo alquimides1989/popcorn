@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-06-15T21:10:00+02:00",
+    "updatedAt": "2026-06-16T10:45:00+02:00",
     "items": [
         {
             "id": "god-of-war-laufey-primer-semestre-2027-rumor-junio-2026",
@@ -733,6 +733,68 @@
                 "kind": "photo",
                 "credit": "PlayStation Blog",
                 "sourceUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/"
+            }
+        },
+        {
+            "id": "destiny-2-legacy-collection-ps-plus-extra-junio-2026",
+            "title": "Destiny 2: Legacy Collection ya se puede descargar en PS Plus Extra y refuerza el tramo util de junio",
+            "summary": "PlayStation habia prometido esta incorporacion como bonus de Days of Play para el 9 de junio y Push Square confirmo despues que la Legacy Collection 2025 ya quedaba activa en PS Plus Extra.",
+            "body": [
+                "PlayStation ha convertido Days of Play en algo mas que una campana de descuentos. Entre los extras de servicio, Sony habia adelantado en su blog oficial que Destiny 2: Legacy Collection (2025) llegaria a PS Plus Extra y Premium el 9 de junio, y Push Square confirmo mas tarde ese mismo dia que la descarga ya estaba activa en la suscripcion.",
+                "La parte practica para el usuario de PS5 es potente: no se trata de una simple demo ni de una prueba temporal, sino de un paquete pensado para poner al dia a quien quiera volver a Destiny 2 o entrar tarde en el juego. Segun el repaso de Push Square, el lote incluye la base del juego y expansiones como The Final Shape, Lightfall, The Witch Queen, Beyond Light, Shadowkeep, Forsaken y varios dungeons clave.",
+                "Para BluePoint, esta noticia encaja mejor como servicio y guia rapida que como titular aislado. Ayuda a explicar que valor real gana el suscriptor hoy mismo y tambien permite enlazar contenidos utiles: por donde retomar la saga, que expansiones importan mas y que queda fuera del paquete.",
+                "Fuente: PlayStation Blog, Push Square y la ficha oficial de Destiny 2 en PlayStation."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS Plus",
+                "PS5",
+                "Servicios",
+                "Guias"
+            ],
+            "source": "PlayStation Blog / Push Square / PlayStation.com",
+            "url": "https://www.pushsquare.com/news/2026/06/bonus-ps-plus-extra-game-available-to-download-now",
+            "detectedAt": "2026-06-16T10:45:00+02:00",
+            "publishedAt": "2026-06-09T00:00:00+02:00",
+            "confidence": "La fecha y el bonus estaban anunciados por PlayStation; Push Square confirmo despues que la descarga quedaba activa",
+            "image": {
+                "url": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2700/67e26ca577583cd8189696baa2181bfc51820ecab1709869.png",
+                "alt": "Imagen oficial de Destiny 2 para la llegada de Legacy Collection a PS Plus Extra",
+                "kind": "photo",
+                "credit": "PlayStation",
+                "sourceUrl": "https://www.playstation.com/en-us/games/destiny-2/"
+            }
+        },
+        {
+            "id": "calendario-ps5-otono-2026-atasco-septiembre-octubre",
+            "title": "El calendario de PS5 para otono de 2026 se esta apretando y GTA 6 condiciona ya los movimientos del sector",
+            "summary": "Push Square ordena el bloqueo de fechas entre finales de agosto y octubre y plantea una lectura util para PlayStation: demasiados lanzamientos grandes intentando esquivar el 19 de noviembre de GTA 6.",
+            "body": [
+                "Una de las lecturas editoriales mas utiles tras State of Play y Summer Game Fest no viene de un anuncio nuevo, sino del atasco que estan formando juntos. Push Square repasa el calendario de PS5 entre finales de agosto y octubre y concluye que el otono de 2026 empieza a parecer una zona de trafico extremo para lanzamientos de peso.",
+                "La tesis del articulo es sencilla y bastante convincente: buena parte de las editoras estan intentando salir del radio de impacto de Grand Theft Auto 6, cuya fecha del 19 de noviembre sigue funcionando como referencia para mover estrenos hacia septiembre y octubre. Eso deja semanas especialmente densas para usuarios de PS5, con nombres ya conocidos en el radar de BluePoint como Marvel's Wolverine, Silent Hill: Townfall, Control Resonant, Onimusha: Way of the Sword, Ace Combat 8 o Phantom Blade Zero.",
+                "Esta no es una confirmacion de retrasos futuros, pero si un analisis util para ordenar expectativas. Si algun juego vuelve a moverse en verano, el contexto ya esta claro: no seria raro ver nuevos ajustes para evitar una saturacion que hoy mismo parece dificil de sostener.",
+                "Para BluePoint, la pieza sirve como articulo de calendario y como mapa de seguimiento. No vende humo, no adelanta anuncios inexistentes y ayuda a decidir que fechas merecen vigilancia especial durante las proximas semanas.",
+                "Fuente: Push Square."
+            ],
+            "category": "PlayStation",
+            "tags": [
+                "PS5",
+                "Calendario",
+                "Analisis",
+                "GTA 6",
+                "Lanzamientos"
+            ],
+            "source": "Push Square",
+            "url": "https://www.pushsquare.com/news/2026/06/the-ps5-release-schedule-for-fall-2026-is-now-beyond-a-joke",
+            "detectedAt": "2026-06-16T10:45:00+02:00",
+            "publishedAt": "2026-06-08T00:00:00+02:00",
+            "confidence": "Analisis editorial basado en fechas publicas ya anunciadas para PS5",
+            "image": {
+                "url": "https://images.pushsquare.com/dd87c5a940c62/large.jpg",
+                "alt": "Imagen editorial de Push Square para el analisis del calendario de PS5 en otono de 2026",
+                "kind": "photo",
+                "credit": "Push Square",
+                "sourceUrl": "https://www.pushsquare.com/news/2026/06/the-ps5-release-schedule-for-fall-2026-is-now-beyond-a-joke"
             }
         }
     ]
